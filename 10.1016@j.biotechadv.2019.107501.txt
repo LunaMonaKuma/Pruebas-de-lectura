@@ -1,0 +1,2071 @@
+Journal Pre-proof
+Fungal potential for the degradation of petroleum-based
+polymers: An overview of macro- and microplastics
+biodegradation
+
+Carmen Sánchez
+PII:
+
+S0734-9750(19)30201-0
+
+DOI:
+
+https://doi.org/10.1016/j.biotechadv.2019.107501
+
+Reference:
+
+JBA 107501
+
+To appear in:
+
+Biotechnology Advances
+
+Received date:
+
+1 August 2019
+
+Revised date:
+
+17 December 2019
+
+Accepted date:
+
+19 December 2019
+
+Please cite this article as: C. Sánchez, Fungal potential for the degradation of petroleumbased polymers: An overview of macro- and microplastics biodegradation, Biotechnology
+Advances (2019), https://doi.org/10.1016/j.biotechadv.2019.107501
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such
+as the addition of a cover page and metadata, and formatting for readability, but it is
+not yet the definitive version of record. This version will undergo additional copyediting,
+typesetting and review before it is published in its final form, but we are providing this
+version to give early visibility of the article. Please note that, during the production
+process, errors may be discovered which could affect the content, and all legal disclaimers
+that apply to the journal pertain.
+
+© 2019 Published by Elsevier.
+
+Journal Pre-proof
+FUNGAL POTENTIAL FOR THE DEGRADATION OF PETROLEUM-BASED
+POLYMERS: AN OVERVIEW OF MACRO- AND MICROPLASTICS BIODEGRADATION
+Carmen Sánchez
+Laboratory of Biotechnology, Research Centre for Biological Sciences, Universidad
+Autónoma de Tlaxcala, Ixtacuixtla, C.P. 90120, Tlaxcala, Mexico.
+Email: carmen.sanchezh@uatx.mx
+ABSTRACT
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Petroleum-based plastic materials as pollutants raise concerns because of their impact on
+the global ecosystem and on animal and human health. There is an urgent need to remove
+plastic waste from the environment to overcome the environmental crisis of plastic
+pollution. This review describes the natural and unique ability of fungi to invade substrates
+by using enzymes that have the capacity to detoxify pollutants and are able to act on
+nonspecific substrates, the fungal ability to produce hydrophobins for surface coating to
+attach hyphae to hydrophobic substrates, and hyphal ability to penetrate three dimensional
+substrates. Fungal studies on macro- and microplastics biodegradation have shown that
+fungi are able to use these materials as the sole carbon and energy source. Further
+research is required on novel isolates from plastisphere ecosystems, on the use of
+molecular techniques to characterize plastic-degrading fungi and enhance enzymatic
+activity levels, and on the use of omics-based technologies to accelerate plastic waste
+biodegradation processes. The addition of pro-oxidants species (photosensitizers) and the
+reduction of biocides and antioxidant stabilizers used in the plastic manufacturing process
+should also be considered to promote biodegradation. Interdisciplinary research and
+innovative fungal strategies for plastic waste biodegradation, as well as ecofriendly
+manufacturing of petroleum-based plastics, may help to reduce the negative impacts of
+plastic waste pollution in the biosphere.
+
+Jo
+
+Keywords: Biodegradation, fungi, fungal enzymes, petroleum-based plastics.
+
+1
+
+Journal Pre-proof
+1. INTRODUCTION
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+The market for petroleum-based plastic products has had a great expansion in industries
+such as the construction, automotive and packaging industries in the twentieth century
+(Lintsen et al., 2017). Plastic materials have been very successful due to their low cost and
+weight, as well as their versatility and durability, making them present in nearly every
+material used in human daily life (Andrady and Neal, 2009) (Table 1). The use of plastics
+has increased twenty fold since 1964, and it is expected to double by 2035 (Velis, 2014). It
+has been reported that the world’s synthetic plastic production will be approximately 1800
+million tons in 2050 (Gallo et al., 2018) and approximately 12,000 million metric tons of
+plastic waste will be in the environment by that year (Geyer et al., 2017;
+https://www.nature.com/articles/s41467-018-04565-2.pdf). Approximately 90% of the
+products made with plastic are used once and then discarded
+(https://www.nature.com/articles/s41467-018-04565-2.pdf). Therefore, the disposal of used
+plastic materials and plastic packaging materials has become a global concern due to their
+high recalcitrance resulting in their long persistence in the environment. It is estimated that
+the packaging sector constitutes 39.9% of the plastic market and approximately 42% of
+plastic waste within a city’s solid waste comes only from packing materials, such as
+polyethylene (PE) (Table 1) (Biron, 2013; Narancic and O’Connor, 2017). Plastic pollution
+is spread throughout the world’s oceans by prevailing winds and surface currents, with
+some of it ending up in the digestive system of marine animals, which finally affects human
+health (Eriksen et al., 2014; Quero and Luna, 2017). It has been estimated that almost 6.4
+million tons of waste is introduced into marine environments annually (Agamuthu, 2018). In
+terms of the global composition of marine litter, plastics account for 62.31%. Plastics also
+contribute 49% of the litter composition in the seafloor and 81% on the sea surface
+(Litterbase; https://litterbase.awi.de/). Plastics are differentiated according to their
+structural arrangements, physical properties and applications. They can be homopolymers
+or heteropolymers if they are derived from identical or different (but often similar) types of
+monomers, respectively (Table 1). Plastics are classified on the basis of their properties
+and the chemical structure of the polymer's backbone and side chains in thermoplastics
+(uncrosslinked plastics, which are recyclable) and thermosets (or duroplastics) (contain a
+high density of chemical crosslinks, which are not recyclable) (Eyerer, 2010;
+http://www.ilocis.org/documents/chpt77e.htm) (Fig. 1). Manufacturing petroleum-based
+plastics requires crude oil and natural gas (two components of crude petroleum) as raw
+materials (Fig. 2). Several operations are performed to refine the crude oil, such as
+distillation, followed by cracking to provide the intermediates to form different polymers
+through polymerization and/or polycondensation reactions (Eyerer, 2010;
+http://www.ilocis.org/documents/chpt77e.htm). Processing plastics into end products
+requires the addition of some additives, which also cause environmental pollution. For
+example, some plastic additives, such as plasticizers (e.g., phthalates), flame retardants
+antioxidants (e.g., boric acid, brominated ﬂame retardants), antioxidants and UV stabilizers
+(e.g., bisphenol A, butylated hydroxytoluene), heat stabilizers (e.g., cadmium and lead
+compounds), slip agents (e.g., fatty acid amides), curing agents (e.g.,
+diaminodiphenylmethane), biocides (e.g., arsenic compounds), pigments (e.g., cadmium
+compounds) and others are incorporated into thermoplastics to achieve the desired final
+functional properties (Hahladakis et al., 2018) (Fig. 2). The most produced thermoplastics
+2
+
+Journal Pre-proof
+
+-p
+
+ro
+
+of
+
+are high and low density polyethylene (HDPE and LDPE) and polypropylene (PP) (the
+polyolefins), followed by polyvinyl chloride (PVC) and polystyrene (PS)
+(http://www.ilocis.org/documents/chpt77e.htm). Plastic pollution in landfills causes visual
+derogation of the landscape, contamination of soils with small plastic particles, and the
+release of greenhouse gases and hazardous chemicals (Mudgal, 2011; de SouzaMachado et al., 2018) (Table 1). In addition, the presence of microplastics and
+nanoplastics in the environment is growing rapidly due to the global ubiquity of macroplastics and the technological developments of using new micro- and nanoplastic
+materials. These materials might have major chemical and physical impacts on the
+environment and human health because of their unique physiochemical micro- and
+nanoscale properties (Mattsson et al., 2015; Waring et al., 2018; Peiponen et al., 2019).
+Due to these concerns, there is a need to search for alternatives for cleaning up the
+environment. Bioremediation is considered the most desirable approach for eliminating
+many environmental pollutants. Bioremediation is an environmentally friendly and low-cost
+technology which can be undertaken on site since it involves natural processes (Das and
+Adholeya, 2012). In this sense, fungi have promising practical applications to remediate
+environments polluted by plastics using their powerful enzymes.
+
+re
+
+2. ABILITY OF FUNGI AS DEGRADERS OF COMPLEX POLYMERS
+
+Jo
+
+ur
+
+na
+
+lP
+
+Fungi constitute a large and diverse kingdom of eukaryotic organisms morphologically
+classiﬁed as yeasts, ﬁlamentous fungi, or dimorphic fungi. These organisms can be
+saprotrophs (decomposing dead material), obligated or opportunistic organisms
+(decomposers, mutualists or pathogens) (Schmit and Mueller, 2007; Črešnar and Petrič,
+2011). Fungi are found in different environments and some of them have evolved to adapt
+and grow even in terrestrial and marine environments under extreme conditions
+(Raghukumar, 2017). Most fungi are aerobic, but anaerobic fungi have been found in
+freshwater lakes, landﬁll sites, and the rumen of herbivores (Ivarsson et al., 2016). Fungi
+have the capacity to extend through substrates in their search for nutriments with their
+filamentous network structure, exploring and growing in places that are more difficult to
+reach for other microorganisms. Filamentous fungi are the most commonly classified
+species of fungi to date. These organisms have developed an extraordinary ability to adapt
+to changing environments and to tolerate several types of pollutants. They are able to
+break down and use these pollutants to grow or to make their chemical components
+available to other microorganisms. As a consequence, ﬁlamentous fungi play a crucial role
+in the degradation and mineralization of diverse environmental pollutants by catalyzing
+important chemical reactions (Črešnar and Petrič, 2011). Fungi are heterotrophic
+organisms that feed by absorbing nutrients from outside their cells. They release digestive
+enzymes by exocytosis outside of their hyphae, which break down macro and organic
+molecules into smaller organic compound to absorb them back up, releasing CO 2 and H2O
+under aerobic conditions (and CH4 under anaerobic conditions) if mineralization of the
+substrate occurs (Pathak and Navneet, 2017) (Fig. 3). Fungi have various extraordinary
+strategies to counteract numerous complex compounds, some of them pollutant and toxic
+substances (Olicón-Hernández et al., 2017). These strategies include a powerful
+enzymatic system, the ability of adsorption and the production of natural biosurfactants
+(i.e., hydrophobins), which enable them to use polymers (i.e., plastics) as a source of
+3
+
+Journal Pre-proof
+carbon and electrons, providing them with cellular materials and an energy source,
+respectively (Fig. 4).
+2.1. Intracellular and extracellular enzymatic systems
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Fungi have a machinery of unspecific enzymes able to catalyze diverse reaction
+mechanisms that make them highly convenient for pollutants degradation (e.g., petroleumbased polymers), which is possible due to their different mechanisms in combination with
+both their intracellular and extracellular enzymatic systems. The intracellular enzymatic
+system acts as an internal mechanism for detoxification and plays a major role in fungal
+adaptation (Jeon et al., 2016; Olicón-Hernández et al., 2017; Schwartz et al., 2018). This
+enzymatic system is mediated by the cytochrome P450 family (CYP) epoxidases (Phase I
+enzymes) and transferases (Phase II enzymes). Phase I and phase II enzymes include
+those enzymes involved in oxidation and conjugation reactions, respectively (Schwartz et
+al., 2018) (Fig. 4). CYP are a large family of enzymes and heme-containing
+monooxygenases (mainly) that are able to catalyze various enzymatic reactions (i.e. the
+metabolism of aliphatic, alicyclic, and aromatic molecules), resulting in epoxidation,
+hydroxylation, dealkylation, sulfoxidation, desulfuration, deamination, dehalogenation, and
+N-oxide reduction (Shin et al., 2018). Fungi possess more diverse CYP families than
+animals, plants, or bacteria (Shin et al., 2018). The evolutionary conserved (CYP51) and
+fungi-speciﬁc (CYP61 and CYP56) P450 enzymes are essential for primary metabolism,
+enabling the preservation of the hyphal wall integrity and the formation of the spore outer
+wall, respectively (Črešnar and Petrič, 2011). CYP isoforms are anchored in the
+membrane of the endoplasmic reticulum, having their active sites connected to both the
+cytosolic and membrane environments so they can accept substrates from both cellular
+surroundings (Šrejber et al., 2018). CYP contains three cofactors (NADPH+H+, FAD and
+heme) and two enzymes (NADPH:CYP reductase and cytochrome P-450 hydrolase) (Fig.
+4). Additionally, the extracellular enzymatic system consists of the hydrolytic system that
+produces hydrolases, which is responsible for polysaccharide degradation, and an
+extraordinary and unspecific oxidative system involved in the breakdown of complex
+structures (e.g., lignin degradation) (Sánchez, 2009). Hydroxylation can be considered a
+biotransformation approach for bioremediation processes since it increases the solubility of
+pollutants and therefore reduces the bioaccumulation potential (Olicón-Hernández et al.,
+2017). The unspecific oxidative system is formed mainly by nonspecific oxidoreductases,
+including enzymes such as class II peroxidases (manganese peroxidase, lignin peroxidase
+and versatile peroxidase), laccases, dye decolorizing peroxidases and unspeciﬁc
+peroxygenases. This oxidative system is able to oxidize a wide range of substrates and is
+a powerful tool for environmental cleaning. These enzymes transfer electrons from organic
+substrates to molecular oxygen (laccases) by oxidation-reduction reactions using H2O2 as
+an electron accepting co-substrate (class II peroxidases and dye peroxidases), or by
+epoxidation, aromatic peroxygenation and sulfoxidation, among others reactions
+(unspeciﬁc peroxygenases) (Karich et al., 2017). This enzymatic complex is produced
+mainly by wood-degrading fungi, such as basidiomycetes (Sánchez, 2009).
+2.2. Fungal production of hydrophobins
+
+4
+
+Journal Pre-proof
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Hydrophobins are surface hydrophobic proteins (70-350 amino acids in length) produced
+by fungi that contain eight cysteine residues and form four disulfide bridges in a conserved
+pattern (Wessels, 1996; Wösten and Scholtmeijer, 2015). These proteins are involved in
+the formation of aerial structures of filamentous fungi (such as hyphae, fruiting bodies, and
+spores) and in the attachment of hyphae to hydrophobic surfaces. However, the bacterial
+adhesion to the plastic surface depends on the physicochemical surface and bacterial
+properties rather than on biological processes (Artham et al. 2009; Urbanek et al., 2018).
+Lobelle and Cunliffe (2011) reported that bacteria can colonize plastic; however, there is
+no evidence of potential degradation during early attachment. Fungal hydrophobins selfassemble into amphipathic films (monolayers) on hydrophobic-hydrophilic interfaces
+(Wessels, 1996; Kulkarni et al., 2017; Wu et al., 2017). Based on their hydrophobic
+patterns, the morphology of the monolayers and their solubility in detergents,
+hydrophobins are divided in two classes. Class I hydrophobins are highly insoluble in
+aqueous solutions and form functional amyloid fibers organized in layers with rodlet
+morphology. Class II hydrophobins are soluble in aqueous dilutions of organic solvents
+and their monolayer lacks the rodlet morphology and is less stable (Wu et al., 2017).
+Several hydrophobins have been isolated from different fungi. Normally, each fungus
+contains a number of different hydrophobins (Table 2). These proteins represent an
+important tool for bioremediation purposes since they act as biosurfactants improving
+substrate mobility and they increase the bioavailability. It has been reported that the
+chemical structure of fungi biosurfactants involves, among other things, sophorolipids,
+glycolipids, protein-lipid/polysaccharide complexes, and glycolipoproteins (OlicónHernández et al., 2017). The extraordinary properties of hydrophobins (such as their
+strong adhesion, high surface activity and the formation of various self-assembled
+structures that are often highly insoluble) have allowed them to be used to promote the
+growth of cells on a hydrophobic surface for applications in medical implants. In fact, a
+hydrophobin coating can improve the growth and morphology of ﬁbroblasts on a plastic
+surface (e.g., polystyrene, Teflon, etc.) (Hektor and Scholtmeijer 2005; Pistelli et al., 2017).
+
+Jo
+
+3. DEGRADATION PROCESS OF PETROLEUM-BASED POLYMERS BY FUNGI
+3.1. Enzyme involved in the degradation of petroleum-based plastics
+Fungal degradation of polymers such as PP, PVC, polyethylene terephthalate (PET),
+polyesters and microplastics has been studied (Table 3). Primarily ascomycetes, followed
+by basidiomycetes and zigomycetes, have been found to be able to degrade petroleumbased plastics (Table 3). Plastic biodegradation processes can be evaluated through
+microbial growth and/or changes in the polymer itself. Fungal growth can be assessed
+mainly by enzyme assays, biochemical oxygen demand, biomass production and carbon
+dioxide production under aerobic conditions. The effects of fungi on the physiochemical
+properties of plastics include changes in the crystallinity, molecular weight, tensile
+properties, extent of fragmentation and functional groups found on the plastic surface
+(Restrepo-Flórez et al., 2014). The main techniques used to follow these changes are:
+Fourier transform infrared (FTIR) spectroscopy, scanning electron microscopy (SEM) and
+x-ray photoelectron spectrometry (XPS). Fungal growth causes a decrease (consumption)
+of carbonyl groups from the original oxidation products (e.g., esters, lactones and ketones)
+5
+
+Journal Pre-proof
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+(Ammala et al., 2011). The biodegradation and biodeterioration (break down in properties)
+of plastics by fungi have been demonstrated by several researchers. However, the
+enzymes that are involved in the processes have been investigated in only a very few
+studies (Table 3). For example, El-Morsy et al. (2017) demonstrated the protease,
+esterase and lipase production in polyurethane biodegradation with Monascus sp. strains.
+Russell et al. (2011) reported enhanced serine hydrolase activity of Pestalotiopsis
+microspore when it was grown on polyester polyurethane (impranil) as its sole carbon
+source. In addition, the ascomycetes Zalerion maritimum and Gloeophyllum trabeum were
+reported as able to degrade microplastics (Krueger et al., 2015; Paço et al., 2017). Ameen
+et al. (2015) found that a consortium of ascomycete strains were able to degrade LDPE,
+showing laccase, manganese peroxidase (MnP) and lignin peroxidase (LiP) activities
+(Table 3). It has been suggested that fungal enzymes are able to decrease the length of
+PE chains and that once this occurs, a metabolic pathway for the degradation of PE can
+be proposed (Restrepo-Flórez et al., 2014). It has been reported that in general, fungi are
+better degraders of PE and polyurethane than bacteria (Pathak and Navneet, 2017;
+Muhonja et al., 2018). On the other hand, the enzymes involved in PET degradation are
+typical serine hydrolases such as cutinases (EC 3.1.1.74), carboxylesterases (EC 3.1.1.1)
+and lipases (EC 3.1.1.3) (Danso et al., 2019). Among the reported microbial polyester
+hydrolases, cutinases and their homologues have shown the greatest potential for PET
+hydrolysis (Kawai et al., 2019). Liebminger et al. (2007) isolated polyesterase from
+Penicillium citrinum able to hydrolyze PET pellets. Ronkvist et al. (2009) found that
+Thermomyces (formerly Humicola) insolens and Fusarium solani had catalytic activities of
+cutinase when low-crystallinity (7%) PET films were used as substrates (Table 3).
+
+na
+
+3.2. Biodegradation pathways
+
+Jo
+
+ur
+
+Figure 5 shows a hypothetical biodegradation pathway for PE by Aspergillus terreus under
+aerobic conditions, which was developed based on previously identified intermediate
+compounds by GC-MS after incubation of 30 d (Balasubramanian et al., 2014). The
+proposed PE biodegradation pathway would begin with the activation of a MnP, enzyme
+with enhanced activity during PE biodegradation (Ameen et al., 2015). The catalytic active
+site of MnP includes aspartate (Asp179), glutamate (GluS5 and GluS9), a heme
+propionate, and two water molecules (one of them is a free water molecule)
+(Sundaramoorthy et al., 1994). The heme propionate has 2 propionate groups, one of
+them bound to a water molecule and the other bound to Mn 2+. The catalytic activity of the
+MnP (heme MnP) would start from free radicals in acidic conditions with optimal activity at
+pH 5 (Chandra et al., 2017) (a). During this step, the hydrogen peroxide, an oxidizing
+agent added to the culture medium, would be homolytically cleaved, generating two
+hydroxyl free radicals which would bind to Fe2+ and the hydrogen water of the heme MnP,
+respectively, and releasing a water molecule (a). As a result, hydroxy-ferryl center free
+radical and porphyrin π-cation free radical could be formed, and hydrogen in the hydroxyferryl center free radical would bind to the nitrogen of the porphyrin π-cation free radical to
+stabilize the molecule (b). The oxygen radical of the oxy-ferryl center free radical would
+oxidize Fe2+ to Fe3+, forming oxy-ferryl center. Additionally, a group propionate would bind
+to H+ of the hydroxyl group, oxidizing Mn2+ to Mn3+ and would form an oxy ferryl centerMnP free radical complex (c). PE would enter the active site of the heme MnP and the Mn
+free radical would react with PE, which would be broken down into small molecules, such
+6
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+as dodecane free radical, ethyl free radicals, alkanes (e.g., dodecane, nonadecane, etc.),
+and ethanol (e). Ethanol would be oxidized into acetic acid (f), which would enter into the
+Krebs cycle (g). Dodecane free radical would enter the MnP catalytic site (h) and would be
+oxidized to dodecane (i). Alternatively, dodecane free radical and dodecane would be
+subsequently oxidized to dodecanol (j), dodecanal (k) and dodecanoic acid (l), which
+would react with an ethyl free radical to form tetradecanoic acid (m). Tetradecanoic acid
+would react with CoA to form tetradecanoyl CoA (n), which would undergo β-oxidation to
+form acetyl-CoA units which would enter into the Krebs (o) (White and Rusell, 1994;
+Sundaramarthy et al. 1994; Balasubramanian et al. 2014). The substrate-free MnP would
+then have an unoccupied substrate-binding site (p), attracting another substrate molecule
+for a new catalytic cycle (q). On the other hand, cutinases possess a catalytic triad that is
+composed of a serine (Ser), a histidine (His), and an aspartate (Asp) residue (Martínez et
+al., 1992; Danso et al., 2019). They can also contain several disulfide bonds formed by
+cysteine residues, which promote thermal stability and specific binding to PET (Danso et
+al., 2019). Figure 6 shows a PET hypothetical biodegradation pathway by a cutinase of F.
+solani. The catalytic active site of this cutinase includes; Ser 120, Asp 175 and His 188
+(Martínez et al., 1992). The proposed PET biodegradation pathway would begin with the
+activation of two molecules of cutinase. The electrons from the oxygen of serine would
+react with the carbonyl group of PET (a), which would form a serine-terephatalate complex
+and two ether compounds (b). Alternatively, PET can be hydrolyzed by cutinase, which
+would be broken down into mono-(hydroxyethyl) terephthalate (MHET), bis-(hydroxyethyl)
+terephthalate (BHET), and terephthalic acid (TPA) (Han et al., 2017) (c). Oxygen of the
+ether compound would form a covalent bond with the hydrogen of histidine, which would
+undergo hydrolysis to form ethylene glycol (d). Ethylene glycol would be converted to a
+series of intermediates by oxidation to form glyoxylate, which would enter into the Krebs
+cycle (e). Serine-terephthalate complex and the Asp-His residue would be hydrolyzed
+using two water molecules (f). The oxygen from the serine would bind the hydrogen from
+the histidine (g) and two molecules of cutinase and TPA would be released (h). Cutinase
+molecules would begin a new catalytic cycle (i) and TPA would be hydrolyzed to cis-4,5dihydroxycyclohexan-1(6),2-diene-1,4-dicarboxylate (j), which would form catechol by
+decarboxylation (k). Catechol would be hydrolyzed to 2-hydroxymuconate semialdehyde
+(l), which would then be oxidized to 2-oxopent-4-enoate (m). This last compound would be
+converted to a series of intermediates by hydrolysis to form pyruvate (n) which would enter
+into the Krebs cycle (e).
+4. CONCLUDING REMARKS
+It can be concluded that petroleum-based plastics are necessary in human life and
+represent an ever increasing market. The development of diverse industrial sectors (e.g.,
+pharmaceutical) has resulted in the production of several plastic materials at micro and
+nano scale levels (microbeads and nanobeads). The pollution of macroplastics is an
+environmental crisis of great concern, but environmental pollution from micro and nano
+scale plastics is even more disturbing since it is possible to fight that what is visible but
+smaller plastics are a threat which cannot be seen. Therefore, there is an urgent need to
+provide an effective and harmless solution to plastic pollution. Several studies have been
+undertaken to determine the plastic biodegradation by fungi, however, very little is known
+7
+
+Journal Pre-proof
+
+-p
+
+ro
+
+of
+
+about the enzymes involved in the plastic biodegradation process and on the plastic
+biodegradation pathways. Fungi have a great potential for reducing the negative impacts
+of plastic pollution due to their specific characteristics, such as their enzymatic system with
+the capacity for pollutant detoxification and unspecificity of substrates, their ability to
+produce hydrophobin for surface coating to attach hyphae to hydrophobic substrates, and
+their cellular ability to penetrate three dimensional substrates. Future research should
+focus on novel isolates from plastisphere ecosystems (a new habitat that may host fungal
+strains able to use plastic polymers for growth), on the use of molecular tools to
+characterize plastic-degrading fungi and improve enzymatic activity levels, and on the use
+of omics technologies to accelerate plastic waste biodegradation processes. On the other
+hand, it is of crucial importance to balance the plastics formulation to promote plastic
+waste biodegradation; biocides and antioxidant stabilizers should be reduced or even
+eliminated (after all, 90% of the products made with plastic are used once and then
+discarded) and pro-oxidants (photo sensitizers) have to be incorporated into plastic
+manufacturing processes to promote biodegradation. Interdisciplinary investigations and
+innovative fungal strategies for plastic waste biodegradation, as well as ecofriendly
+manufacturing of petroleum-based plastics, may reduce plastic waste pollution and help to
+clean the biosphere.
+
+re
+
+ACKNOWLEDGEMENTS
+
+REFERENCES
+
+na
+
+lP
+
+The author thanks Dr. Ericka Santacruz-Juárez for her time and valuable help with Fig. 5
+and Fig. 6. The work in C. Sánchez’s lab has been supported by the Mexican Council for
+Science and Technology (CONACyT), current grant 1549 (Fronteras de la Ciencia).
+
+Jo
+
+ur
+
+Agamuthu, P., 2018. Marine debris, plastics, microplastics and nano-plastics: What next?.
+Waste. Manage. Res. 36, 869–871.
+Ali, M. I., Ahmed, S., Robson, G., Javed, I., Ali, N., Atiq, N., Hameed, A., 2013. Isolation
+and molecular characterization of polyvinyl chloride (PVC) plastic degrading fungal
+isolates. J. Basic. Microbiol. 54, 18–27.
+Ameen, F., Moslem, M., Hadi, S., Al-Sabri A. E., 2015. Biodegradation of low density
+polyethylene (LDPE) by mangrove fungi from the Red Sea Coast. Prog. Rubber. Plast. Re.
+31, 125–144.
+Ammala, A., Bateman, S., Dean, K., Petinakis, E., Sangwan, P., Wong, S., Yuan, Q., Yu,
+L., Patrick, C., Leong, K. H., 2011. An overview of degradable and biodegradable
+polyolefins. Prog. Polym. Sci. 36, 1015–1049.
+Andrady, A. L., Neal, M. A., 2009. Applications and social beneﬁts of plastics. Philos. T. R.
+Soc. B. 364, 1977–1984.
+Artham, T., Sudhakar, M., Venkatesan, R., Madhavan, N. C., Murty, K. V. G., Doble, M.,
+2009. Biofouling and stability of synthetic polymers in sea water. Int. Biodeterior.
+Biodegradation. 63, 884–890.
+Ásgeirsdóttir, S. A., Halsall, J. R., Casselton L. A., 1997. Expression of two closely linked
+hydrophobin genes of Coprinus cinereus is monokaryon-speciﬁc and down-regulated by
+the oid-1 mutation. Fungal Genet. Biol. 22, 54–63.
+8
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Ásgeirsdóttir S. A., de Vries, O. M. H., Wessels, J.G.H., 1998. Identiﬁcation of three
+diﬀerentially expressed Hydrophobins in Pleurotus ostreatus (oyster mushroom).
+Microbiology 144, 2961-2969.
+Askolin, S., Nakari-Setälä, T., Tenkanen, M., 2001. Overproduction, puriﬁcation, and
+characterization of the Trichoderma reesei Hydrophobin HFBI. Appl. Microbiol. Biotechnol.
+57, 124–130.
+Avérous, L., Pollet, E., 2012. Biodegradable polymers, in: Avérous, L., Pollet, E. (Eds.),
+Environmental Silicate Nano-Biocomposites, Springer, London, pp. 13–39.
+Babul, R. P., O’Connor, K., Seeram, R., 2013. Current progress on bio-based polymers
+and their future trends. Prog. Biomater. 2, 1–16.
+Balasubramanian, V., Natarajan, K., Rajeshkannan, V., Perumal, P., 2014. Enhancement
+of in vitro high-density polyethylene (HDPE) degradation by physical, chemical and
+biological treatments. Environ. Sci. Pollut. R. 21, 12549-12562.
+Biron, M., 2013. Thermosets and Composites. Technical Information for Plastics Users,
+Second ed. Elservier, Netherlands.
+Bodzay, B., Bánhegyi, G., 2016. Polymer waste: controlled breakdown or recycling?. Int J.
+Des. Sci. Technol. 22, 109–138.
+Brunner, I., Fischer, M., Rüthi, J., Stierli, B., Frey, B., 2018. Ability of fungi isolated from
+plastic debris floating in the shoreline of a lake to degrade plastics. PLoS One 13,
+e0202047.
+Carpenter, C. E., Mueller, R. J., Kazmierczak, P., Zhang, L., Villalon, D. K., Van Alfen, N.
+K., 1992. Effect of virus on accumulation of a tissue-speciﬁc cell surface protein of the
+fungus Cryphonectria (Endothia) parasitica, Mol. Plant. Microbe. Interact. 4, 55–61.
+Chandra, R., Kumar, V., Yadav, S., 2017. Extremophilic linginolytic enzymes, in: Sani, R.,
+Krishnaraj R., (Eds), Extremophilic Enzymatic Processing of Lignocellulosic Feedstocks to
+Bioenergy, Springer International, South Dakota, pp. 115–154.
+Črešnar, B., Petrič, Š., 2011. Cytochrome P450 enzymes in the fungal kingdom. BBAProteins. Proteom. 1814, 29–35.
+Curran, K., Strlič, M., 2015. Polymers and volatiles: Using VOC analysis for the
+conservation of plastic and rubber objects. Stud. Conserv. 60, 1–14.
+Danso, D., Chow, J., Streit, W. R., 2019. Plastics: Environmental and biotechnological
+perspectives on microbial degradation. Appl. Environ. Microbiol. 85(19), e01095-19.
+Das, M. P., Adholeya, A., 2012. Role of microorganisms in remediation of contaminated
+soil, in: Satyanarayana, T., Johri, B. N., Prakash, A., (Eds), Microorganisms in
+Environmental Management: Microbes and Environment. Dordrecht, Netherlands.
+Springer Science & Business Media, pp. 81–111.
+Das, M. P., Kumar S., 2014. Microbial deterioration of low density polyethylene by
+Aspergillus and Fusarium sp. Int. J. Chem. Tech. Res. 6, 299–305.
+de Souza-Machado, A. A., Kloas, W., Zarfl, C., Hempel, S., Rillig, M. C., 2018.
+Microplastics as an emerging threat to terrestrial ecosystems. Glob. Change. Biol. 24,
+1405–1416 .
+de Vries, O. M. H., Moore, S., Arntz, C., Wessels, J. G. H., Tudzynski, P., 1999.
+Identiﬁcation and characterization of a tri-partite hydrophobin from Claviceps fusiformis: A
+novel type of class II hydrophobin. Eur. J. Biochem. 262, 377–385.
+Deepika, S., Jaya, M. R., 2015. Biodegradation of low density polyethylene by microorganisms from garbage soil. J. Exp. Biol. Agric. Sci. 3, 15–21.
+9
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+El-Morsy, E. M., Hassan, H. M., Ahmed, E., 2017. Biodegradative activities of fungal
+isolates from plastic contaminated soils. Mycosphere 8, 1071–1087.
+Eriksen, M., Lebreton, L. C. M., Carson, H. S., Thiel, M., Moore, C. J., Borerro, J. C.,
+Galgani, F., Ryan, P. G., Reisser, J., 2014. Plastic pollution in the world’s oceans: More
+than 5 trillion plastic pieces weighing over 250,000 tons afloat at sea. PLoS One 9,
+e111913.
+Esmaeili, A., Pourbabaee, A. A., Alikhani, H. A., Shabani, F., Esmaeili, E., 2013.
+Biodegradation of low-density polyethylene (LDPE) by mixed culture of Lysinibacillus
+xylanilyticus and Aspergillus niger in soil. PLoS One 8, e71720.
+Eyerer, P., 2010. Plastics: Classification, characterization, and economic data. polymersopportunities and risks I, in: Bercelo, D., Kostianoy, A., (Eds.), The Handbook of
+Environmental Chemistry, Vol 11, Springer, Berlin, pp. 1–17.
+Gallo, F., Fossi, C., Weber, R., Santillo, D., Sousa, J., Ingram, I., Nadal, A., Romano, D.,
+2018. Marine litter plastics and microplastics and their toxic chemicals components: the
+need for urgent preventive measures. Environ. Sci. Eur. 30, 13–27.
+Geyer, R., Jambeck, J. R., Law, K. L. 2017. Production, use, and fate of all plastics ever
+made. Sci. Adv. 3, e1700782.
+Gironi, F., Piemonte, V., 2011. Bioplastics and petroleum-based plastics: Strengths and
+weaknesses. Energ. Source. Part A 33, 1949–1959.
+Hahladakis, J. N., Velis, C. A., Weber, R., Iacovidou, E., Purnell, P., 2018. An overview of
+chemical additives present in plastics: Migration, release, fate and environmental impact
+during their use, disposal and recycling. J. Hazard. Mater. 344, 179–199.
+Han, X., Liu, W., Huang, J. W., Ma, J., Zheng, Y., Ko, T. P., Xu, L., Cheng, Y. S., Chen, C.
+C., Guo, R.T., 2017. Structural insight into catalytic mechanism of PET hydrolase. Nature
+Communications. 8(1). doi:10.1038/s41467-017-02255-z
+Hektor, H. J., Scholtmeijer, K., 2005. Hydrophobins: proteins with potential. Curr. Opin.
+Biotech.16, 434–439.
+Hidalgo-Ruíz, V., Gutow, L., Thompson, R. C., Thiel, M., 2012. Microplastics in the marine
+environment: A review of the methods used for identification and quantification. Environ.
+Sci. Technol. 46, 3060–3075.
+Ivarsson, M., Schnürer, A., Bengtson, S., Neubeck, A., 2016. Anaerobic fungi: A potential
+source of biological H2 in the oceanic crust. Front. Microbiol. 7, 674.
+Jeon, H., Durairaj, P., Lee, D., Ahsan, M. M., Yun, H., 2016. Improved NADPH
+regeneration for fungal cytochrome P450 monooxygenase by co-expressing bacterial
+glucose dehydrogenase in resting-cell biotransformation of recombinant yeast. Microbiol.
+Biotechnol. J. 26, 2076–2086.
+Karich, A., Ullrich, R., Scheibner, K. Hofrichter, M., 2017. Fungal unspeciﬁc
+peroxygenases oxidize the majority of organic EPA priority pollutants. Front. Microbiol. 8,
+1463.
+Kawai, F., Kawabata, T., Oda, M., 2019. Current knowledge on enzymatic PET
+degradation and its possible application to waste stream management and other fields.
+Appl. Microbiol. Biotechnol. 103, 4253–4268.
+Khan, S., Nadir, S., Shah, Z. U., Shah, A. A., Karunarathna, S. C., Xu, J., Khan, A., Hasan,
+F., 2017. Biodegradation of polyester polyurethane by Aspergillus tubingensis. Environ.
+Pollut. 225, 469e480.
+
+10
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Krueger, M. C., Hofmann, U., Moeder, M. Schlosser, D., 2015. Potential of wood-rotting
+fungi to attack polystyrene sulfonate and its depolymerisation by Gloeophyllum trabeum
+via hydroquinone-driven Fenton chemistry. PLoS One 10, e0131773.
+Kubicek, C. P., Baker, S. E., Gamauf, C., Kenerley, C. M., Druzhinina, I. S., 2008.
+Purifying selection and birth-and-death evolution in the class II hydrophobin gene families
+of the ascomycete Trichoderma/Hypocrea. BMC. Evol. Biol. 8, 1471–2148.
+Kulkarni, S., Nene, S. Joshi, K., 2017. Production of hydrophobins from fungi. Process
+Biochem. 61, 1–11.
+Liebminger, S., Eberl, A., Sousa, F., Heumann, S., Fischer-Colbrie, G., Cavaco-Paulo, A.,
+Guebitz, G. M., 2007. Hydrolysis of PET and bis-(benzoyloxyethyl) terephthalate with a
+new polyesterase from Penicillium citrinum. Biocatal. Biotransformation 25, 171–177.
+Lintsen, H., Hollestelle, M., Hölsgens, R., 2017. The plastics revolution. How the
+Netherlands became a global player in plastics, Eindhoven: Stichting Historie der
+Techniek. https://www.polymers.nl/_asset/_public/News/First-instalment-The-PlasticsRevolution.pdf.
+Lobelle, D., Cunliffe, M., 2011. Early microbial biofilm formation on marine plastic debris.
+Mar. Pollut. Bull. 62, 197–200.
+Lugones, L. G., Wösten, H. A. B., Wessels, J. G. H., 1998. A hydrophobin (ABH3)
+secreted by the substrate mycelium of Agaricus bisporus (common white button
+mushroom). Microbiology 144, 2345–2353.
+Lugones, L. G., Bosscher, J. S., Scholtmeyer, K., de Vries, O. M. H., Wessels, J. G. H.,
+1996. An abundant hydrophobin (ABH1) forms hydrophobic rodlet layers in Agaricus
+bisporus fruiting bodies. Microbiology 142, 1321–1329.
+Mankel, A., Krause, K., Kothe, E., 2002. Identiﬁcation of a hydrophobin gene that is
+developmentally regulated in the ectomycorrhizal fungus Tricholoma terreum. Appl.
+Environ. Microbiol. 68, 1408–1413.
+Martinez, C., De Geus, P., Lauwereys, M., Matthyssens, G., Cambillau, C., 1992.
+Fusarium solani cutinase is a lipolytic enzyme with a catalytic serine accessible to solvent.
+Nature, 356, 615–618.
+Mattsson, K., Hansson, L. A., Cedervall, T., 2015. Nano-plastics in the aquatic
+environment. Environ. Sci-Proc. Imp. 17,1712–1721.
+Mey, G., Correia, T., Oeser, B., Kershaw, M. J., Garre, V., Arntz, C., Talbot, N- J.,
+Tudzynski, P., 2003. Structural and functional analysis of an oligomeric hydrophobin gene
+from Claviceps purpurea. Mol. Plant. Pathol. 4, 31–41.
+Mudgal, S. E. A., 2011. Plastic waste in the environment – Final report. European
+Commission´s Directorate-General Environment: Paris.
+Muhonja, C. N., Makonde, H., Magoma, G., Imbuga, M., 2018. Biodegradability of
+polyethylene by bacteria and fungi from Dandora dumpsite Nairobi-Kenya. PLoS One 13,
+e0198446.
+Munir, E., Harefa, R. S. M., Priyani, N., Suryanto, D., 2018. Plastic degrading fungi
+Trichoderma viride and Aspergillus nomius isolated from local landfill soil in Medan. IOP
+Conf. Ser.: Earth Environ. Sci. 126, 012145.
+Narancic, T., O’Connor, K. E., 2017. Microbial biotechnology addressing the plastic waste
+disaster. Microb. Biotechnol. 10, 1232–1235.
+Neuhof, T., Dieckmann, R., Druzhinina, I. S., Kubicek, C. P., Nakari-Setälä, T., Penttilä,
+M., von Döhren, H., 2007. Direct identiﬁcation of hydrophobins and their processing in
+Trichoderma using intact-cell MALDI-TOF MS. FEBS. J. 274, 841–852.
+11
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Nowak, B., Pająk, J., Łabużek, S., Rymarz, G., Talik, E., 2011. Biodegradation of
+poly(ethylene terephthalate) modified with polyester “Bionolle” by Penicillium funiculosum.
+Polimery 56, 35–44.
+Ojha, N., Pradhan, N., Singh, S., Barla, A., Shrivastava, A., Khatua, P., Rain, V., Bose, S.,
+2017. Evaluation of HDPE and LDPE degradation by fungus, implemented by statistical
+optimization. Sci. Rep. 7, 39515.
+Olicón-Hernández, D. R., González-López, J. Aranda, E., 2017. Overview on the
+biochemical potential of filamentous fungi to degrade pharmaceutical compounds. Front.
+Microbiol. 8, 1792.
+Paço, A., Duarte, K., da Costa, J. P., Santos, P. S. M., Pereira, R., Pereira, M. E., Freitas,
+A. C., Duarte, A. C., Rocha-Santos, T. A. P., 2017. Biodegradation of polyethylene
+microplastics by the marine fungus Zalerion maritimum. Sci. Total. Environ. 586, 10–15.
+Paris, S., Debeaupuis, J.-P., Crameri, R., Carey, M., Charles, F., Prevost, M. C., Schmitt,
+C., Philippe, B., Latge, J. P., 2003. Conidial hydrophobins of Aspergillus fumigatus. Appl.
+Environ. Microbiol. 69, 1581–1588.
+Pathak, V. M. Navneet., 2017. Review on the current status of polymer degradation: a
+microbial approach. Bioresour. Bioprocess. 4, 15.
+Peiponen, K. E., Räty, J., Ishaq, U., Pélisset, S., Ali, R., 2019. Outlook on optical
+identification of micro- and nanoplastics in aquatic environments. Chemosphere 214, 424–
+429.
+Peñas M. M., Asgeirsdóttir, S. A., Lasa, I., Culiañez-Macià, F. A., Pisabarro, A. G.,
+Wessels, J. G., Ramírez, L., 1998. Identification, characterization, and In situ detection of
+a fruit-body-specific hydrophobin of Pleurotus ostreatus. Appl. Environ. Microbiol. 64,
+4028–4034.
+Peñas, M. M., Rust, B., Larraya, L. M., Ramirez, L., Pisabarro, A. G., 2002. Differentially
+regulated, vegetative-mycelium-specific hydrophobins of the edible basidiomycete
+Pleurotus ostreatus. Appl. Environ. Microbiol. 68, 3891–3898.
+Piscitelli, A., Cicatiello, P., Gravagnuolo, A. M., Sorrentino, I., Pezzella, C., Giardina, P.,
+2017. Applications of functional amyloids from fungi: Surface modification by class I
+hydrophobins. Biomolecules 7, 45–56.
+Quero, G. M., Luna, G. M., 2017. Surfing and dining on the “plastisphere”: Microbial life on
+plastic marine debris. Adv. Oceanogr. Limnol. 8, 199–207.
+Raghavendra, V. B., Uzma, M., Govindappa, M., Vasantha, R. A., Lokesh, S., 2016.
+Screening and identification of polyurethane (PU) and low density polyethylene (LDPE)
+degrading soil fungi isolated from municipal solid waste. Int. J. Curr. Res. 8, 34753–34761.
+Raghukumar, S., 2017. Fungi in Coastal and Oceanic Marine Ecosystems: Marine Fungi.
+Springer, Cham, Switzerland.
+Restrepo-Flórez J. M., Bassi A., Thompson, M. R., 2014. Microbial degradation and
+deterioration of polyethylene-A review. Int. Biodeterior. Biodegradation. 88, 83–90.
+Ronkvist, A. S. M., Xie, W., Lu, W., Gross, R. A., 2009. Cutinase-catalyzed hydrolysis of
+poly(ethylene terephthalate). Macromolecules. 42, 5128–5138.
+Russell, J. R., Huang, J., Anand, P., Kucera, K., Sandoval, A. G., Dantzler, K. W.,
+Hickman, D., Jee, J., Kimovec, F. M., Koppstein, D., Marks, D. H., Mittermiller, P. A.,
+Núñez, S. J., Santiago, M., Townes, M. A., Vishnevetsky, M., Williams, N. E., Vargas, M.
+P., Boulanger, L. A., Bascom-Slack, C., Strobel, S. A., 2011. Biodegradation of polyester
+polyurethane by endophytic fungi. Appl. Environ. Microbiol. 77, 6076–6084.
+12
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Sakhalkar, S., Mishra, R. L., 2013. Screening and identification of soil fungi with potential
+of plastic degrading ability. Indian J. Appl. Res. 3, 62–64.
+Sánchez, C., 2009. Lignocellulosic residues: biodegradation and bioconversion by fungi.
+Biotechnol. Adv. 27, 85–194.
+Sangale, M. K., Shahnawaz, M., Ade, A. B., 2019. Potential of fungi isolated from the
+dumping sites mangrove rhizosphere soil to degrade polythene. Sci. Rep. 9, 5390.
+Scherrer, S., De Vries, O. M. H., Dudler, R., Wessels, J. G. H., Honegger, R.,
+2000. Interfacial self-assembly of fungal hydrophobins of the lichen-forming ascomycetes
+Xanthoria parietina. Fungal. Genet. Biol. 30, 81–93.
+Schmit, J. P., Mueller, G. M., 2007. An estimate of the lower limit of global fungal diversity.
+Biodivers. Conserv. 16, 99–111.
+Schuren, F. H., Wessels, J. G., 1990. Two genes speciﬁcally expressed in fruiting
+dikaryons of Schizophyllum commune: homologies with a gene not regulated by matingtype genes. Gene. 90, 199–205.
+Schwartz, M., Perrot, T., Aubert, E., Dumarçay, S., Favier, F., Gérardin, P., Morel-Rouhier,
+M., Mulliert, G., Saiag, F., Didierjean, C., Gelhaye, E., 2018. Molecular recognition of wood
+polyphenols by phase II detoxification enzymes of the white rot Trametes versicolor. Sci.
+Rep. 8, 8472.
+Sepperumal, U., Markandan, M., Palraja, I., 2013. Micromorphological and chemical
+changes during biodegradation of polyethylene terephthalate (PET) by Penicillium sp. J.
+Microbiol. Biotechnol. Res. 3, 47–53.
+Shin, J., Kim, J. E., Lee, Y. W., Son, H., 2018. Fungal Cytochrome P450s and the P450
+complement (CYPome) of Fusarium graminearum. Toxins. 10, 112.
+Sindujaa, P., Padmapriya, M., Pramila R., Vijaya Ramesh, K., 2011. Bio-Degradation of
+low density polyethylene (LDPE) by fungi isolated from marine water. Res. J. Biol. Sci. 6,
+141–145.
+Singh, J., Gupta, K. C., 2014. Screening and identification of low density polyethylene
+(LDPE) degrading soil fungi isolated from polythene polluted sites around Gwalior city
+(M.P.). Int. J. Curr. Microbiol. App. Sci. 3, 443–448.
+Šrejber, M., Navrátilová, V., Paloncýová, M., Bazgier, V., Berka, K., Anzenbacher, P.,
+Otyepka, M., 2018. Membrane-attached mammalian cytochromes P450: An overview of
+the membrane’s effects on structure, drug binding, and interactions with redox partners. J.
+Inorg. Biochem. 183, 117–136.
+Sundaramoorthy, M., Kishi, K., Gold, M. H., Poulos, T. L., 1994. The crystal structure of
+manganese peroxidase from Phanerochaete chrysosporium at 2.06-Å resolution. J. Biol.
+Chem. 269, 32759–32767.
+Tachibana, K., Hashimoto, K., Yoshikawa, M., Okawa, H., 2010. Isolation and
+characterization of microorganisms degrading nylon 4 in the composted soil. Polym.
+Degrad. Stab. 95, 912–917.
+Templeton, M. D., Greenwood, D. R., Beever. R. E., 1995. Solubilization of Neurospora
+crassa rodlet proteins and identiﬁcation of the predominant protein as the proteolytically
+processed EAS (ccg-2) gene product. Exp. Mycol. 19, 166–169.
+Trembley, M. L., Ringli, C., Honegger, R., 2002. Diferential expression of hydrophobins
+DGH1, DGH2, DGH3 and immunolocalization of DGH1 in strata of the lichenized
+basidiocarp of Dictyonema glabratum, New Phytol. 154, 185–195.
+
+13
+
+Journal Pre-proof
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Urbanek, A. K., Rymowicz, W., Mirończuk, A. M., 2018. Degradation of plastics and
+plastic-degrading bacteria in cold marine habitats. Appl. Microbiol. Biotechnol. 102, 7669–
+7678.
+Velis, C. A., 2014. Global recycling markets - plastic waste: A story for one player – China.
+Report prepared by FUELogy and formatted by D-waste on behalf of International Solid
+Waste Association - Globalisation and Waste Management Task Force. ISWA, Vienna.
+Vivi, V. K., Martins-Franchetti, S. M., Attili-Angelis, D., 2019. Biodegradation of PCL and
+PVC: Chaetomium globosum (ATCC 16021) activity. Folia Microbiol. 64, 1–7.
+Waring, R. H., Harris, R. M., Mitchell, S. C., 2018. Plastic contamination of the food chain:
+A threat to human health? Maturitas 115, 64–68.
+Wessels, J. G. H., 1996. Fungal hydrophobins: proteins that function at an interface.
+Trends. Plant. Sci. 1, 9–15.
+Wessels, J. G. H., 1997. Hydrophobins: Proteins that change the nature of the fungal
+surface, in: Poole, R. K. (ed.), Advances in Microbial Physiology, Vol 38. Academic Press,
+London, pp. 1–45.
+White G.F., Russell N.J. (1994) Biodegradation of anionic surfactants and related
+molecules. in: Ratledge, C. (ed.), Biochemistry of Microbial Degradation. Springer,
+Dordrecht, pp.143-177.
+Wösten, H. A. B., Scholtmeijer, K., 2015. Applications of hydrophobins: current state and
+perspectives. Appl. Microbiol. Biotechnol. 99, 1587–1597.
+Wu, Y., Li J., Yang, H., Shin, H. J., 2017. Fungal and mushroom hydrophobins: A review.
+J. Mushrooms 15, 1–7.
+Yaguchi, M.; Pusztai-Carey, M.; Roy, C.; Surewicz, W.K.; Carey, P.R.; Stevenson, K.J.;
+Richards, W.C.; Takai, S., 1993. Amino acid sequence and spectroscopic studies of dutch
+elm disease toxin, cerato-ulmin, in Sticklen, M. B., Sherald, J.L. (eds), Dutch Elm Disease
+Research: Cellular and Molecular Approaches. Springer-Verlag, New York,152-170.
+Zahra, S., Abbas, S. S., Mahsa, M. T., Mohsen, N., 2010. Biodegradation of low-density
+polyethylene (LDPE) by isolated fungi in solid waste medium. Waste. Manage. 30, 396–
+401 (2010).
+Website References
+https://www.nature.com/articles/s41467-018-04565-2. The future of plastic (no author
+listed) (2018). Nat. Commun. 9(1), 2157. doi:10.1038/s41467-018-04565-2 (accessed on
+19 April 2019).
+http://www.ilocis.org/documents/chpt77e.htm. P.K. Law and T.J. Britton. Plastic industry
+Adapted from 3rd edition, Encyclopedia of Occupational Health and Safety (accessed on
+20 April 2019).
+https://litterbase.awi.de/litter_graph (accessed on 20 April 2019).
+FIGURE LEGENDS
+Fig. 1. Classiﬁcation and structure of petroleum based plastics. Plastics are classified as
+thermoplastics and thermosets (duroplastics). Thermoplastics are uncrosslinked plastics
+that can be softened by the application of heat (which makes them recyclable materials).
+Duroplastics, or thermosetting materials, are polymers that contain a high density of
+chemical crosslinks, resulting in a close-meshed crosslinking of macromolecules (which
+are not possible to recycle).
+14
+
+Journal Pre-proof
+Fig. 2. Schematic representation of the manufacturing of petroleum-based plastics with an
+example of a finished product. Manufacturing petroleum-based plastics requires crude oil
+and natural gas as raw materials. Several operations are performed to refine the crude oil,
+such as distillation, followed by cracking to provide intermediates to form different
+polymers (thermoplastics or thermosets) through polymerization and/or polycondensation
+reactions. Processing plastics into end products requires the addition of additives such as
+plasticizers, flame retardant antioxidants, antioxidants and UV stabilizers, heat stabilizers,
+curing agents, pigments, and others.
+
+ro
+
+of
+
+Fig. 3. General scheme of biodegradation of complex polymers (e.g., petroleum-based
+plastics) by a fungal cell (hypha). Fungi are heterotrophic organisms that feed by
+absorbing nutrients from outside their cells. In general, the hyphal structure can be
+organized into 4 zones: the apical growth zone, absorption zone, storage zone and
+senescence zone, each of them with a specific metabolic activity. Hyphae release
+digestive enzymes by exocytosis outside of hyphae, which break down macro and organic
+molecules into smaller organic compounds and absorb them back up, releasing CO 2 and
+H2O (the mineralization of a substrate under aerobic conditions).
+
+lP
+
+re
+
+-p
+
+Fig. 4. Schematic representation of fungal mechanisms for the degradation of complex
+polymers (e.g., petroleum-based plastics). These fungal mechanisms include a powerful
+intracellular and extracellular enzymatic system, the ability of adsorption, and the
+production of natural biosurfactants (i.e., hydrophobins), which enable them to use
+complex polymers as a source of carbon and electrons to provide cellular materials and an
+energy source, respectively.
+
+Jo
+
+ur
+
+na
+
+Fig. 5. A proposed catalytic cycle for the biodegradation of PE using the heme manganese
+peroxidase (heme MnP). The dashed line shows the compounds identified (acetic acid,
+dodecane, dodecanal and tretradecanoic acid) previously by GC-MS during PE
+biodegradation by A. terreus under aerobic conditions (Balasubramanian et al., 2014). The
+rest of the compounds shown in the biodegradation pathway were proposed based on
+previous reports (White and Rusell, 1994). The catalytic activity of the heme MnP starts
+from free radicals in acidic conditions. The PE hypothetical biodegradation pathway shows
+that MnP would eventually mineralize this polymer, generating a PE catalytic cycle.
+Fig. 6. A proposed catalytic cycle for the biodegradation of PET using a cutinase of F.
+solani. The catalytic active site of this cutinase includes; Ser 120, Asp 175 and His 188
+(Martínez et al., 1992). The proposed PET biodegradation pathway would begin with the
+activation of two molecules of cutinase by the electrons transfer from the hydrogen atom of
+histidine to the hydroxyl group of serine. The PET hypothetical biodegradation pathway
+shows that cutinase would eventually mineralize this polymer, generating a PET catalytic
+cycle.
+
+15
+
+Journal Pre-proof
+Table 1. Characteristics of some petroleum-based plastics, their impact as waste, their greenhouse gas emissions, and
+their main applications.
+
+Polymer type
+(common
+abbreviation)
+
+Structure
+
+R-group
+
+Global
+warming
+(Kg CO2
+eq/Kg)
+5.04
+
+Melting
+point (ᵒC)
+
+Volatile organic compounds
+
+Hydrogen
+
+Estimated plastic
+waste within
+municipal solid
+waste (%)
+23
+
+Low density
+polyethylene
+(LDPE)
+
+Homopolymer
+
+105- 115
+
+Unsaturated aliphatic
+hydrocarbons, aliphatic
+aldehydes
+
+High density
+polyethylene
+(HDPE)
+
+Homopolymer
+
+Hydrogen
+
+19
+
+4.84
+
+120- 130
+
+Polypropylene
+(PP)
+
+Homopolymer
+
+Methyl
+
+14
+
+*
+
+Polyethylene
+terephthalate
+(PET)
+
+Homopolymer
+
+Carbonyl
+and
+hydroxyl
+
+10
+
+Polystyrene (PS)
+
+Homopolymer
+
+Phenyl
+
+Polyvinyl chloride
+(PVC)
+
+Homopolymer
+
+Chlorine
+
+Jo
+9
+
+6
+
+Unsaturated aliphatic
+hydrocarbons, aliphatic
+aldehydes
+
+165
+
+Unsaturated and saturated
+aliphatic hydrocarbons
+
+4.93
+
+280
+
+Toluene, xylene, butylated
+hydroxytoluene
+
+5.98
+
+240
+
+Styrene, ethylbenzene,
+methylstyrene
+Styrene, ethylbenzene,
+pentane
+
+NA
+
+115- 245
+
+Chlorinate compounds, e.g., 1chlorobutane,
+1,1-dichloroacetone;
+plasticizers (frequently phthalic
+acid esters),
+(2-butoxy-ethoxy) ethanol,
+butoxyethanol,
+2-ethyl-hexanol, phenol, alkyl
+
+l
+a
+
+n
+r
+u
+
+ro
+
+p
+e
+
+r
+P
+
+f
+o
+
+16
+
+Application (examples)
+
+Packing: bags (e.g., for
+bread, frozen food,
+garbage), squeeze bottles,
+films, coating
+Packing: shopping bags,
+bottles (milk, juice,
+shampoo, detergent, etc.),
+cereal-box lines
+Construction: pipes
+Packing: bags, trays,
+recycle bins
+Others: automotive battery
+cases, carpets, fabric
+material
+Packing: bottles, food
+wrappers
+Construction: pipes
+Other: microwave trays
+Construction: flooring,
+insulation boards and
+frames
+Others: hangers, pencil
+boxes, cups, cosmetics.
+Packing: various
+containers and hard
+packing
+Construction: floors, pipes,
+panels, tubes, cables,
+binders
+Others: medical tubing and
+bags
+
+Journal Pre-proof
+Polyamide (PA)
+(nylon)
+
+Homopolymer
+
+Amide
+
+*
+
+7.64
+
+190, 276
+
+Polyurethane
+(PU)
+
+Heteropolymer
+
+Isocyanate
+and polyol
+
+*
+
+NA
+
+400
+
+benzenes
+ε-caprolactam
+Cyclopentanone,
+hexamethylenediamine
+Depending on the type (e.g.,
+Carboxylic, ether and glycol
+ether, diisocyanates, hydrogen
+cyanide, aromatic amines,
+chlorinated phosphoric acid
+esters as flame protection
+agents)
+
+f
+o
+
+Fiber manufacturing
+
+Packing materials
+Others: fibers, foams,
+paints, coating
+
+NA; Not available
+*; 19%, including PA, PU and other plastics.
+References: Gironi and Piemonte, 2011; Hidalgo-Ruíz et al., 2012; Avérous and Pollet, 2012; Babul et al., 2013; Biron,
+2013; Curran and Strlič, 2015; Pathak and Navneet, 2017; Bodzay and Bánhegyi, 2016.
+
+l
+a
+
+e
+
+o
+r
+p
+
+r
+P
+
+n
+r
+u
+
+Jo
+
+17
+
+Journal Pre-proof
+
+Fungal taxa
+
+Hydrophobin
+
+Class
+
+Agaricus
+bisporus
+
+Basidiomycota
+
+ABH1
+
+I
+
+Molecular Reference
+weight
+(kDa)
+16
+Lugones et al., 1996
+
+Aspergillus
+fumigatus
+Claviceps
+fusiformis
+
+Ascomycota
+
+ABH3
+Rod A
+
+I
+I
+
+19
+16
+
+Lugones et al., 1998
+Paris et al., 2003
+
+Ascomycota
+
+CFTH1
+
+II
+
+36.5
+
+de Vries et al., 1999
+
+Claviceps
+purpurea
+
+Ascomycota
+
+CPPH1
+
+II
+
+70
+
+Mey et al., 2003
+
+Coprinus
+cinereus
+
+Basidiomycota
+
+CoH1
+
+I
+
+10
+
+Ásgeirsdóttir et al.,
+1997
+
+Cryphonectria
+parasitica
+Dictyonema
+glabratum
+
+Ascomycota
+
+Cryparin
+
+II
+
+18.6
+
+Carpenter et al., 1992
+
+Basidiomycota
+
+DGH2
+
+I
+
+14
+
+Trembley et al., 2002
+
+Neurospora
+crassa
+Ophiostoma Ulmi
+Pleurotus
+ostreatus var.
+florida
+Pleurotus
+ostreatus
+
+Ascomycota
+
+EAS
+
+I
+
+7
+
+Templeton et al., 1995
+
+Ascomycota
+Basidiomycota
+
+Cerato-ulmin
+Fbh-1
+
+II
+II
+
+7.6
+12
+
+Yaguchi et al., 1993
+Peñas et al., 1998
+
+Basidiomycota
+
+POH1
+
+I
+
+15
+
+Asgeirsddttir et al.,
+1998
+
+Pleurotus
+ostreatus
+
+Basidiomycota
+
+POH2
+
+I
+
+20
+
+Asgeirsddttir et al.,
+1998
+
+Basidiomycota
+
+POH3
+
+I
+
+10
+
+Basidiomycota
+
+Vmh1 and
+Vmh2
+
+nd
+
+9
+
+Asgeirsddttir et al.,
+1998
+Peñas et al., 2002
+
+Basidiomycota
+
+Vmh3
+
+nd
+
+17
+
+Peñas et al., 2002
+
+Ascomycota
+
+HFBI
+
+II
+
+7.5
+
+Askolin et al., 2001;
+Kubicek et al., 2008;
+
+Pleurotus
+ostreatus
+Pleurotus
+ostreatus var.
+florida
+Pleurotus
+ostreatus var.
+florida
+Trichoderma
+reseesi
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+of
+
+Fungus
+
+ro
+
+Table 2. Hydrophobins isolated from some ascomycetes and basidiomycetes.
+
+Ascomycota
+
+HFBII and
+HFBIII
+
+II
+
+7.2
+
+Neuhof et al., 2007;
+Kubicek et al., 2008
+
+Tricholoma
+terreum
+
+Basidiomycota
+
+Hyd 1
+
+II
+
+23
+
+Mankel et al., 2002
+
+Xanthoria
+parietina and X.
+ectaneoides
+(a conglutinate)
+
+Ascomycota (
+XEH1
+symbiotic
+phenotype of the
+lichen-forming
+ascomycetes)
+
+I
+
+10
+
+Scherrer et al., 2000
+
+Schizophyllum
+commune
+
+Basidiomycota
+
+SC 1
+
+I
+
+Schizophyllum
+commune
+
+Basidiomycota
+
+SC3
+
+Schizophyllum
+commune
+
+Basidiomycota
+
+SC 4
+
+13.5
+
+Schuren and Wessels,
+1990; Wessels, 1997
+
+I
+
+15
+
+Schuren and Wessels,
+1990; Wessels, 1997
+
+14.5
+
+Schuren and Wessels,
+1990; Wessels, 1997
+
+-p
+
+re
+
+Jo
+
+ur
+
+na
+
+lP
+
+Nd; not determined
+
+of
+
+Trichoderma
+reseesi
+
+ro
+
+Journal Pre-proof
+
+I
+
+Journal Pre-proof
+Table 3. Current research on the biodegradation of petroleum-based plastics using
+fungi.
+Plastic as
+substrate
+
+Findings
+
+References
+
+Aspergillus terreus,
+Aspergillus sydowii
+(Ascomycete)
+Chaetomium globosum
+(Ascomycetes)
+
+PE
+
+Sangale et
+al., 2019
+
+Trichoderma viride,
+Aspergillus nomius
+(Ascomycetes)
+Aspergillus oryzae
+(Ascomycete)
+Cladosporium
+cladosporioides, Xepiculopsis
+gramínea, Penicillium
+griseofulvum, Leptosphaeria
+sp.
+(Ascomycetes)
+Monascus ruber, Monascus
+sanguineus and Monascus
+sp.
+(Ascomycetes)
+
+LDPE films
+
+Fungal strains were efficient at PE degradation
+based on weight loss and reduction in tensile
+strength after 60 d (FTIR and SEM were used).
+PVC showed adhesion and growth of C.
+globosum fertile structures (perithecia) after 28
+d.
+T. viride and A. nomius reduced the weight of
+LDPE films after 45 d of growth.
+LDPE sheets showed a weight reduction after
+4 months.
+Growing cultures had a visible clearance zone
+('halo') as a result of enzymatic plastic
+degradation (between 6-14 d of growth).
+
+Muhonja et
+al., 2018
+Brunner et
+al., 2018.
+
+na
+
+Jo
+
+PE microplastics
+(Batch reactors)
+
+PPU film
+(liquid medium)
+
+Fusarium oxysporum,
+Aspergillus fumigatus,
+Lasiodiplodia crassispora,
+Aspergillus niger, Penicillium
+sp.
+and Trichoderma harzianum.
+
+LDPE (solid and
+liquid media), and
+PU sheets
+
+Aspergillus niger, Aspergillus
+flavus
+(Ascomycetes)
+Aspergillus
+
+LDPE granules
+and films
+LDPE film
+
+ro
+
+-p
+
+Vivi et al.,
+2019
+Munir et al.,
+2018
+
+Monascus sp. was the most efficient strain in
+PPU degradation. SEM micrographs showed
+complex formations between the PPU and
+hyphae (after 14 d). Protease, esterase, and
+lipase were detected.
+Morphological damages were observed on PE
+sheets after 60 d (SEM and FTIR spectroscopy
+were used).
+This marine fungus was able to utilize PE
+microplastics, showing a decrease in both the
+size and mass of the pellets after 28 d
+(requiring minimum nutrients).
+
+El-Morsy et
+al., 2017
+
+A PPU ﬁlm was completely degraded into
+smaller pieces after 2 months (SEM and FTIR
+were used).
+F. oxysporum and A. niger had the greatest
+biodegradation efficiency of LDPE and PU
+after 90 d. Morphological damage and a halo
+around the growing culture on both LDPE and
+PU media were observed.
+
+Khan et al.,
+2017
+
+Reduction of 26% (with A. niger) and 16%
+(with A. flavus) in molecular weight for a period
+of 6 months.
+Strains were able to grow on LDPE.
+
+Deepika
+and Jaya,
+2015
+Ameen et
+
+lP
+
+Polyester
+polyurethane
+(PPU)(assays
+carried out on
+Petri dishes with
+agar medium)
+PPU (dispersion;
+assays carried
+out on Petri
+dishes with agar
+medium)
+HDPE and LDPE
+sheets
+
+ur
+
+Penicillium oxalicum and
+Penicillium chrysogenum
+(Ascomycete)
+Zalerion maritimum
+(Ascomycete)
+
+Aspergillus tubingensis
+(Ascomycete)
+
+LDPE sheets
+
+re
+
+PVC
+
+of
+
+Test organism
+(group)
+
+Ojha et al.,
+2017
+Paço et al.,
+2017
+
+Raghavendr
+a et al.,
+2016
+
+Journal Pre-proof
+
+A. japonicas, Fusarium sp. and A. flavus
+degraded 36%, 32% and 30%, respectively,
+the rest of the strains degraded by
+approximately 20% in terms of weight loss
+(after 4 weeks).
+Decrease in weight of LDPE films was
+observed over a period of 60 d.
+
+Singh and
+Gupta 2014
+
+of
+
+Krueger et
+al., 2015
+
+ro
+
+LDPE films
+
+HDPE (i.e., UVpretreated;
+collected from
+plastic waste
+dump yard)
+PET
+powder and
+flakes
+
+Penicillium sp.
+(Ascomycete)
+
+Up to 50% reduction in molecular mass within
+20 days.
+
+The strain was found to be efficient in
+degrading HDPE by weight loss after 30 d
+(SEM, FTIR spectroscopy and GC-MS were
+used).
+
+Das and
+Kumar,
+2014
+Balasubram
+anian et al.,
+2014
+
+Structural and chemical changes were
+detected in the PET power and flakes after 4
+weeks (SEM and FTIR spectral analysis were
+carried out).
+The percentages of biodegradation were 29%
+and 16% for the UV-irradiated and non-UVirradiated LDPE films, respectively, after 126 d.
+
+Sepperumal
+et al., 2013
+
+A signiﬁcant change in color and surface
+deterioration of PVC ﬁlms were observed after
+10 months.
+
+Ali et al.,
+2013
+
+PE and PVC
+(plastic sheets)
+
+The strains A. flavus, F. oxysporum and
+Phoma spp. were able to efficiently break
+down both plastics after 2 months (FTIR
+spectroscopy, SEM and CO2 production were
+observed).
+
+Sakhalkar
+and Mishra,
+2013
+
+LDPE film
+
+LDPE was degraded into CO2. A. versicolor
+and Aspergillus sp evolved approximately 4
+and 3.8 g/l of CO2, respectively in a week.
+P. microspora degraded PPU Impranil DLN
+after 16 d (clearance of the medium was
+observed).
+
+Sindujaa et
+al., 2011
+
+LDPE films
+
+Phanerochaete
+chrysosporium, Lentinus
+tigrinus, Aspergillus niger,
+Aspergillus sydowii
+Mucor hiemalis, Aspergillus
+versicolor, Aspergillus niger,
+Aspergillus flavus, Penicillium
+sp., Chaetomium globosum,
+Fusarium oxysporum,
+Fusarium solani, Phoma spp.,
+Chrysonilia setophila
+(ascomycete,
+basidiomycetes,
+zigomycetes)
+Aspergillus versicolor,
+Aspergillus sp.
+(Ascomycete)
+Pestalotiopsis microspora
+(and other endophytic fungi)
+(Ascomycete)
+
+PVC ﬁlms
+
+Jo
+
+ur
+
+na
+
+Aspergillus
+niger (ascomycete) (a mixed
+culture with Lysinibacillus
+xylanilyticus)
+
+lP
+
+Aspergillus terreus
+(Ascomycete)
+
+al., 2015
+
+-p
+
+Fusarium sp., Penicillium sp.,
+Aspergillus niger, Aspergillus
+japonicus and Aspergillus
+flavus, Mucor sp.
+(Ascomycetes, Zygomycetes)
+Aspergillus sp., Fusarium sp.
+(Ascomycetes)
+
+Polystyrene
+Sulfonate
+(microplastic)
+LDPE sheets
+
+Biodegradation of the films was showed using
+SEM, CO2 emission and enzymatic activity
+(Laccase, MnP and LiP), after 4 weeks. Their
+consortium had the highest enzymatic activity
+(MnP showed the greatest activity).
+
+re
+
+caespitosus, Phialophora
+alba, Paecilomyces variotii,
+Aspergillus terreus,
+Alternaria alternate,
+Eupenicillium hirayamae
+(Ascomycete)
+Gloeophyllum trabeum
+(Ascomycete)
+
+PPU
+(liquid
+medium with
+
+Esmaeili et
+al., 2013
+
+Russell et
+al., 2011
+
+Journal Pre-proof
+
+Fusarium sp.
+(Ascomycete)
+
+Polyamide 4
+(nylon 4) film
+
+Aspergillus fumigatus,
+Aspergillus terreus, Fusarium
+solani
+(Ascomycete)
+Thermomyces (formerly
+Humicola) insolens
+(Ascomycete)
+Fusarium solani
+(Ascomycete)
+Penicillium citrinum
+(Ascomycete)
+
+LDPE
+
+Important chemical changes of polymeric
+chains were detected after 84 d (by FTIR
+spectroscopy and XPS analysis).
+
+Nowak et
+al., 2011
+
+Morphological damages were observed on the
+surface of nylon 4 films after 2 months (by
+SEM).
+A. terreus and A. fumigatus could utilize LDPE
+as a carbon source after 100 d (SEM and FTIR
+spectroscopy were used).
+
+Tachibana
+et al., 2010
+
+97% weight loss within 96 h of reaction at
+70°C. Fungal cutinase degraded PET to TPA
+
+low-crystalline
+PET film
+PET pellets
+
+Fungal cutinase degraded PET to TPA
+
+ro
+
+low-crystalline
+PET film
+
+Isolated polyesterase from P. citrinum can
+hydrolyze PET.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+Penicillium funiculosum
+(Ascomycete)
+
+of
+
+Impranil DLN as
+the sole carbon
+source)
+PET films
+
+Zahra et al.,
+2010
+
+Ronkvist et
+al., 2009
+Ronkvist et
+al., 2009
+Liebminger
+et al., 2007
+
+Journal Pre-proof
+
+Highlights
+This review provides an overview of the current knowledge on fungal
+biodegradation of macro- and microplastics.
+Fungi have a great potential for reducing the negative impact of plastic pollution
+due to their natural and unique ability to invade substrates.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+Fungal bioremediation is an environment-friendly and efficient method able to
+remove plastic wastes.
+
+

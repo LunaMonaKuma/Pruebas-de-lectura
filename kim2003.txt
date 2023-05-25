@@ -1,0 +1,1294 @@
+Appl Microbiol Biotechnol (2003) 61:300–308
+DOI 10.1007/s00253-002-1205-3
+
+MINI-REVIEW
+
+D. Y. Kim · Y. H. Rhee
+
+Biodegradation of microbial and synthetic polyesters by fungi
+
+Received: 4 October 2002 / Revised: 22 November 2002 / Accepted: 22 November 2002 / Published online: 25 January 2003
+ Springer-Verlag 2003
+
+Abstract A variety of biodegradable polyesters have
+been developed in order to obtain useful biomaterials and
+to reduce the impact of environmental pollution caused by
+the large-scale accumulation of non-degradable waste
+plastics. Polyhydroxyalkanoates, poly(e-caprolactone),
+poly(l-lactide), and both aliphatic and aromatic polyalkylene dicarboxylic acids are examples of biodegradable
+polyesters. In general, most aliphatic polyesters are
+readily mineralized by a number of aerobic and anaerobic
+microorganisms that are widely distributed in nature.
+However, aromatic polyesters are more resistant to
+microbial attack than aliphatic polyesters. The fungal
+biomass in soils generally exceeds the bacterial biomass
+and thus it is likely that fungi may play a considerable
+role in degrading polyesters, just as they predominantly
+perform the decomposition of organic matter in the soil
+ecosystem. However, in contrast to bacterial polyester
+degradation, which has been extensively investigated, the
+microbiological and environmental aspects of fungal
+degradation of polyesters are unclear. This review reports
+recent advances in our knowledge of the fungal degradation of microbial and synthetic polyesters and discusses
+the ecological importance and contribution of fungi in the
+biological recycling of waste polymeric materials in the
+biosphere.
+
+Introduction
+Nowadays, a wide variety of petroleum-based synthetic
+polymers are produced worldwide to the extent of
+approximately 140 million tonnes/year and remarkable
+amounts of these polymers are introduced in the ecosystem as industrial waste products (Shimao 2001). However, the majority of synthetic polymers are extremely
+D. Y. Kim · Y. H. Rhee ())
+Department of Microbiology, Chungnam National University,
+Daejeon, 305-764 Korea
+e-mail: yhrhee@cnu.ac.kr
+Tel.: +82-42-8216413
+Fax: +82-42-8227367
+
+resistant to microbial attack, due to their excessive
+molecular mass, high number of aromatic rings, unusual
+bonds, or halogen substitutions (Alexander 1981). For this
+reason, the large-scale accumulation of waste plastics in
+the biosphere has given rise to the problem of severe
+environmental pollution.
+Over the past three decades, a great deal of intensive
+effort has been spent upon the preparation of environmentally friendly polymers, which can be easily degraded
+by microorganisms. As a result, many types of aliphatic
+polyesters, including polyhydroxyalkanoates (PHAs),
+poly(e-caprolactone) (PCL), and poly(l-lactide) (PLA),
+have been developed as biologically recyclable green
+polymers (Scott 2000; Mller et al. 2001; Shimao 2001).
+Generally, the extent of polymer biodegradation in an
+ecosystem is affected by material processing, the inherent
+characteristics of the substrate to be degraded, and various
+microbiological and environmental factors (Brandl et al.
+1995). These factors are all interdependent.
+Up to this time, many reports on the bacterial
+degradation of microbial and synthetic polyesters in the
+environment have been published. However, reports on
+the fungal degradation of these polyesters and the related
+hydrolytic enzymes are relatively rare and not well
+documented. Considering that fungi play a significant role
+in degrading natural organic substances in the ecosystem,
+such as cellulose, hemicellulose, and lignin, the fungal
+contribution to the biodegradation of polyesters in the
+environment should be recognized along with the bacterial degradation of polyesters. In this paper, recent
+progress in our knowledge of the fungal degradation of
+biodegradable polyesters is reviewed.
+
+Biodegradation of microbial polyesters
+Polyhydroxyalkanoates
+PHAs are versatile polyesters produced by numerous
+bacterial species as intracellular storage compounds of
+carbon and energy. PHAs are currently divided into two
+
+301
+
+groups, short-chain-length (SCL)-PHAs and mediumchain-length (MCL)-PHAs, according to the carbonchain-length of the constituents. SCL-PHAs consist of
+(R)-hydroxyalkanoates of C3–C5, while MCL-PHAs are
+comprised of aliphatic and/or aromatic (R)-hydroxyalkanoates of C6–C14. SCL-PHAs are thermoplastics with a
+high degree of crystallinity, while MCL-PHAs are
+elastomeric or tacky materials with properties that vary
+according to their composition (Madison and Huisman
+1999). Poly(b-l-malic acid) (PMA) is a soluble anionic
+biopolyester produced only by eukaryotic microorganisms (Shimada et al. 1969; Holler et al. 1992; Liu and
+Steinbchel 1996), which is now classified as a PHA due
+to its chemical structure (Steinbchel and Valentin 1995).
+Recently, Steinbchel (2001) reported that approximately
+150 hydroxyalkanoates, detected as constituents of PHAs,
+are produced by microorganisms grown with carbon
+sources containing different types of chemical structures.
+Besides PHAs and PMA, the other types of polyester
+found in living organisms are cutin and suberin, which are
+water-insoluble polymeric materials occurring in higher
+plants (Kolattukudy 2001).
+Studies on the bacterial degradation of PHAs have
+been intensively conducted and are well documented by
+several researchers (Brandle et al. 1995; Jendrossek et al.
+1996). However, the metabolic capability to hydrolyze
+PHA is not restricted to bacteria; and many filamentous
+fungi and yeasts capable of degrading poly(3-hydroxybutyrate) (PHB) and its copolyesters with 3-hydroxyvalerate [poly(3HB-co-3HV)] have been isolated from
+various environments. Neumeier (1994) described a list of
+the taxa of PHA-degrading fungi isolated from soil and
+marine environments. Of the 95 genera listed, the
+overwhelming majority (97%) were members of the
+division Amastigomycota. Of these, the Basidiomycotina,
+Deuteromycotina, and Ascomycotina accounted for 48%,
+27%, and 19% of the total, respectively; and the
+Zygomycotina accounted for only 2%, which indicates
+that higher fungi are the predominant degraders of PHAs
+in the environment. Until now, however, the occurrence
+of MCL-PHA-degrading fungi in the environment has
+been uncertain. Recently, an attempt to examine the
+distribution and diversity of MCL-PHA-degrading microorganisms in various soil samples was made by Nam et
+al. (2002). Approximately 60 different species belonging
+to 13 genera were isolated as MCL-PHA degraders, but
+the authors failed to isolate any MCL-PHA-degrading
+fungus.
+Most studies on the environmental degradation of
+PHAs have shown that fungi belonging to the group,
+Deuteromycota, including mainly Aspergillus spp and
+Penicillium spp, contribute considerably to PHA breakdown in the biological system (Table 1). Apparently, a
+number of mesophilic fungi belonging to the genera
+Aspergillus, Penicillium, and Paecilomyces are primarily
+responsible for degrading PHAs in soil and aquatic
+environments (Matavulj and Molitoris 1992; Mergaert et
+al. 1993, 1995; Kim et al. 2000c; Sang et al. 2002). In
+addition to mesophiles, many thermotolerant A. fumigatus
+
+strains that are capable of degrading PHB and poly(3HBco-3HV) at high temperatures (above 40 C) have been
+isolated from soil samples (Mergaert et al. 1993; Kim et
+al. 2000c) and compost (Mergaert et al. 1994). Recently,
+the fungal degradation of BIOPOL under a simulated
+deep-sea environment was investigated using the two
+deep-sea isolates of a filamentous fungus, A. ustus, and a
+yeast, Rhodosporidium spaerocarpum (Gonda et al.
+2000). In that case, the marine isolate, A. ustus, efficiently
+disintegrated BIOPOL under a hydrostatic pressure of
+20 MPa, while polymer degradation under a hydrostatic
+pressure of 30 MPa was significantly low. No fungal
+hydrolysis of the polymer occurred at hydrostatic pressures above 30 MPa, which indicates that increasing the
+hydrostatic pressure retards both polymer degradation and
+the metabolic activity of the A. ustus strain.
+Biochemical properties of fungal PHB depolymerases
+Extracellular PHA depolymerases are a class of serine
+hydrolases which are susceptible to serine esterase
+inhibitors, such as phenylmethylsulfonyl fluoride (PMSF)
+and diisopropyl fluorophosphate (DFP). Extracellular
+PHA depolymerases are divided into two classes based
+on their substrate specificity. One group contains the
+SCL-PHA depolymerases, which degrade only PHB and
+its copolyesters with 3HV or 4HB. The other group is
+composed of MCL-PHA depolymerases, which primarily
+decompose the aliphatic and aromatic PHAs consisting of
+3-hydroxyalkanoates of C6–C14. The great majority of
+PHA-degrading microorganisms are known to produce
+only one type of PHA depolymerase, which acts upon
+either the SCL-PHAs or the MCL-PHAs (Jendrossek
+1998, 2001).
+Until now, more than 80 extracellular PHA depolymerases from prokaryotic and eukaryotic microorganisms
+have been purified and characterized (Jendrossek 2001).
+However, most PHA depolymerases are prokaryotic
+enzymes and are specific for only SCL-PHAs. During
+the past decade, several bacterial MCL-PHA depolymerases exhibiting broad substrate specificities for structurally different aliphatic and aromatic MCL-PHAs were
+isolated and biochemically characterized (Schirmer et al.
+1993; Kim et al. 2000a, 2000b, 2002a). However, there is
+no report on the isolation of a fungal MCL-PHA
+depolymerase.
+Since Brucato and Wong (1991) purified PHB depolymerase from Penicillium funiculosum as the first eukaryotic enzyme, eight distinct fungal PHB depolymerases
+have been isolated from different filamentous fungi
+(Table 2). Nevertheless, there is no report on the
+preparation of PHA depolymerase from yeast. Fungal
+PHB depolymerases share several properties among these
+enzymes; and certain enzyme properties are very similar
+to those with bacterial origins. However, fungal depolymerases also show some particular characteristics, which
+are distinct from the common properties of bacterial PHB
+depolymerases. The following descriptions indicate the
+
+302
+Table 1 Biodegradation of microbial and synthetic polyesters by
+fungi or their hydrolases. PBA Polybutylene adipate, PBS polybutylene succinate, PCL poly(e-caprolactone), PEA polyethylene
+adipate, PES polyethylene succinate, PET polyethylene terephtha-
+
+late, PHB poly(3-hydroxybutyrate), PHV poly(3-hydroxyvalerate),
+PLA poly(l-lactide), PMA poly(b-l-malic acid), PPA polypropylene adipate, Sky-Green a polyester consisting of succinic acid,
+adipic acid, butanediol, and ethylene glycol
+
+Fungal strain
+
+Polyesters hydrolyzed
+
+Group
+
+Reference
+
+Acremonium sp.
+Aspergillus fischeri
+A. flavus ATCC 9643
+A. flavus QM380
+A. fumigatus M2A
+
+PHB, Poly[3HB-co-(10 mol%) 3HV]
+PCL
+PCL
+PEA, PPA, PBA
+PHB, Poly[3HB-co-(7–77 mol%) 3HV],
+PHV, Poly[3HB-co-(13–61 mol%) 4HB],
+PES, PEA, PBA, PES/A, PES, PBS/A
+PHB, Poly[3HB-co-(10 mol%) 3HV]
+PHB, Sky-Green
+PHB, PCL, PBS, PBS/A
+PHB, Poly(3HB-co-3HV), PHV
+Sky-Green
+PEA, PPA, PBA
+PHB
+PHB
+PHB
+Sky-Green
+PEA, PPA, PBA
+PCL
+PEA, PPA, PBA
+PHB
+PHB
+PCL
+
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+
+Mergaert et al. (1993)
+Benedict et al. (1983a)
+Benedict et al. (1983a)
+Darby and Kaplan (1968)
+Scherer et al. (1999)
+
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Ascomycota
+
+Mergaert et al. (1993, 1994)
+Kim et al. (2000c)
+Sanchez et al. (2000)
+Iyer et al. (2000)
+Kim et al. (2000c)
+Darby and Kaplan (1968)
+Mergaert et al. (1992)
+Gonda et al. (2000)
+Gonda et al. (2000)
+Kim et al. (2000c)
+Darby and Kaplan (1968)
+Fields et al. (1974)
+Darby and Kaplan (1968)
+Gonda et al. (2000)
+Matavulj and Molitoris (1992)
+Benedict et al. (1983a)
+
+PEA, PPA, PBA
+PHB
+PCL
+Sky-Green
+
+Ascomycota
+Deuteromycota
+Basidiomycota
+Deuteromycota
+
+Darby and Kaplan (1968)
+Matavulj and Molitoris (1992)
+Benedict et al. (1983b)
+Kim et al. (2000c)
+
+PHB
+PHB, Poly[3HB-co-(30 mol%) 3HV]
+PHB
+PCL
+PCL, cutin
+Poly[3HB-co-(12 mol%) 3HV]
+PHB
+PCL, cutin
+PCL, cutin
+PHB
+Poly[3HB-co-(12 mol%) 3HV]
+PHB, Sky-Green
+PHB, PCL
+Poly[3HB-co-(12 mol%) 3HV]
+PHB
+PHB
+PCL
+PHB
+Poly[3HB-co-(7 mol%) 3HV]
+PHB
+PCL
+PHB, PCL
+
+Ascomycota
+Ascomycota
+Ascomycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Zygomycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+
+PHB, PHV, Poly[3HB-co-(7, 14%) 4HB],
+Poly[3HB-co-(7, 27, 45, 71%) 3HV]
+PEA, PPA, PBA
+PCL
+PHB
+PHB
+PHB
+PHB
+PHB
+PHB
+PHB
+PLA
+PHB
+
+Deuteromycota
+
+Gonda et al. (2000)
+Kim et al. (2002b)
+McLellan and Halling (1988)
+Benedict et al. (1983a)
+Murphy et al. (1996)
+Sang et al. (2002)
+Kim et al. (2000c)
+Murphy et al. (1996)
+Murphy et al. (1996)
+Matavulj and Molitoris (1992)
+Sang et al. (2002)
+Kim et al. (2000c)
+Oda et al. (1995)
+Sang et al. (2002)
+Mergaert et al. (1992)
+Mergaert et al. (1992)
+Sanchez et al. (2000)
+Mergaert et al. (1995)
+Renstad et al. (1999)
+Mergaert et al. (1992)
+Sanchez et al. (2000)
+Brucato and Wong (1991);
+Oda et al. (1995)
+Miyazaki et al. (2000)
+
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+
+Darby and Kaplan (1968)
+Benedict et al. (1983a)
+Kim et al. (2000c)
+Mergaert et al. (1995)
+Kim et al. (2000c)
+Mergaert et al. (1992)
+Han et al. (1998)
+Kim et al. (2000c)
+Mergaert et al. (1992)
+Torres et al. (1996)
+McLellan and Halling (1988)
+
+A. fumigatus
+A. fumigatus LAR 9
+A. fumigatus ST-01
+A. fumigatus Pdf1
+A. niger ATCC 9642
+A. niger QM386
+A. penicilloides
+A. ustus T-221
+A. ustus M-224
+A. ustus LAR 25
+A. versicolor QM432
+Aureobasidium pullulans
+A. pullulans QM279c
+Candida guilliermondii
+Cephalosporium sp.
+Chaetomium globosum
+ATCC 6205
+C. globosum QM459
+Cladosporium sp.
+Cryptococcus laurentii
+Curvularia protuberata
+LAR 12
+Debaryomyces hansenii
+Emericellopsis minima W2
+Eupenicillium sp. IMI 300465
+Fusarium sp.
+F. moniiforme
+F. oxysporium F1-3
+F. solani LAR 11
+F. solani strain 77-2-3
+F. solani ATCC 38136
+Mucor sp.
+Paecilomyces farinosus F4-7
+P. farinosus LAR 10
+P. lilacinus D218
+P. lilacinus F4-5
+P. marquandii
+Penicillium adametzii
+P. argillaceum IFO 31071
+P. chermisinum
+P. crysosporium
+P. daleae
+P. dupontii IFO 31798
+P. funiculosum ATCC 9644
+P. funiculosum IFO 6345
+P.
+P.
+P.
+P.
+P.
+P.
+P.
+P.
+P.
+P.
+P.
+
+funiculosum QM301
+funiculosum ATCC 11797
+funiculosum LAR 18
+janthinellum
+minioluteum LAR 14
+orchrochloron
+pinophilium ATCC 9644
+pinophilium LAR 15
+restricum
+roqueforti
+simplicissimum IMI 300465
+
+303
+Table 1 (continued)
+Fungal strain
+
+Polyesters hydrolyzed
+
+Group
+
+Reference
+
+P. simplicissimum LAR 13
+P. simplicissimum
+P. simplicissimum
+Penicillium sp. strain 14-3
+Penicillium sp. strain 26-1
+P. verruculosum LAR 17
+Phanerochaete chrysosporium
+Physarum polycephalum
+Polyporus circinatus
+Pullularia pullulans QM279c
+Rhizopus delemar
+
+PHB, Sky-Green
+PHB
+Poly[3HB-co-(7 mol%) 3HV]
+PEA, PCL, polyalkylene dicarboxylic acids
+PHB, PCL, polyalkylene dicarboxylic acids
+Mater-Bi
+Poly[3HB-co-(7 mol%) 3HV]
+PMA
+PHB
+PEA, PPA, PBA
+PPA, PET copolymers with
+dicarboxylic acids
+PCL, polyalkylene dicarboxylic acids
+PHB
+PHB, PCL, PBS
+
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Deuteromycota
+Basidiomycota
+Myxomycota
+Basidiomycota
+Deuteromycota
+Zygomycota
+Zygomycota
+Basidiomycota
+Ascomycota
+
+Kim et al. (2000c)
+Mergaert et al. (1995)
+Renstad et al. (1999)
+Tokiwa and Suzuki (1977a)
+Tokiwa et al. (1976)
+Kim et al. (2000c)
+Renstad et al. (1999)
+Korherr et al. (1995)
+Matavulj and Molitoris (1992)
+Darby and Kaplan (1968)
+Walter et al. (1995);
+Nagata et al. (1997)
+Tokiwa et al. (1986)
+Gonda et al. (2000)
+Sanchez et al. (2000)
+
+PLA
+
+Deuteromycota
+
+Jarerat and Tokiwa (2001a)
+
+PHB
+
+Deuteromycota
+
+Mergaert et al. (1994)
+
+R. arrhizus
+Rhodosporidium sphaerocarpum
+Thermoascus aurantiacus
+IFO 31910
+Tritirachium album
+ATCC 22563
+Verticillium leptobactrum
+
+Table 2 Biochemical characteristics of purified fungal PHB depolymerases. DFP Diisopropyl fluorophosphate, DTT dithiothreitol,
+NEM N-ethylmaleimide, PMSF phenylmethylsulfonyl fluoride, PNP para-nitrophenol
+Characteristics
+
+PhaZEmi
+
+Quaternary structure
+Mr (SDS-PAGE)
+pI
+Carbohydrate content
+Optimum pH
+Optimum
+temperature (C)
+Sensitivity to:
+Sodium azide
+DTT
+PMSF
+DFP
+NEM
+EDTA
+Triton X-100
+Tween 80
+Hydrolysis of:
+PNP-C2
+PNP-C4
+PNP-C6
+PNP-C8
+PNP-C10 to PNP-C14
+PNP-C16
+Main hydrolysis
+product
+of PHB
+Reference
+
+Monomer Monomer
+48,000
+37,000
+4.4
+5.8
++ (12%)
+9.0
+6.0
+55
+
+a
+
+PhaZPfuATCC 9644
+
+
++
+
++
+
+
++
+
++
+
+
++
++
+
++
++
+
+PhaZPpi
+
+PhaZAfuM2A
+
+PhaZAfuPdf1
+
+7.0
+45
+
+Monomer
+57,000
+7.2
++ (<5%)
+8.0
+70
+
+40,000
+Alkaline
++
+8.5
+45–60
+
++
++
+
++
++
+
+
++
+
+
+Monomer
+35,000
+48,000
+6.0
+50
+
++
++
++
+
++a
++
+
+
+
+
+Dimer
+Kim et al. Brucato and
+(2002b)
+Wong (1991)
+
+PhaZPli
+
+PhaZPsi
+Monomer
+36,000
++ (<5%)
+5.0
+45
+
++
++
+
+PhaZPfu IFO 6345
+33,000
+6.5
++
+6.5
+
++
+
++
+
+
+
++
++
+
+
+
+
++
+
+Monomer
+
+Monomer
+
++a
++
+
++
++a
++
+
+
+Han et al. Oda et al. Scherer
+(1998)
+(1997)
+(1996)
+
+Iyer et al.
+(2000)
+
+Han and
+Kim (2002)
+
+Miyazaki et al.
+(2000)
+
+This enzyme shows the highest esterase activity for the corresponding PNP-alkanoate
+
+characteristics that are common among the fungal
+depolymerases:
+1. PHB depolymerases consist of one single polypeptide
+chain with a molecular mass (Mr) ranging over 33.0–
+57.0 kDa.
+
+2. In contrast to the general property of bacterial PHB
+depolymerases, fungal hydrolases possess an acidic or
+neutral pI value. It has been also demonstrated that
+some bacterial SCL- and MCL-PHA depolymerases
+have an acidic pI value (Kita et al. 1995; Kim et al.
+2000b, 2002a).
+
+304
+
+3. The fungal PHB depolymerases are most likely
+glycoproteins.
+4. Fungal enzymes are susceptible to DFP or PMSF,
+which is a serine esterase inhibitor, as shown in the
+cases of bacterial PHA depolymerases.
+5. Fungal PHB hydrolases are very sensitive to dithiothreitol, indicating that the disulfide bridges in the
+active sites play an essential role in the formation of
+the tertiary structure of the enzymes. Similar effects
+are also found in most bacterial SCL-PHA depolymerases, while the MCL-PHA depolymerases from
+Pseudomonasspp are not inactivated by this inhibitor
+(Schirmer et al. 1993; Kim et al. 2000b, 2002a).
+6. Fungal PHB depolymerases do not hydrolyze tributyrin, olive oil, or p-nitrophenylpalmitate, which are
+substrates for lipases.
+
+or PCL. In particular, the hydrolytic enzyme from A.
+fumigatus efficiently degrades bacterial and synthetic
+polyesters in the following order: PEA >PES >PBA
+>PHB >PHV. The extracellular PHB depolymerases
+showing a broad substrate specificity towards PHB,
+PHV, and poly(3HB-co-3HV) were also prepared from
+cultures of A. fumigatus Pdf1 (Iyer et al. 2000) and P.
+funiculosum IFO 6345 (Miyazaki et al. 2000). The
+enzymatic degradation of PHB by fungal PHB depolymerases usually results in the formation of 3-hydroxybutyrate and its dimers as the final hydrolysis products (Oda
+et al. 1995; Scherer 1996; Iyer et al. 2000; Kim et al.
+2002b).
+
+Recently, Miyazaki et al. (2000) reported that the PHB
+depolymerase from Penicillium funiculosum IFO6345
+contained a lipase box sequence (GLSSG) in the Nterminus of the protein, suggesting that the catalytic
+domain is probably located in this area. Considering that
+the catalytic domain and the substrate-binding domain of
+all the PHB depolymerases investigated constitute the Nterminus and C-terminus of the enzymes, respectively, it
+is believed that the composite structure of fungal PHB
+depolymerases also corresponds to one of the composite
+structures of the bacterial PHB depolymerases (Jendrossek 1998). However, there is still a need to clarify
+the apparent composite structure of the fungal enzymes
+via molecular characterization of the PHB depolymerase
+genes. In contrast, MCL-PHA depolymerases consist of a
+substrate-binding domain in the N-terminus and a catalytic domain in the C-terminus (Schirmer and Jendrossek
+1994; Kim et al. 2002c).
+The majority of bacterial PHB depolymerases exhibit a
+pH optimum in the alkaline range of pH 7.5–9.8
+(Jendrossek 2001). Similarly, it has been also reported
+that PHB depolymerases from Emericellopsis minima
+(Kim et al. 2002b) and two A. fumigatus species (Scherer
+1996; Iyer et al. 2000) are alkaline enzymes, showing a
+maximum activity at pH 8.0–9.0. However, all PHB
+depolymerases from Penicillium spp are most active in
+the acidic range of pH 5.0–6.5, as shown in Table 2. The
+PHB depolymerase from A. fumigatus M2A is a thermotolerant enzyme, with an optimum temperature of 70 C,
+while all the other fungal enzymes exhibited their highest
+activity at 45–60 C.
+Compared with many bacterial PHB depolymerases,
+some fungal PHB depolymerases are known as relatively
+nonspecific hydrolases that are capable of giving rise to
+chain scission, acting upon various types of polymer
+substrates. For example, the PHB hydrolase from A.
+fumigatus M2A catalyzes synthetic polyesters, such as
+polyethylene adipate (PEA), polyethylene succinate
+(PES), and polybutylene adipate (PBA), in addition to
+poly(3HB-co-3HV) and poly(3HB-co-4HB) over the
+entire range of compositions (Scherer et al. 1999).
+However, it does not decompose PLA, polyvalerolactone,
+
+The extracellular PMA hydrolase from the slime mold
+Physarum polycephalum was recently isolated and characterized (Korherr et al. 1995; Karl and Holler 1998).
+However, it was assumed that this enzyme is excreted
+from the plasmodia of P. polycephalum under unfavorable environmental conditions (Korherr et al. 1995). The
+PMA depolymerase does not degrade PHB, which is the
+reduced form of PMA. It is a glycoprotein with a Mr
+of 97,000 and exists in multiple forms. In particular, in
+contrast to the general properties of PHB depolymerases,
+it is neither a metallo- nor a serine-hydrolase and is most
+active at pH 3.5. Although the extracellular PMA
+hydrolase from Comamonas acidovorans was recently
+purified (Gdde et al. 1999), any extracellular PMA
+depolymerase from non-PMA-producing eukaryotic organisms has not yet been isolated.
+
+Characterization of fungal PMA hydrolase
+
+Biodegradation of synthetic polyesters
+Poly(e-caprolactone)
+PCL, a synthetic linear polyester with an almost 50%
+crystallinity, is biologically degradable and consists of 6hydroxyhexanoates. Generally, the environmental degradation of PCL appears to occur by the action of bacteria
+that are widely distributed in the ecosystem (Nishida and
+Tokiwa 1993; Mergaert and Swings 1996; Suyama et al.
+1998). However, several studies have shown that some
+filamentous fungi and yeasts also hydrolyze PCL to
+water-soluble products, as listed in Table 1, although little
+regarding their PCL depolymerases is known. Fields et al.
+(1974) reported that Aureobasidium pullulans (formerly
+Pulllularia pullulans) can efficiently degrade a lower
+molecular weight (Mw) PCL film (Mw=1,250), but the
+extent of decomposition of a PCL film with a Mw above
+15,000 by the fungus was negligible. In contrast, Penicillium sp. strain 14-3 (Tokiwa et al. 1976) and a yeast,
+Cryptococcus laurentii (Benedict et al. 1983b), degrade
+PCLs with relatively higher Mws (25,000 and 35,000,
+respectively). Another study showed that Aspergillus
+fischeri, A. flavus, Penicillium funiculosum, Chaetomium
+
+305
+
+globosum, and a Fusarium sp. could metabolize PCLs
+with Mws in the range 7,130–35,000 (Benedict et al.
+1983a). However, in that case, increasing the Mw of the
+polyester reduced its degradability. Recently, Sanchez et
+al. (2000) reported the breakdown of a high Mw PCL
+(Mw=67,300) at 50 C by a thermotolerant A. fumigatus
+ST-01 and a thermophilic Thermoascus aurantiacus.
+These results suggest that one of the most important
+factors influencing PCL biodegradation is the PCLdegrading microorganisms that produce different types
+of PCL hydrolases, even though the biodegradability of a
+polymer is related to its Mw.
+Tokiwa and Suzuki (1977b) showed that various
+esterases and lipases could hydrolyze PCL. In particular,
+the lipases of Rhizopus delemar (Tokiwa and Suzuki
+1977b) and R. arrhizus (Tokiwa et al. 1986) could readily
+hydrolyze synthetic polyesters such as PCL, poly(ethylene dicarboxylic acids), and poly(butylene dicarboxylic
+acids). However, PCL is not susceptible to bacterial
+(Jaeger et al. 1995) and fungal PHB depolymerases (Oda
+et al. 1995; Kim et al. 2002b). Some fungal phytopathogens belonging to Fusarium spp can produce
+cutinase to degrade a cutin polyester that is the structural
+component of a plant cuticle (Baker and Bateman 1978).
+There is some evidence suggesting that the Fusarium PCL
+depolymerases are true cutinases. Murphy et al. (1996)
+reported that a cutinase-negative gene-replacement mutant of F. solani did not degrade both PCL and cutin,
+while the wild-type strains of Fusarium spp commonly
+hydrolyzed both polyesters. The production of PCL
+depolymerase in the wild-type strains was induced by
+adding the cutinase inducer, 16-hydroxyhexadecanoic
+acid, to the culture medium in addition to the PCL
+hydrolysates. In contrast, no PCL depolymerase was
+induced in the cutinase-negative mutant by the same
+inducers. Another study showed that the cutinase-negative
+mutant of F. solani produces a second PCL depolymerase,
+which can be induced by Tween 80 and tributyrin, but not
+by PCL or cutin, suggesting that the enzyme is a lipase
+distinct from cutinase (Murphy et al. 1998). The fungal
+degradation of the plant polyesters (cutin, suberin) is well
+documented by Kolattukudy (2001).
+Poly(l-lactide)
+PLA is a biocompatible thermoplastic with a melting
+temperature of 175 C and a glass transition temperature
+of 60 C and is synthesized by the polymerization of llactic acid. Originally, Williams (1981) reported the
+biodegradability of PLA by the lipase from R. delemar
+and the proteinase K from Tritirachium album. PLA can
+also be hydrolyzed by the polyester polyurethane depolymerase from Comamonas acidovorans (Akutsu et al.
+1998). However, it is currently believed that PLA is more
+resistant to microbial attack in the environment than other
+microbial and synthetic polyesters (Suyama et al. 1998).
+In fact, reports on the environmental degradation of PLA
+by microorganisms are relatively rare and most PLA-
+
+degraders isolated to date are restricted to actinomycetes
+belonging to the genus Amycolatopsis (Pranamuda et al.
+1997; Ikura and Kudo 1999; Pranamuda and Tokiwa
+1999; Nakamura et al. 2001), although the breakdown of
+the polymer by Bacillus brevis (Tomita et al. 1999) and
+some unidentified fungal strains (Torres et al. 1996) has
+been reported.
+The attempt to screen PLA-degrading fungi was first
+conducted by Torres et al. (1996). They demonstrated
+that, of the 14 fungal strains tested, only two strains of F.
+moniliforme and P. roqueforti could assimilate dl-lactic
+acid and the partially soluble racemic oligomers
+(Mw=1,000), which are PLA derivatives. In particular,
+they observed that one strain of F. moniliforme was able
+to grow on a poly(lactic acid-co-glycolic acid) copolyester (Mw=150,000) film, but its ability to mineralize the
+polymer was relatively poor. Apparently, Tritirachium
+album ATCC 22563 is the only PLA-degrading fungus
+that has been identified to date (Jarerat and Tokiwa
+2001a). In that case, the PLA degradation rate by T.
+album was greatly increased by adding 0.1% gelatin to the
+culture medium, implying that gelatin induces the
+production of a protease capable of giving rise to chain
+scission of the PLA. In fact, the culture supernatant of T.
+album exhibited hydrolytic activity towards silk fibroin
+and elastin in addition to PLA, but not towards PHB,
+PCL, and polybutylene succinate (PBS). From these
+results, it was concluded that the hydrolase from T. album
+might be a protease rather than a lipase. Similarly, Oda et
+al. (2000) reported that various commercial prokaryotic
+and eukaryotic proteases exhibited hydrolytic activity
+against PLA.
+Aliphatic polyalkylene dicarboxylic acids
+A variety of aliphatic polyesters consisting of dicarboxylic acid units, such as PEA, PES, polypropylene
+adipate (PPA), PBA, PBS, and polyhexylene carbonate,
+have been widely produced commercially. Several studies
+have proven the biodegradability of these synthetic
+polyesters, either by measuring microbial growth on an
+agar plate containing the respective emulsified polymer
+substrate (Pranamuda et al. 1995; Suyama et al. 1998;
+Tansengco and Tokiwa 1998; Jarerat and Tokiwa 2001a,
+2001b), or by enzymatic degradation tests using fungal
+hydrolases, such as lipase (Tokiwa and Suzuki 1977b;
+Tokiwa et al. 1986; Walter et al. 1995), PEA depolymerase (Tokiwa and Suzuki 1977a), and PHB depolymerase (Scherer et al. 1999).
+From the fungal degradation studies of low Mw PEA,
+PPA, and PBA, Darby and Kaplan (1968) reported that
+several filamentous fungi, such as Aspergillus flavus, A.
+niger, A. versicolor, Aureobasidium pullulans, P. funiculosum, and Chaetomium globosum, can hydrolyze the
+polyesters. However, increasing the Mw and hydrocarbon
+content in the polymers consisting of dicarboxylic acid
+units reduces their biodegradability. In an early study, the
+PEA-degrading enzyme from Penicillium sp. strain 14-3
+
+306
+
+was purified and characterized (Tokiwa and Suzuki
+1977a). The enzyme, with a Mr of 25,000, exhibited its
+highest activity at pH 4.5 and 45 C and was remarkably
+activated by divalent cations, such as Ca2+ and Cd2+. It
+was assumed that this fungal PEA depolymerase is a
+lipase exhibiting a broad substrate specificity capable of
+acting upon various bio- and synthetic polymers. This
+means it can degrade not only the substrates for lipase,
+such as plant oils, triglycerides, and the methyl esters of
+fatty acids, but also the aliphatic polyesters composed of
+dicarboxylic acids. However, it does not degrade aromatic
+polyesters, such as polybutylene terephthalate and polyethylene tetrachlorophthalate. In addition, the non-specific hydrolysis of microbial and synthetic polyesters was
+observed in the case of the hydrolase from Aspergillus
+fumigatus M2A (Scherer et al. 1999). Even though the
+fungal enzyme was referred as a PHB depolymerase, it
+showed its highest hydrolytic activity for PEA and
+degraded PES and PBA more efficiently than PHB.
+Aromatic polyalkylene dicarboxylic acids
+Compared with most aliphatic polyesters, aromatic
+polyesters, such as poly(ethylene terephthalate) and
+poly(butylene terephthalate), have excellent material
+properties. However, it is now considered that their
+susceptibility to microbial attack is negligible (Mller et
+al. 2001), although some growth of A. niger on the
+surfaces of some aromatic polyesters has been observed
+(Huang and Byrne 1980). Therefore, to increase the
+biodegradability of aromatic polyesters, recent studies
+focused on the synthesis of aliphatic–aromatic copolyesters (Mller et al. 2001; Ki and Park 2001). In fact, it was
+reported that the incorporation of aliphatic dicarboxylic
+acids or polyethylene glycol in polyester chains greatly
+enhances the degradation rate by the lipase from R.
+delemar (Nagata et al. 1997). To date, some bacterial
+species capable of decomposing aliphatic–aromatic
+polyalkylene dicarboxylic acid copolyesters with different
+compositions have been isolated from composts (Kleeberg et al. 1998). However, little is known about the
+fungal strains that can cause the environmental degradation of these polymers.
+Microbiological and environmental aspects
+of the fungal degradation of polyesters
+In soil systems, the fungal biomass generally exceeds the
+bacterial biomass (Killham 1994). Therefore, the fungal
+contribution to the biological recycling of organic
+substances in the environment is expected to be much
+greater than the bacterial contribution. Actually, it was
+reported that the decomposition of organic matter in
+acidic soils is predominantly achieved by fungal strains
+exhibiting a greater tolerance to acid conditions, compared with bacterial heterotrophs (Killham 1994). In a
+study on the relative contributions of fungi and bacteria to
+
+cellulase activities in soil, Rhee et al. (1987) indicated
+that fungi are the dominant contributors to the degradation of cellulosic materials in a soil ecosystem. Recently,
+Sang et al. (2002) estimated the relative contributions
+made by fungi, actinomycetes, and bacteria to the in situ
+biodegradation of a microbial polyester film in soil. They
+compared the degradation abilities and population of
+poly(3HB-co-3HV)-degrading fungi with those of bacteria and actinomycetes and found not only that the
+population of fungi dramatically increased during
+poly(3HB-co-3HV) film degradation but also that the
+degradation rate of the fungi was much higher than that of
+either the actinomycetes or the bacteria. On the basis of
+these descriptions, it is believed that many fungal strains
+may play a considerable role in decomposing various
+polymeric materials in soil systems.
+Composting is a microbial process that is regarded to
+be one of the most promising technologies for the
+biological management of solid wastes. As the temperature rises during the active composting stage, thermophilic
+heterotrophs
+replace
+mesophilic
+forms.
+Mineralization of the various types of aliphatic polyesters
+by thermotolerant or thermophilic bacteria in the composting process has been extensively investigated (Mergaert et al. 1994; Tansengco and Tokiwa 1998; Jarerat
+and Tokiwa 2001b; Sakai et al. 2001). In contrast, the
+ecological importance of fungi participating in the
+thermophilic biodegradation of polyesters is not well
+understood. This is despite the fact that a few polyesterdegrading thermotolerant or thermophilic fungi have been
+isolated from soil and compost (Mergaert et al. 1994;
+Sanchez et al. 2000).
+Currently, the annual worldwide use of plastic materials is gradually increasing and, for this reason, the
+importance of both developing and improving a technology for the eco-friendly management of waste plastic
+materials is greatly emphasized. From this point of view,
+it is expected that a more intensive study on the fungal
+degradation of polyesters will not only emphasize the
+ecological significance of fungi, but also contribute to the
+development of a more efficient strategy for the biological treatment of wastes. In addition, further advances in
+biochemistry and molecular genetics concerning fungal
+enzymes catalyzing the degradation of the polyesters will
+open up new fields in environmental biotechnology and
+bioengineering for fine chemicals.
+Acknowledgement This work was supported by a Korea Research
+Foundation Grant (KRF-2000-005-D00003).
+
+References
+Akutsu H, Nakajima-Kambe T, Nomura N, Nakahara T (1998)
+Purification and properties of a polyester polyurethane-degrading enzyme from Comamonas acidovorans TB-35. Appl
+Environ Microbiol 64:62–67
+Alexander M (1981) Biodegradation of chemicals of environmental
+concern. Science 211:132–138
+
+307
+Baker CJ, Bateman DF (1978) Cutin degradation by plant
+pathogenic fungi. Phytopathology 68:1577–1584
+Benedict CV, Cook WJ, Jarrett P, Cameron JA, Huang SJ, Bell JP
+(1983a) Fungal degradation of polycaprolactones. J Appl
+Polym Sci 28:327–334
+Benedict CV, Cameron JA, Huang SJ (1983b) Polycaprolactone
+degradation by mixed and pure cultures of bacterial and a yeast.
+J Appl Polym Sci 28:335–342
+Brandl H, Bachofen R, Mayer J, Wintermantel E (1995) Degradation and applications of polyhydroxyalkanoates. Can J
+Microbiol 41 [Suppl 1]:143–153
+Brucato CL, Wong SS (1991) Extracellular poly(3-hydroxybutyrate) depolymerase from Penicillium funiculosum: general
+characteristics and active site studies. Arch Biochem Biophys
+290:497–502
+Darby RT, Kaplan AM (1968) Fungal susceptibility of polyurethanes. Appl Microbiol 16:900–905
+Fields RD, Rodriguez F, Finn RK (1974) Microbial degradation of
+polyesters: polycaprolactone degraded by P. pullulans. J Appl
+Polym Sci 18:3571–3579
+Gdde C, Libergesell M, Steinbchel A (1999) Isolation of poly(bl-malic acid)-degrading bacteria and purification and characterization of the PMA hydrolase from Comamonas acidovorans
+strain 7789. FEMS Microbiol Lett 173:365–372
+Gonda KE, Jendrossek D, Molitoris HP (2000) Fungal degradation
+of the thermoplastic polymer poly-b-hydroxybutyric acid
+(PHB) under simulated deep sea pressure. Hydrobiologia
+426:173–183
+Han J-S, Kim M-N (2002) Purification and characterization of
+extracellular poly(3-hydroxybutyrate) depolymerase from Penicillium simplicissimum LAR13. J Microbiol 40:20–25
+Han J-S, Son Y-J, Chang C-S, Kim M-N (1998) Purification and
+properties of extracellular poly(3-hydroxybutyrate) depolymerase produced by Penicillium pinophilium. J Microbiol
+36:67–73
+Holler M, Angerer A, Achhammer G, Miller S, Windisch C (1992)
+Biological and biosynthetic properties of poly-l-malate. FEMS
+Microbiol Rev 103:109–118
+Huang SJ, Byrne CA (1980) Biodegradable polymers: photolysis
+and fungal degradation of poly(arylene keto esters). J Appl
+Polym Sci 25:1951–1960
+Ikura Y, Kudo T (1999) Isolation of a microorganism capable of
+degrading poly-(l-lactide). J Gen Appl Microbiol 45:247–251
+Iyer S, Shah R, Sharma A, Jendrossek D, Desai A (2000)
+Purification of Aspergillus fumigatus (Pdf1) poly(b-hydroxybutyrate) (PHB) depolymerase using a new, single-step substrate affinity chromatography method: characterization of the
+PHB depolymerase exhibiting novel self-aggregation behavior.
+J Polym Environ 8:197–203
+Jaeger K-E, Steinbchel A, Jendrossek D (1995) Substrate specificities of bacterial polyhydroxyalkanoate depolymerases and
+lipases: bacterial lipases hydrolyze poly(w-hydroxyalkanoates).
+Appl Environ Microbiol 61:3113–3118
+Jarerat A, Tokiwa Y (2001a) Degradation of poly(l-lactide) by a
+fungus. Macromol Biosci 1:136–140
+Jarerat A, Tokiwa Y (2001b) Degradation of poly(tetramethylene
+succinate) by thermophilic actinomycetes. Biotechnol Lett
+23:647–651
+Jendrossek D (1998) Microbial degradation of polyesters: a review
+on extracellular poly(hydroxyalkanoic acid) depolymerases.
+Polym Degrad Stab 59:317–325
+Jendrossek D (2001) Microbial degradation of polyesters. Adv
+Biochem Eng Biotechnol 71:293–325
+Jendrossek D, Schirmer A, Schlegel HG (1996) Biodegradation of
+polyhydroxyalkanoic acids. Appl Microbiol Biotechnol
+46:451–463
+Karl M, Holler E (1998) Multiple polypeptides immunologically
+related to b-poly(l-malate) hydrolase (polymalatase) in the
+plasmodium of the slime mold Physarum polycephaum. Eur J
+Biochem 251:405–412
+
+Ki HC, Park OO (2001) Synthesis, characterization and biodegradability of the biodegradable aliphatic-aromatic random copolyesters. Polymer 42:1849–1861
+Killham K (1994) Soil ecology. Cambridge University Press,
+Cambridge
+Kim H, Ju H-S, Kim J (2000a) Characterization of an extracellular
+poly(3-hydroxy-5-phenylvalerate) depolymerase from Xanthomonas sp. JS02. Appl Microbiol Biotechnol 53:323–327
+Kim HM, Ryu KE, Bae K-S, Rhee YH (2000b) Purification and
+characterization of extracellular medium-chain-length polyhydroxyalkanoate depolymerase from Pseudomonas sp. RY-1. J
+Biosci Bioeng 89:196–198
+Kim M-N, Lee A-R, Yoon J-S, Chin I-J (2000c) Biodegradation of
+poly(3-hydroxybutyrate), Sky-Green and Mater-Bi by fungi
+isolated from soils. Eur Polym J 36:1677–1685
+Kim DY, Nam JS, Rhee YH (2002a) Characterization of an
+extracellular medium-chain-length poly(3-hydroxyalkanoate)
+depolymerase from Pseudomonas alcaligenes LB19.
+Biomacromolecules 3:291–296
+Kim DY, Yun JH, Kim HW, Bae KS, Rhee YH (2002b)
+Purification and characterization of poly(3-hydroxybutyrate)
+depolymerase from a fungal isolate, Emericellopsis minima
+W2. J Microbiol 40:129–133
+Kim DY, Shin DS, Nam JS, Rhee YH (2002c) Molecular cloning of
+the gene encoding medium-chain-length poly(3-hydroxyalkanoate) depolymerase from Pseudomonas alcaligenes LB19.
+Proc Int Meet Fed Korean Microbiol Soc 2002:206
+Kita K, Ishimaru K, Teraoka M, Yanase H, Kato N (1995)
+Properties of poly(3-hydroxybutyrate) depolymerase from a
+marine bacterium, Alcaligenes faecalis AE122. Appl Environ
+Microbiol 61:1727–1730
+Kleeberg I, Hetz C, Kroppenstedt RM, Mller R-J, Decker W-D
+(1998) Biodegradation of aliphatic–aromatic copolyesters by
+Thermomonospora fusca and other thermophilic compost
+isolates. Appl Environ Microbiol 64:1731–1735
+Kolattukudy PE (2001) Polyesters in higher plants. Adv Biochem
+Eng Biotechnol 71:1–49
+Korherr C, Roth R, Holler E (1995) Poly(b-l-malate) hydrolase
+from plasmodia of Physarum polycephaum. Can J Microbiol 41
+[Suppl 1]:192–199
+Liu S, Steinbchel A (1996) Investigation of poly(b-malic acid)
+production by strains of Aureobasidium pullulans. Appl
+Microbiol Biotechnol 46:273–278
+Madison LL, Huisman GW (1999) Metabolic engineering of
+poly(3-hydroxyalkanoates): from DNA to plastic. Microbiol
+Mol Biol Rev 63:21–53
+Matavulj M, Molitoris HP (1992) Fungal degradation of polyhydroxyalkanoates and a semiquantitative assay for screening
+their degradation by terrestrial fungi. FEMS Microbiol Rev
+103:323–332
+McLellan DW, Halling PJ (1988) Acid-tolerant poly(3-hydroxybutyrate) hydrolases from moulds. FEMS Microbiol Lett
+52:215–218
+Mergaert J, Swings J (1996) Biodiversity of microorganisms that
+degrade bacterial and synthetic polyesters. J Ind Microbiol
+17:463–469
+Mergaert J, Anderson C, Wouters A, Swings J, Kersters K (1992)
+Biodegradation of poly(hydroxyalkanoates). FEMS Microbiol
+Rev 103:317–322
+Mergaert J, Webb A, Anderson C, Wouters A, Swings J (1993)
+Microbial degradation of poly(3-hydroxybutyrate) and poly(3hydroxybutyrate-co-3-hydroxyvalerate) in soils. Appl Environ
+Microbiol 59:3233–3238
+Mergaert J, Anderson C, Wouters A, Swings J (1994) Microbial
+degradation of poly(3-hydroxybutyrate) and poly(3-hydroxybutyrate-co-3-hydroxyvalerate) in compost. J Environ Polym
+Degrad 2:177–183
+Mergaert J, Wouters A, Anderson C, Swings J (1995) In situ
+biodegradation of poly(3-hydroxybutyrate) and poly(3-hydroxybutyrate-co-3-hydroxyvalerate) in natural waters. Can J
+Microbiol 41 [Suppl 1]:154–159
+
+308
+Miyazaki S, Takahashi K, Shiraki M, Saito T, Tezuka Y, Kasuya KI (2000) Properties of a poly(3-hydroxybutyrate) depolymerase
+from Penicillium funiculosum. J Polym Environ 8:175–182
+Mller R-J, Kleeberg I, Deckwer W-D (2001) Biodegradation of
+polyesters containing aromatic constituents. J Biotechnol
+86:87–95
+Murphy CA, Cameron JA, Huang SJ, Vinopal RT (1996) Fusarium
+polycaprolactone depolymerase is cutinase. Appl Environ
+Microbiol 62:456–460
+Murphy CA, Cameron JA, Huang SJ, Vinopal RT (1998) A second
+polycaprolactone depolymerase from Fusarium, a lipase distinct from cutinase. Appl Microbiol Biotechnol 50:692–696
+Nagata M, Kiyotsukuri T, Minami S, Tsutsumi N, Sakai W (1997)
+Enzymatic degradation of poly(ethylene terephthalate) copolymers with aliphatic dicarboxylic acids and/or poly(ethylene
+glycol). Eur Polym J 33:1701–1705
+Nakamura K, Tomita T, Abe N, Kamio Y (2001) Purification and
+characterization of an extracellular poly(l-lactic acid) depolymerase from a soil isolate, Amycolatopsis sp. strain K104-1.
+Appl Environ Microbiol 67:345–353
+Nam JS, Kim HC, Kim DY, Rhee YH (2002) Distribution and
+diversity of microbial communities relating to biodegradation
+of medium-chain-length poly(3-hydroxyalkanoates) in soils.
+Proc Int Symp Genet Ind Microorg 9:192
+Neumeier S (1994) Abbau thermoplastischer Biopolymere auf
+Poly-b-Hydroxyalkanoat-Basis durch terrestrische und marine
+Pilze. PhD thesis, Universitt Regensburg, Regensburg
+Nishida H, Tokiwa Y (1993) Distribution of poly(b-hydroxybutyrate) and poly(e-caprolactone) aerobic degrading microorganisms in different environments. J Environ Polym Degrad
+1:227–233
+Oda Y, Asari H, Urakami T, Tonomura K (1995) Microbial
+degradation of poly(3-hydroxybutyrate) and polycaprolactone
+by filamentous fungi. J Ferment Bioeng 80:265–269
+Oda Y, Osaka H, Urakami T, Tonomura K (1997) Purification and
+properties of poly(3-hydroxybutyrate) depolymerase from the
+fungus Paecilomyces lilacinus D218. Curr Microbiol 34:230–
+232
+Oda Y, Yonetsu A, Urakami T, Tonomura K (2000) Degradation of
+polylactide by commercial proteases. J Polym Environ 8:29–32
+Pranamuda H, Tokiwa H (1999) Degradation of poly(l-lactide) by
+strains belonging to genus Amycolatopsis. Biotechnol Lett
+21:901–905
+Pranamuda H, Tokiwa Y, Tanaka H (1995) Microbial degradation
+of an aliphatic polyester with a high melting point, poly(tetramethylene succinate). Appl Environ Microbiol 61:1828–1832
+Pranamuda H, Tokiwa H, Tanaka H (1997) Polylactide degradation
+by an Amycolatopsis sp. Appl Environ Microbiol 63:1637–1640
+Renstad R, Karlsson S, Albertsson A-C (1999) The influence of
+processing induced differences in molecular structure on the
+biological and non-biological degradation of poly(3-hydroxybutyrate-co-3-hydroxyvalerate), P(3-HB-co-3-HV). Polym Degrad Stab 63:201–211
+Rhee YH, Hah YC, Hong SW (1987) Relative contributions of
+fungi and bacteria to soil carboxymethylcellulase activity. Soil
+Biol Biochem 19:479–481
+Sakai K, Kawano H, Iwami A, Nakamura M, Moriguchi M (2001)
+Isolation of a thermophilic poly-l-lactide degrading bacterium
+from compost and its enzymatic characterization. J Biosci
+Bioeng 92:298–300
+
+Sanchez JG, Tsuchii A, Tokiwa Y (2000) Degradation of
+polycaprolactone at 50 C by a thermotolerant Aspergillus sp.
+Biotechnol Lett 22:849–853
+Sang B-I, Hori K, Tanji Y, Unno H (2002) Fungal contribution to in
+situ biodegradation of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) film in soil. Appl Microbiol Biotechnol 58:241–247
+Scherer TM (1996) Biological and enzymatic mechanisms of
+polyester biodegradation of fungi. PhD thesis, University of
+Massachusetts, Ahmerst
+Scherer TM, Fuller RC, Lenz RW, Goodwin S (1999) Hydrolysis
+activity of an extracellular depolymerase from Aspergillus
+fumigatus with bacterial and synthetic polyesters. Polym
+Degrad Stab 64:267–275
+Schirmer A, Jendrossek D (1994) Molecular characterization of the
+extracellular poly(3-hydroxyoctanoic acid) [P(3HO)] depolymerase gene of Pseudomonas fluorescens GK13 and of its gene
+product. J Bacteriol 176:7065–7073
+Schirmer A, Jendrossek D, Schlegel HG (1993) Degradation of
+poly(3-hydroxyoctanoic acid) [P(3HO)] by bacteria: purification and properties of a P(3HB) depolymerase from Pseudomonas fluorescens GK13. Appl Environ Microbiol 59:1220–
+1227
+Scott G (2000) ’Green’ polymers. Polym Degrad Stab 68:1–7
+Shimada K, Matsushima K, Fukumoto J, Yamamoto T (1969) Poly(l)-malic acid: a new protease inhibitor from Penicillium
+cyclopium. Biochem Biophys Comm 35:619–624
+Shimao M (2001) Biodegradation of plastics. Curr Opin Biotechnol
+12:242–247
+Steinbchel A (2001) Perspectives for biotechnological production
+and utilization of biopolymers: metabolic engineering of
+polyhydroxyalkanoate biosynthesis pathways as a successful
+example. Macromol Biosci 1:1–24
+Steinbchel A, Valentin HE (1995) Diversity of bacterial polyhydroxyalkanoates. FEMS Microbiol Lett 128:219–228
+Suyama T, Tokiwa Y, Ouichanpagdee P, Kanagawa T, Kamagata Y
+(1998) Phylogenetic affiliation of soil bacteria that degrade
+aliphatic polyesters available commercially as biodegradable
+plastics. Appl Environ Microbiol 64:5008–5001
+Tansengco ML, Tokiwa Y (1998) Thermophilic microbial degradation of polyethylene succinate. World J Microbiol Biotechnol
+14:133–138
+Tokiwa Y, Suzuki T (1977a) Purification and some properties of
+polyethylene adipate-degrading enzyme produced by Penicillium sp. strain 14-3. Agric Biol Chem 41:265–274
+Tokiwa Y, Suzuki T (1977b) Hydrolysis of polyesters by lipases.
+Nature 270:76–78
+Tokiwa Y, Ando T, Suzuki T (1976) Degradation of polycaprolactone by a fungus. J Ferment Technol 54:603–608
+Tokiwa Y, Suzuki T, Takeda K (1986) Hydrolysis of polyesters by
+Rhizopus arrhizus lipase. Agric Biol Chem 50:1323–1325
+Tomita K, Kuroki Y, Nakai K (1999) Isolation of thermophiles
+degrading poly(l-lactic acid). J Biosci Bioeng 87:752–755
+Torres A, Li SM, Roussos S, Vert M (1996) Screening of
+microorganisms for biodegradation of poly(lactic acid) and
+lactic acid-containing polymers. Appl Environ Microbiol
+62:2393–2397
+Walter T, Augusta J, Mller R-J, Widdecke H, Klein J (1995)
+Enzymatic degradation of a model polyester by lipase from
+Rhizophus delemar. Enzyme Microb Technol 17:218–224
+Williams DF (1981) Enzymatic hydrolysis of polylactic acid. Eng
+Med 10:5–7
+
+

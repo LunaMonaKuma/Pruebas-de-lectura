@@ -1,0 +1,939 @@
+Current Research in Environmental & Applied Mycology (Journal of Fungal Biology)
+11(1): 1–15 (2021)
+ISSN 2229-2225
+
+Article
+
+www.creamjournal.org
+
+Doi 10.5943/cream/11/1/1
+
+Biodegradation of plastics waste using fungi: A review
+Asiandu AP1*, Wahyudi A2 and Sari SW3
+1
+
+Master Student of Biology Department, Faculty of Biology, Gadjah Mada University, Indonesia
+Biology Department, Faculty of Mathematics and Natural Science, Sriwijaya University, Indonesia
+3
+Student of Sociology Department, Faculty of Social and Political Science, University of Bengkulu, Indonesia
+2
+
+Asiandu AP, Wahyudi A, Sari SW 2021 – Biodegradation of plastics waste using fungi: A review.
+Current Research in Environmental & Applied Mycology (Journal of Fungal Biology) 11(1), 1–15,
+Doi 10.5943/cream/11/1/1
+Abstract
+Plastics are synthetic polymers that are widely used in every field of life every day. Along
+with the increasing use of plastic, the amount of plastic waste produced and accumulated to
+environment will also increase. If the plastic waste is not handled properly, it will pollute the
+environment and threaten many living things including humans. Biodegradation is a promising
+method for dealing with plastic waste. This method includes many microbes including fungi such
+as Aspergillus spp. and Penicillium spp. as its biodegradation agents. Some plastics degrading fungi
+produce many specific enzymes that catalyze the degradation of plastic polymer into simpler and
+smaller fragments including oligomer, dimer, and monomer through several steps including
+biodeterioration, depolymerization, assimilation, and mineralization. The fragmented plastic
+particles are absorbed and used by plastic degrading fungi as their energy and carbon sources.
+Biodegradation is the appropriate method to overcome the plastics pollution because this method
+has no side effects as the conventional methods.
+Key words – Biodegradation – Biodeterioration – Depolymeration – Fungi – Plastics Waste
+Introduction
+Plastics are relatively inexpensive, lightweight, resistant to water, and strong products can be
+used for many purposes. This polymer is widely used in almost all fields of life. The use of plastic
+products is likely to increase by 9% every year (Thompson et al. 2009). World plastic production
+reached 400 million tons annually (UNEP 2018). Unfortunately, plastic contains various toxic
+components hazardous to living things. The massive use of plastic products leads to plastics
+accumulation in the environment (Thompson et al. 2009), because these pollutants require a very
+long time to be completely degraded in nature, thus pollute the water, land, and air (Kathiresan
+2003, Soud 2019).
+In Western Europe, around 7.4% of municipal solid wastes are plastic wastes. As much as
+65% of that amount is polyethylene/polypropylene, 15% polystyrene, 10% PVC, 5% PET, and the
+rest come from other plastic polymers (Premraj & Doble 2005). In 2010, China ranked first among
+the countries that were top producer of plastic wastes generating 27.7% of total global mismanaged
+plastic wastes or around 8.82 MMT/year (Millions of Metric Tons per Year). Indonesia was at
+second position (10.1%) in the list of the world's total mismanaged plastic wastes, followed by
+Philippines (third, 5.9%), Vietnam (fourth, 5.8%), Sri Lanka (fifth, 5%), Thailand (sixth, 3.2%),
+Egypt (seventh, 3%), Malaysia (eighth, 2.9%), Nigeria (ninth, 2.7%), Bangladesh (tenth, 2.5%), and
+Submitted 14 September 2020, Accepted 17 December 2020, Published 19 January 2021
+Corresponding Author: Angga P. Asiandu – e-mail – anggahasiandu@gmail.com
+
+1
+
+United States (twentieth, 0.9%) (Jambeck et al. 2015). North-East Asia was the highest single-use
+plastic producer in 2014, 26% in particular, followed by North America (21%), Middle East (17%),
+Europe (16%), Asia and the Pacific (12%), Central and South America (4%), and the former Uni
+Soviet countries (3%). Based on the industrial sector, packaging was the sector that consumed the
+most single-use plastic or about 36%. Plastic production in the building and construction sector was
+16%, textiles 14%, consumer and institutional products 10%, transportation 7%,
+electronics/electrical 4%, machinery industry 1%, and about 12% used in other sectors (UNEP
+2018).
+Plastic wastes have become contaminants on land and in the aquatic environment. Thus,
+effective plastic waste processing methods are needed (Mandan & Arya 2017). The common
+methods used in processing plastic wastes are landfill, incineration, and recycling. Each of these
+methods has its weaknesses. Thus, they are not effective in solving plastics pollution. Landfill
+plastic wastes processing requires a long time without rotting. Incineration treatment will produce
+toxic gases into the environment (Al-Salem et al. 2009, Hopewell et al. 2009, Gan & Zhang 2019).
+The incineration process of PVC, PET, PS, and PE wastes produces carcinogenic substances as
+PAHs, nitro-PAHs, dioxins, and others (Al-Salem et al. 2009, Yang et al. 2018). Additionally,
+recycling plastic wastes is also relatively expensive (Al-Salem et al. 2009, Hopewell et al. 2009,
+Gan & Zhang 2019).
+Some plastic wastes processing techniques that include energetic, chemical, and biological
+methods were developed three decades ago. The energetic processing technique uses radiation
+energies such as gamma rays, ion beams, electrons, and UV rays. The plastic wastes chemical
+processing technique involves certain chemicals such as acids and alkalis. While the biological
+plastic wastes processing technique utilizes various kinds of microbes, this technique is known as
+biodegradation (Premraj & Doble 2005). Of all the methods of handling plastic wastes,
+biodegradation is recognized as the most promising and environmentally safe method of processing
+plastic wastes (Gan & Zhang 2019). Biodegradation is the processing of plastic waste using
+microorganisms (Verma & Gupta 2019).
+Types of Plastic
+Plastics can be divided into thermoplastics and thermosets. Thermoplastic is a group of
+plastics that can be remelted and reprocessed back into a product as well as recyclable. Meanwhile,
+thermosets or thermosetting is a plastic group that cannot be remelted because the molecular bonds
+contained in that plastic polymers are tightly bound in crosslink (Chan & Ji 1999, Albano et al.
+2009, Choi et al. 2009, Al-Salem et al. 2010, Bărbută et al. 2010, Choi et al. 2005, Mohammadian
+& Haghi 2013). The four most commonly used plastic polymers in daily life are high-density
+polyethylene (HDPE), low-density polyethylene (LDPE), polypropylene (PP), and polyethylene
+terephthalate (PET). They are the most common sources of plastic pollutants that are mainly used
+as plastic bags (Drzyzga & Prieto 2018). Polyethylene (PE) is the most widely used plastic. The use
+of that polymer reached 29.6% of the total daily plastic used, followed by polypropylene (PP) as
+much as 18.9%, polyvinyl chloride (PVC) 10.4%. Meanwhile, the use of polyurethane (PUR)
+reached 7.4%, polystyrene (PS) reached 7.1% and the use of PET reached 6.9% (Wu et al. 2017,
+Yang et al. 2018).
+Polyethylene (PE) is a synthetic plastic that has a high molecular weight, complex threedimensional structure, and hydrophobic nature (Hadad et al. 2005, Shah 2009). Polyethylene is
+composed of stable polymers containing bonds composed of ethylene monomers (Alshehrei 2017).
+The stability of the polymers makes this plastic resistant to degradation in nature (Nandi & Joshi
+2013). PP is a synthetic plastic composed of a heat-and-chemical-resistant polymer. Because of this
+property, PP is resistant to degradation (Khoironi et al. 2019).
+PET has two hydroxyls (OH) and dicarboxylic aromatic acids consisting of aromatic carbon
+rings and two carboxyls (CO2H) (Venkatachalam et al. 2012, Farzi et al. 2019, Webb et al. 2013).
+This plastic is synthesized by involving two chemical reactions (Kint & Muñoz-Guerra 1999,
+
+2
+
+Awaja & Pavel 2005, Webb et al. 2013). The aromatic components contained in PET caused this
+synthetic polymer difficult to be degraded naturally in the environment (Webb et al. 2013).
+The presence of ester bonds in PET polymers leads to their strong and recalcitrant characters
+causing them scarcely to be degraded in the environment (Lucas et al. 2008, Khoironi et al. 2019).
+However, many microbial communities can utilize PET as their carbon and energy source (Zhang
+et al. 2004, Webb et al. 2013). Extracellular polymeric components produced and excreted by some
+microbes are appropriate to overcome the recalcitrant properties of plastics including PET. Thus,
+they can be used as plastic polymers degrading agents. Extracellular components produced by
+microbes play an important role as bio surfactants that enhance the changing of hydrophilic and
+hydrophobic phases between the plastic surface and microbial cell surfaces. This change is
+important to help them to break down plastic polymers (Lucas et al. 2008, Khoironi et al. 2019).
+Furthermore, biodegradable plastics and polymers are materials that are now widely used in
+various industries (Weng et al. 2013, Kim et al. 2017). Biodegradable polymers are polymers
+containing amides, esters, or ethers bonds. Biodegradable polymers can be distinguished into agropolymers, and bio-polyesters (Tiwari et al. 2018). Some biodegradable plastics include polylactic
+acid (PLA) and polybutylene adipate-co-terephthalate (Weng et al. 2013, Kim et al. 2017).
+Although biopolymers are easier to be degraded than non-biodegradable synthetic polymers,
+biodegradable polymers also have strong carbon bonds that cannot be degraded in such a short time
+(Tiwari et al. 2018). The complete biodegradation process of a biodegradable polymers in nature
+takes months or even years (Kim et al. 2017).
+The Negative Effects of Plastics Waste
+The massive use of plastics generates the accumulation of plastic wastes in the environment
+(Ahsan et al. 2016). Plastic wastes cause many diseases for living beings, including humans. Plastic
+polymers accidentally ingested lead to immune system disorders, inhibit and disturb enzyme
+activities, and cause hormonal system disorders resulting in abnormalities of the endocrine system.
+The carcinogenic compounds of this synthetic polymer threaten many living creatures both on land
+and in aquatic environments (Pavani & Rajeswari 2014, Munir et al. 2018).
+Plastic waste polluting the land can be imperfectly degraded by environmental factors. They
+cause the washing or decomposition of harmful substances of the plastic polymers into the
+environment. Hazardous substances such as heavy metals, plasticizers, stabilizers, and plastic dyes
+will be released into the environment. These pollutants pollute the terrestrial environment.
+Furthermore, they will be carried by the water stream then pollute the aquatic environment. In
+particular, around 80% of plastic pollution in the aquatic environment originated from the land
+(Sheavly 2005, Alabi et al. 2019).
+Plastic wastes float from one place to another. They might bring many living things to new
+places, introduce some invasive species to a new aquatic environment that will compete with
+indigenous species (Derraik 2002, Hasnat & Rahman 2018). Fire is another adverse effect of plastic
+waste that is caused by the burning of flammable plastic waste. Not only causes many types of
+losses, but the smoke produced by the burning of the plastic wastes also emits toxic gases into the
+air like carbon monoxide (CO) and hydrogen monoxide (HCN) (Purwaningrum 2016).
+Even though plastic might be degraded in nature after hundreds or thousands of years, the
+incomplete degradation of that recalcitrant polymer releases toxic fragments into the environment
+thus causing many problems. The fragmented toxic compounds might be accumulated in various
+living things resulting in some health disorders (Kang et al. 2019). Moreover, the accumulation of
+plastic wastes pollute the view which decreases the attractiveness of tourism objects in a country
+thus adversely affecting a country's economy, mainly a country that is highly depend on tourism as
+the main source of its GDP. It is because of the number of plastic wastes discomfort and reduce the
+tourists interest toward a tourism object (UNEP 2018). After all, the complete and environmentally
+safe plastic waste processing method is needed. Various studies have reported that the degradation
+of plastic waste using enzymes produced by microbes such as fungi is the appropriate method to
+overcome plastic pollution (Kang et al. 2019).
+3
+
+Plastics Waste Biodegradation
+Plastic recycling activities have several weaknesses. Plastic wastes that piled up by the
+community become more difficult to separate based on its type. It will be worse if the plastic
+wastes mixed with various other wastes. The mixed plastic wastes will affect the plastic melting
+point and even get more complicated. Contaminated plastic waste might damage the plastic melting
+machine. Besides, adequate space is also needed in recycling (Sahwan et al. 2005).
+The burning of plastic wastes as often done by the community, and incineration process
+produce pollutants that are harmful to the environment. The incineration process releases
+greenhouse gases such as furans and dioxins depleting the ozone layer. Dioxins are hazardous
+components interfering with the endocrine system in humans (Chaturvedi 2002, Pilz et al. 2010,
+Kumar et al. 2017). Therefore, biodegradation is the essential plastic wastes processing method to
+solve these problems as this process will completely degrade plastic polymers resulting in
+microbial biomass as its biological agents (Kumar et al. 2017).
+Synthetic polymers are potential energy and carbon sources for microorganisms. For instance,
+complete oxidation of polyethylene polymers produces almost the same energy as glucose, a
+substrate for microbes. The complete oxidation of polyethylene produces usable energy ranging
+from -422 kJ to -425 kJ per mole of O2. Meanwhile, the usable energy generated from glucose is
+-479 Kj per mole O2. The complexity of synthetic polymers such as polyethylene and
+polypropylene, containing C-C skeletal bonds, makes them nonhydrolyzable. As they are
+nonhydrolyzable so they will be firstly broken down through redox reactions into simpler ones then
+assimilated by microbial cells. Meanwhile, hydrolyzable polymers such as polyethylene
+terephthalate and polyamide, containing amides and ester bonds, can be directly hydrated by
+enzymes produced by microbes (Gewert et al. 2015, Krueger et al. 2015, Oberbeckmann & Labrenz
+2020).
+Hydrolysis is the breaking down of the functional bonds of a polymer by recombining them
+with water (Tiwari et al. 2018). The hydrolysis of semi-crystalline polymers such as esters, amides,
+and anhydrides take place in two stages. The first stage is the diffusion of water into the amorphous
+with succeeding hydrolysis. The second step will begin when moisture penetrates and degrades the
+crystalline parts of the polymer. The process will reduce the crystallinity and molecular weight of
+the polymer which makes the polymer more easily dissolved in water thus increases the erosion rate
+of the polymer. Afterward, the plastic surface corrosion process will change the structural
+dimensions of the plastic polymer (Rabek 1975, Tiwari et al. 2018).
+Biodegradation is a complete degradation process of a polymer through the activity of
+enzymes produced by microorganisms. The biodegradation process of plastic wastes is the
+breakdown of complex plastic polymers into simpler oligomers and monomers. These results will
+then be absorbed into the microbial cells (Gu 2003, Muhonja et al. 2018). In biodegradation,
+microbes will colonize the plastic surface to form biofilms. The colonization of plastic surfaces is
+affected by the hydrophobicity compatibility of plastic surfaces and microbes. Biofilms on plastic
+surfaces are useful for accelerating the degradation process of plastic polymers (Agrawal & Singh
+2016). Furthermore, there are two main activities in the biodegradation process. The first activity is
+the process of converting molecules that have high molecular weight into organic monomers and
+organic acids that occur through biological and chemical hydrolysis. The second process is the
+decomposition of these materials into gas that is carried out by microorganisms (Bikiaris 2013,
+Kim et al. 2017).
+Biodegradation has four stages consisting of biodeterioration, depolymerization, assimilation,
+and mineralization (Gu 2003, Muhonja et al. 2018). Biodeterioration is the cooperation activities
+between several microorganisms and abiotic factors that break down polymers into simpler ones.
+Depolymerization is a process in which microorganisms secrete catalytic compounds in the form of
+enzymes and free radicals to form biofilms helping them to break the polymer chain progressively
+become oligomers, dimers, and monomers (Marjayandari & Shovitri 2015). During the
+biodegradation process, the microbes expel various exoenzymes that break down complex
+polymers into simpler compounds that have shorter chains. These results will be used as carbon and
+4
+
+energy sources for microorganisms, the process is called depolymerization (Frazer 1994, Nandi &
+Joshi 2013).
+Moreover, biodegradation also involves mineralization processes (Frazer 1994, Nandi &
+Joshi 2013). This is a stage of biodegradation in which produces CO2, H2O, or CH4 (Premraj &
+Doble 2005). Mineralization occurs through a series of biological activities (Kim et al. 2017).
+Meanwhile, the degradation rate of plastic waste highly depends on the structure of the polymers
+forming the plastic, although the differences of the plastic structures are not too distinct. Other
+factors influencing the biodegradation of plastic waste are molecular weight, molecular shape, and
+crystallinity of plastic polymers (Premraj & Doble 2005).
+Plastics Degrading Fungi
+Many studies have reported the ability of fungi in plastic biodegradation (Table 1). Using
+fungi as bioremediation agents is an appropriate method to decrease the amount of plastic wastes
+polluting the environment. The rapid growth of fungi in many substrates is a beneficial factor in
+biodegradation. Because of their rapid growth, their mycelium will be spread out covering the
+entire substrate surfaces then penetrating them to start the biodegradation process. Fungi can be
+found in any kind of environment, including extreme environments such as low pH and arid (Kim
+& Rhee 2003, Nandi & Joshi 2013). Fungi isolated from soil exposed to plastics are important
+plastic wastes biodegradation agents (Nandi & Joshi 2013). There are many studies that reported
+some plastic degrading fungi including Gliomastix sp., Chaetomium sp., Fusarium sp., Mortierella
+sp., and Paecilomyces sp. (Nathania & Kuswytasari 2013, Hardiyanti et al. 2017). Indigenous fungi
+isolated from plastics contaminated landfill are potential agents of plastic biodegradation as
+Trichoderma sp., Aspergillus flavus, and Aspergillus niger (Hardiyanti et al. 2017).
+Table 1 Some plastics degrading fungi
+No.
+1.
+
+2.
+
+Plastics
+Type
+PE
+
+LDPE
+
+Fungi
+
+Isolate Sources
+
+References
+
+Aspergillus niger
+Aspergillus flavus
+Aspergillus sydowii
+PNPF15/TF
+Aspergillus terreus
+MANGF1/WL
+Chaetomium globosum
+Fusarium sp. AF4
+Myceliophthora sp.
+A.fumigatus
+Aspergillus flavus
+Aspergillus japonicas
+Aspergillus niger
+
+Garbage soil
+Garbage soil
+Rhizosphere Avicenia
+marina
+Rhizosphere Avicenia
+marina
+Dumpsite soil
+Sewage sludge
+Plastic garbage
+Red sea
+Red sea
+Polythene bags
+Red sea
+Polythene bags
+Culture
+Landfill soil
+Red sea
+Polyethylene contaminated
+soil
+Red sea
+Landfill soil
+Plastic waste dumping site
+Culture
+Wild fungi from Ohgap
+Mountains, South Korea
+Culture
+
+Nandi & Joshi (2013)
+Nandi & Joshi (2013)
+Sangale et al. (2019)
+
+Aspergillus nomius
+Aspergillus terreus
+Mucor sp.
+
+3.
+
+HDPE
+
+Penicillium sp.
+Trichoderma viride
+Aspergillus fumigatus
+Aspergillus niger
+Bjerkandera adusta
+
+4.
+
+PET
+
+Aspergillus niger
+
+Sangale et al. (2019)
+Sowmya et al. (2014)
+Shah et al. (2009)
+Khalil et al. (2013)
+Alshehrei (2017)
+Alshehrei (2017)
+Mandan & Arya (2017)
+Alshehrei (2017)
+Mandan & Arya (2017)
+Ingavale et al. (2018)
+Munir et al. (2018)
+Alshehrei (2017)
+Singh & Gupta (2014)
+Alshehrei (2017)
+Munir et al. (2018)
+Verma & Gupta (2019)
+Ingavale et al. (2018)
+Kang et al. (2019)
+Asmita et al. (2015)
+
+5
+
+Table 1 Continued.
+
+5.
+
+Plastics
+Type
+PUR
+
+6.
+
+PHB
+
+7.
+
+PS-PUR
+
+No.
+
+Fungi
+
+Isolate Sources
+
+References
+
+Monascus ruber
+Monascus sanguineus
+Monascus sp.
+Pestalotiopsis sp.
+
+Plastic contaminated soil
+Plastic contaminated soil
+Plastic contaminated soil
+Isolated from Nephentes
+ampullaria
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Culture
+Soil
+Soil, plastic debris, latex and
+plastic shield
+Soil, plastic debris, latex and
+plastic shield
+Soil, plastic debris, latex and
+plastic shield
+Soil, plastic debris, latex and
+plastic shield
+Soil, plastic debris, latex and
+plastic shield
+Soil, plastic debris, latex and
+plastic shield
+
+El-Morsy et al. (2017)
+El-Morsy et al. (2017)
+El-Morsy et al. (2017)
+Lii et al. (2017)
+
+Alterneria alternate
+Aspergillus flavus
+Aspergillus fumigatus
+Aspergillus nidulans
+Aspergillus niger
+Aspergillus ochraceus
+Aspergillus oryzae
+Aspergillus parasiticus
+Aspergillus terreus
+Fusarium sp.
+Penicillium sp.
+Trichoderma sp.
+Trichoderma viride
+A. flavus (FopI-2)
+A. fumigatus (FopI-4)
+Aspergillus sonali
+(FsH-3)
+A. terreus (FsH-8)
+Fusarium solani
+(FsM-6)
+Spicaria spp. (Fp-7)
+
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Aburas (2016)
+Râpă et al. (2014)
+Ibrahim et al. (2011)
+Ibrahim et al. (2011)
+Ibrahim et al. (2011)
+Ibrahim et al. (2011)
+Ibrahim et al. (2011)
+Ibrahim et al. (2011)
+
+There are many studies that reported polyethylene (PE) degrading fungi, Myceliophthora sp.
+is one of them. This fungus produces laccase catalyzing the degrading process of plastic polymers.
+It produces laccase optimally at pH 5.0 and temperature 30oC. This plastic degrading fungus can
+grow on a medium containing polyethylene. Electron microscopy analysis showed that the surface
+of the plastic exposed to the fungus was damaged, thus closely related to the activity of the laccase
+produced by the fungus (Khalil et al. 2013).
+Two other polyethylene degrading isolates are Aspergillus terreus MANGF1/WL and
+Aspergillus sydowii PNPF15/TF isolated from the Avicennia marina rhizosphere. Aspergillus
+terreus MANGF1/WL reduced 50% of the weight of plastic samples at pH 5.0 within 60 days.
+Whereas Aspergillus sydowii PNPF15/TF reduced the weight of plastic samples about 94% at pH
+3.5 within the same incubation period. These weight reductions were associated with depolymerase
+enzyme activity that broke the polyethylene bonds (Sangale et al. 2019). As well as those fungi, A.
+fumigatus reduced polyethylene weight about 24% and A. oryzae 36%. Fungi Aspergillus spp. such
+as A. fumigatus, A. oryzae and A. flavus produce laccase to degrade plastic polymers. While the
+highest laccase activity was found in A. oryzae (Muhonja et al. 2018).
+Indumathi & Gayathri (2016), successfully obtained several plastic degrading fungi isolated
+from plastic-contaminated dumping sites consisting of Aspergillus niger, A. oryzae, A. japonicus
+and Penicillium sp. They found that A. oryzae dominated the soil samples. The fungus was then
+tested for its plastic degradation ability using plastic strips that are buried in soil pits. Based on the
+research, A. oryzae degraded those plastics about 20% within 15 days, 24% within 30 days, 26%
+
+6
+
+within 45%, and 30% within 60 days. SEM analysis revealed that the plastics were experiencing
+micro cracks (Indumathi & Gayathri 2016).
+Chaetomium globosum was also reported as a plastic degrading fungus. The degradation rate
+of the fungus was higher after the plastic was given preliminary treatment by UV light and
+autoclaved. It reduced the plastic weight exposed to UV light by about 21% within 3 months. UV
+light is the oxidation initiator of polymers as well as accelerates the degradation rate. The initial
+treatment using UV light in plastic degradation was more effective. The degradation of autoclaved
+plastic using Chaetomium globosum was only 7.5%. Meanwhile, plastic samples that were only
+surface sterilized before exposed to this fungus were degraded by about 5.6% within the same
+incubation time (Sowmya et al. 2014). Aspergillus niger and A. flavus decreased the plastic weights
+which were previously exposed by UV light and 99.9% nitric acid around 19-24% within 2-4
+months (Nandi & Joshi 2013). Moreover, Fusarium sp. AF4 was also reported that it was able to
+bind to the surface of PE. Based on the electron microscopy analysis, it was known that its hypha
+damaged the plastic surface. It thus facilitated the biodegradation process carried out by Fusarium
+sp. AF4 (Shah et al. 2009).
+Alshehrei (2017), obtained LDPE plastic degrading fungi isolated from the Red Sea including
+Aspergillus niger, A. flavus, A. terreus, A. fumigatus and Penicillium sp. The percentage of weight
+loss of the plastic samples within 1 month exposed to A. niger was 19.5%, A. flavus 16.2%,
+A. terreus 21.8%, A. fumigatus 20.5%, and Penicillium sp. was 43.3% (Alshehrei 2017).
+Aspergillus japonicas degraded the plastic about 12% within the same incubation period. SEM
+analysis proved that the plastic surfaces were experienced cracking, corrosion, and folding
+compared to controls that seemed normal (Mandan & Arya 2017). Also, Mucor sp. isolated from
+soil exposed to polyethylene plastic degraded LDPE about 16% within 4 weeks incubation in
+synthetic media containing LDPE as the main carbon source (Singh & Gupta 2014). Still, there are
+many LDPE degrading fungi such as Alternaria alternate, Emericella nidulans, Paecilomyces
+variotii, Penicillium duclauxii and P. vinaceum (Ameen et al. 2015).
+Aspergillus fumigatus also has a high HDPE plastic degradation ability. The fungus was able
+to reduce 59% of the plastic sample’s weight, 60.4 mg to 33.6 mg, using soil media within 9
+months. Whereas in the liquid medium, within 2 months it reduced HDPE weight about 29.1%.
+Based on SEM analysis, plastic surfaces tested with soil medium suffered more damages and
+perforations than liquid media compared to controls that were not damaged. FTIR analysis detected
+the presence of functional groups from the degradation process such as ketones, aldehydes,
+carboxylic acids, and others (Verma & Gupta 2019). Bjerkandera adusta was also reported to be
+able to degrade HDPE. The fungus produces oxidative extracellular enzymes potentially as plastic
+degrading enzymes. Raman analysis illustrated that the enzymes produced by the fungus degraded
+the amorphous structure of the HDPE (Kang et al. 2019).
+Meanwhile, A. niger (Ingavale et al. 2018), Penicillium oxalicum NS4 (KU559906) and
+P. chrysogenum NS10 (KU559907) degraded both LDPE and HDPE (Ojha et al. 2017, Verma &
+Gupta 2019). The degradation of LDPE and HDPE by A. niger was characterized by the decreasing
+in plastic molecular weight, plastic thickness, and intensity of the functional plastic groups. The
+color of the plastic samples exposed to the fungus was faded as well as the surface was damaged.
+These were the signs of enzymatic activity carried out by A. niger. In particular, the weight
+reduction of LDPE by the submerged method was 3.97% and the composting method was 1.89%.
+Whereas the weight reduction of HDPE with the submerged method was 3.56% and 1.6% with the
+composting method within 60 days (Ingavale et al. 2018). Not only degraded polyethylene
+polymers but A. niger also degraded another polymer, PET. Within 1 month this fungus was
+reported to decrease 52.94% of PET weight in Rose Bengal Broth (Asmita et al. 2015).
+Some fungi known as PHB plastic degradation agents are Penicillium, Aspergillus, Fusarium,
+Alternaria, Trichoderma, A. fumagates, A. oryzae (Aburas 2016), and Trichoderma viride (Râpă et
+al. 2014). The percentage of PHB degradation using solid media containing PHB within 7 days by
+Alternaria alternate was 14%, Aspergillus flavus 23%, Aspergillus fumigatus 24%, Aspergillus
+nidulans 47%, Aspergillus niger 24%, A. ochraceus 24%, Aspergillus parasiticus 25%, A. terreus
+7
+
+29%, Fusarium sp. 34%, Penicillium sp. 34% and Trichoderma sp. 14%. The hydrolysis of the
+PHB polymers catalyzed by depolymerase enzymes produced by those fungi (Aburas 2016).
+Meanwhile, Trichoderma viride caused several changes in plastic samples after 10 days of
+incubation including change in the color of plastic, perforation, and damage of the plastic surface.
+The surface perforation is the initial stage carried out by fungi before their mycelium covering the
+entire surface of the plastic then breaking down the plastic polymer (Râpă et al. 2014).
+Polyurethane plastic (PUR) can be degraded by several fungi including Monascus
+sanguineus, Monascus sp. (El-Morsy et al. 2017), and Pestalotiopsis microspore (Mandan & Arya
+2017). Monascus spp. produce esterase, protease, and lipase that catalyze the degradation of
+polyurethane by breaking down the ester bonds of PUR (El-Morsy et al. 2017). Besides being able
+to produce various kinds of antibiotic compounds, endophytic fungi are also reported to be able to
+degrade plastics. Lii et al. (2017) reported that Pestalotiopsis isolated from Nephentes ampullaria
+was able to degrade polyurethane (PUR). This endophytic fungus used PUR as its carbon source.
+The PUR degradation activity correlated with the activity of the esterase. Also, it was suspected
+that there was the involvement of the metallothionein-like protein in the degradation of the PUR
+(Lii et al. 2017). Pestalotiopsis microspore produces serine hydrolase enzymes and polyurethanase
+enzymes induced when the fungus is in a media containing PUR. It is also able to degrade plastics
+in anaerobic conditions which are very important for plastic waste degradation in extreme
+environments (Mandan & Arya 2017).
+Polyester-polyurethane (PS-PUR) degrading fungi including Spicaria spp., Aspergillus
+sonali, A. terreus, A. flavus, A. fumigatus and Fusarium solani used this polymer as their carbon
+and nitrogen source. In liquid shaking culture using liquid basal media within 3 weeks of
+incubation, Fusarium solani degraded completely (100%) the plastic sample. Meanwhile, under the
+same condition, the plastic degradation by Spicaria spp. was 12.7%, Aspergillus sonali 71.8%, A.
+terreus 26.1%, A. flavus 40.5%, and A. fumigatus 43.5%. In solid basal medium for 3 weeks
+incubation, Fusarium solani decreased that plastic weight by about 72.5%, Spicaria spp. degraded
+it about 22.9%. While, the percentage of degradation by A. solani, A. tereus, A. flavus, and A.
+fumigatus were 63.6%, 58%, 98.4% and 39.5% (Ibrahim et al. 2011).
+Besides being able to be used as biodegradation agents for plastic waste on the land, fungi
+can also be used as agents for the degradation of plastic waste in the aquatic environment. Paço et
+al. (2017) reported that fungi found in the sea, Zalerion maritimum, degraded PE polymer (Drzyzga
+& Prieto 2018).
+Enzymes Involved in Plastics Biodegradation
+During the biodegradation process, the fungal mycelium covers the entire plastic surfaces.
+They will synthesize and release various enzymes, such as lipase, esterase, urease, depolymerase,
+and hydrolase to break down the plastic polymers (Râpă et al. 2014). The ability of fungi to
+produce enzymes is influenced by the used substrate. The type of enzyme produced by fungi
+depends on the substrate. In particular, the differences between plastic polymers cause different
+types of enzymes produced by fungi. For instance, in the degradation of polyurethane, fungi will
+release some important enzymes to breakdown that plastic polymers such as proteases, esterases,
+lipases, laccases, and polyurethanases (Ibrahim et al. 2011, El-Morsy et al. 2017). These enzymes
+will break down polyurethane polymers by breaking the ester bonds (Bhardwaj et al. 2011, ElMorsy et al. 2017).
+Aspergillus flavus is one of many fungi known to be able to produce laccase, amylase, lignin
+peroxidase, and manganese peroxidase. Aspergillus niger produces laccase, lignin peroxidase, and
+manganese peroxidase. Fusarium graminearum produces amylase, laccase, lignin peroxidase, and
+manganese peroxidase. These four types of enzymes are essential in the breaking down of carbon
+bonds in polyethylene polymers (Ganesh et al. 2017). Meanwhile, Pestalotiopsis microspore
+produces serine hydrolase enzyme which catalyzes the degradation of PUR polymers (Russell et al.
+2011, Lii et al. 2017).
+
+8
+
+Not only useful in producing secondary metabolites but endophytic fungi also useful in
+plastic biodegradation. One of the plastic degrading endophytic fungi is Pestalotiopsis microspora.
+This fungus is a polyurethane plastic degrading agent. It produces serine hydrolase. This fungus
+also produces polyurethanase which is induced when the fungus is in a medium containing PUR.
+The fungus can degrade plastics in anaerobic condition, thus it is very important for processing
+plastic waste in extreme environments (Mandan & Arya 2017). Meanwhile, the degradation of PE
+by Chaetomium globosum catalyzed by laccase and manganese peroxidase. Manganese peroxidase
+activity is higher compared to laccase in the biodegradation process by this fungus (Sowmya et al.
+2014).
+Plastic polymers will be degraded through two steps. The first step is the release of enzymes
+into the substrate, the plastic polymers. The enzymes catalyze the hydrolysis reaction of the plastic
+polymers. Extracellular and intracellular depolymerase enzymes degrade plastic polymers. The
+smaller parts resulted from the early degradations will be absorbed by microbes which will then
+undergo intracellular biodegradation processes (Tokiwa & Calabia 2004, Bhardwaj et al. 2012).
+Hydrolase is a class of enzymes that has broad substrates that catalyze hydrolysis reaction of
+many substrates including peptides, amides, and halides (Junge & Kirsch 1973, Fojan et al. 2000).
+The hydrolysis of a polymer is conducted by involving aspartate, histidine, and serine. Interaction
+between aspartate and histidine ring produces hydrogen bonds. Histidine deprotonating serine
+forms nucleophilic alkoxide (-O) which attacks ester bonds in plastic polymers. This reaction
+produces an alcoholic tip and an acyl-enzyme complex. The acyl-enzyme complex will be attacked
+by water forming a carboxyl-end and free enzyme (Lucas et al. 2008, Tiwari et al. 2018).
+Two examples of hydrolase enzymes are esterase and lipase (Fojan et al. 2000). Esterase is an
+enzyme classified into hydrolase which catalyzes the breaking down and formation of ester bonds,
+involved in interesterification, intraesterification, and transesterification (Sayali et al. 2013). Ester
+bonds forming many polymers such as polyesters can be degraded by the esterase (Premraj &
+Doble 2005). This enzyme is often found in many microorganisms (Premraj & Doble 2005)
+including fungi such as Monascus ruber (El-Morsy et al. 2017).
+Lipase is also categorized as a hydrolase enzyme which has broad substrates. Lipase catalyzes
+water-insoluble substrates like long-chain fatty acids (Verger 1997, Fojan et al. 2000). Lipase is
+also capable of catalyzing hydrolytic cleavage of the ester bonds found in polyester that has a low
+molecular weight (Premraj & Doble 2005). Enzymes such as lipases and PHA depolymerases break
+ester bonds found in aliphatic polyester including PLA. Before the hydrolysis reaction occurs
+toward the polymers, the hydrophobic side of the enzyme will bind to the solid substrate through
+hydrophobic interactions (Mochizuki & Hirami 1997, Prema & Palempalli 2015). The optimum
+activity of PLA depolymerase isolated from Bacillus licheneformis was at pH 7.0, while the
+optimum temperature was around of 50oC-60oC. Heavy metals such as Mn2+, Cu2+, Na+, K+, Mg2+,
+and Fe2+ are the inhibitors of this enzyme (Prema & Palempalli 2015).
+Another important enzyme involved in plastic biodegradation is laccase. Laccase is an
+enzyme widely found in plants, fungi, other microorganisms (Sivakumar et al. 2010, Khalil et al.
+2013) and insects (Dana et al. 2017). This enzyme catalyzes the phenol substrate and other similar
+molecules through the oxidation process. This enzyme is a common lignolytic and lignin-degrading
+enzyme (Sivakumar et al. 2010, Khalil et al. 2013).
+Laccase is a polyphenol oxidase that oxidizes lignin by using molecular oxygen and
+producing water as its product. Laccase has broad substrates including phenols, ortho- and paradiphenols, amino phenols, methoxy phenols, polyphenols, polyamines, aryl diamines, and
+ascorbate. Laccase has various benefits, one of which is in the field of plastic bioremediation (Dana
+et al. 2017). This enzyme degrades xenobiotics, polycyclic aromatic hydrocarbons (PHAs),
+phenolic components, chlorinated phenolic pollutants, and diesel (Pannu & Kapoor 2014,
+Zarinkamar et al. 2014, Dana et al. 2017). This indicates great potential for environmental
+management caused by plastic wastes pollution (Gianfreda et al. 1999, Khalil et al. 2013).
+Laccase catalyzes the breaking down of polyethylene to carboxylic acid through oxidation.
+The product will be transported to fl-oxidation with coenzyme-A which breaks two carboxylic acid
+9
+
+fragments into acetyl-SCoA which will be further metabolized through the citric acid cycle. Water
+and carbon dioxide will be produced at the end of that reaction (Khalil et al. 2013). Multigene
+families associated with laccase production are mostly found in fungi. 17 genes that encode laccase
+production found in Coprinopsis cinera (Lu et al. 2015, Dana et al. 2017). Fungal laccase is a blue
+enzyme that contains multicopper. It catalyzes the oxidation of one electron contained in the phenol
+components by reducing molecular oxygen into water (Reinhammar 1984, Nishida et al. 2001).
+Other important enzymes are PHA depolymerases, PHB depolymerases, PLA depolymerases,
+PCL depolymerases, cutinases, ureases, proteinases (proteinase K in PLA degradation), and
+dehydratases (Pathak & Navneet 2017, Urbanek et al. 2018). PHA and PHB can be degraded by
+PHA and PHB depolymerases. PHB depolymerases degrade all (R) chains, cyclic-(R) oligomers,
+oligolides, and polymers composed of racemic hydroxybutanoate (Shimao 2001, Premraj & Doble
+2005). PCL can be degraded by lipases, esterases, cutinases (Premraj & Doble 2005). PLA
+degraded by Proteinase K, pronase, and bromelain (Shimao 2001, Premraj & Doble 2005). The
+ability of proteases to degrade PLA is because they can recognize α-ester bonds found in PLA
+(Nakamura et al. 2001, Pranamuda et al. 2001, Jarerat et al. 2006, Panyachanakul et al. 2019).
+Meanwhile, polyurethane polymers can be degraded by proteases, esterases, lipases, laccases, and
+polyurethanases (Ibrahim et al. 2011, El-Morsy et al. 2017).
+Conclusions and Future Perspective
+Plastics biodegradation using fungi is considered a potential method in overcoming the
+problem of plastic wastes. It is safe and more environmentally friendly. Fungi produce various kinds
+of extracellular and intracellular enzymes that degrade plastic polymers. Fungi use plastic polymers
+as energy and carbon sources for their metabolism. The application of this method can be crucial to
+overcome the accumulation of plastic wastes.
+However, the biodegradation of plastic waste has certain limitations. The plastics
+biodegradation process is affected by biotic factors, bioavailability, and characteristics of plastic
+polymers. Abiotic factors that affect the rate of plastic biodegradation are moisture, temperature, and
+pH. Biotic factors determining the rate of plastic biodegradation are enzymes and hydrophobicity.
+Meanwhile, the characteristics of plastic polymers that affect biodegradation are molecular weight,
+size and shape, additives, and bio surfactants (Ahmed et al. 2018). The type of fungus used also
+affects the biodegradation process of plastic waste. Each fungus is only effective in degrading
+certain types of plastic waste. This limitation is related to its ability to produce suitable enzymes to
+decompose plastic waste.
+Additionally, the studies of plastics biodegradation still focus on a laboratory scale and macro
+plastic waste. Also, based on the reported researches, the biodegradation rate of plastic waste using
+microorganisms takes ages (Matjašič et al. 2020). Therefore, research and development regarding
+the ability of fungi to degrade plastic wastes need to be conducted in future. Understanding fungal
+metabolism in degrading plastic wastes is one of the main factors. Metabolic engineering and
+optimization of processes are also essential to increase the fungal ability to degrade plastic wastes.
+Acknowledgements
+We thank all the researchers for their valuable and important studies about plastic waste
+biodegradation using plastic degrading fungi that cited by us in this review.
+References
+Aburas MMA. 2016 – Degradation of poly (3-hydroxybuthyrate) using Aspergillus oryzae obtained
+from uncultivated soil. Life Science Journal 13, 51–56.
+Agrawal P, Singh RK. 2016 – Breaking down of polyethylene by Pseudomonas Species.
+International Journal of Scientific&Engineering Research 7, 124–127.
+
+10
+
+Ahmed T, Shahid M, Azeem F, Rasul I et al. 2018 – Biodegradation of plastics: Current scenario
+and future prospects for environmental safety. Environmental Science and Pollution
+Research. 25, 7287–7298.
+Ahsan A, Ashraf M, Ali S, Aslam R et al. 2016 – Isolation and screening of polyethylene degrading
+fungi from solid waste material. Journal of Agriculture and Basic Sciences 1, 1–6.
+Alabi OA, Ologbonjaye KI, Awosolu O, Alade OE. 2019 – Public and environmental health effects
+of plastic wastes disposal: A Review. Journal of Toxicology and Risk Assessment 5, 1–13.
+Albano C, Camacho N, Hernandez M, Matheus A, Gutierrez A. 2009 – Influence of content and
+particle size of waste of PET bottles on concrete behavior at different w/c ratios. Waste
+Management 29, 2707–2716.
+Al-Salem SM, Lettieri P, Baeyens J. 2009 – Recycling and recovery routes of plastic solid waste
+(PSW): A review. Waste Manage 29, 2625–2643.
+Al-Salem SM, Lettieri P, Baeyens J. 2010 – The valorization of plastic solid waste (PSW) by
+primary to quaternary routes: From re-use to energy and chemicals. Progress in Energy and
+Combustion Science 36, 103–129.
+Alshehrei F. 2017 – Biodegradation of low density polyethylene by fungi isolated from Red Sea
+water. Int. J. Curr. Microbiol. App. Sci 6, 1703–1709.
+Ameen F, Moslem M, Hadi S, Al-Sabri AE. 2015 – Biodegradation of low density polyethylene
+(LDPE) by mangrove fungi from the Red Sea Coast. Progress in Rubber, Plastics and
+Recycling Technology 31: 125–144.
+Asmita K, Shubhamsingh T, Tejashree S. 2015 – Isolation of plastic degrading microorganisms
+from soil samples collected at various locations in Mumbai, India. International Research of
+Environetmental Sciences 4, 77–85.
+Awaja F, Pavel D. 2005 – Recycling of PET. European Polymer Journal 41, 1453–1477.
+Bărbută M, Harja M, Babor D. 2010 – Concrete polymer with fly ash. Morphologic analysis based
+on scanning electron microscopic observations. Romanian Journal of Materials 40, 3–14.
+Bhardwaj H, Gupta R, Tiwari A. 2012 – Microbial population associated with plastic degradation.
+Open Access Scientific Reports 1, 1–4.
+Bikiaris DN. 2013 – Nanocomposites of aliphatic polyesters: An overview of the effect of different
+nanofillers on enzymatic hydrolysis and biodegradation of polyesters. Polymer Degradation
+and Stability 98, 1908–1928.
+Chan SYN, Ji X. 1999 – Comparative study of the initial surface absorption and chloride diffusion
+of high performance zeolite, silica fume and PFA concretes. Cement and Concrete
+Composites 21, 293–300.
+Chaturvedi B. 2002 – Imports versus surplus: A glut of plastics in India today. Chintan
+Environmental Organization New Delhi. In Kumar VR, Kanna GR, Elumalai R. 2017 –
+Biodegradation of polyethylene by green photosynthetic microalgae. Journal of
+Bioremediation & Biodegradation 8, 1–8.
+Choi YW, Moon DJ, Chung JS, Cho SK. 2005 – Effects of waste PET bottles aggregate on the
+properties of concrete. Cement and Concrete Research 35, 776–781.
+Choi YW, Moon DJ, Kim YJ, Lachemi M. 2009 – Characteristics of mortar and concrete
+containing fine aggregate manufactured from recycled waste polyethylene terephthalate
+bottles. Construction and Building Materials 23, 2829–2835.
+Dana M, Khaniki GB, Mokhtarieh AB, Davarpanah SJ. 2017 – Biotechnological and industrial
+applications of laccase: A review. Journal of Applied Biotechnology Reports 4, 675–679.
+Derraik JGB. 2002 – The pollution of the marine environment by plastic debris: A review. Marine
+Pollution Bulletin 44, 842–852.
+Drzyzga O, Prieto A. 2018 – Plastic waste management, a matter for the community. Microbial
+Biotechnology 12(1), 1–3.
+El-Morsy EM, Hassan HM, Ahmed E. 2017 – Biodegradative activities of fungal isolates from
+plastic contaminated soils. Mycosphere 8, 1071–1086.
+
+11
+
+Farzi A, Dehnad A, Fotouhi AF. 2019 – Biodegradation of polyethylene terephthalate waste using
+Streptomyces species and kinetic modeling of the process. Biocatalysts and Agricultural
+biotechnology 17, 25–31.
+Fojan P, Jonson PH, Petersen TN, Petersen SB. 2000 – What distinguishes an esterase from a
+lipase: A novel structural approach. Biochimie 82, 1033–1041.
+Frazer AC. 1994 – O-methylation and other transformation of aromatic compound by acetogenic
+bacteria. In Drake HL. Acetogenesis. Chapman & Hall Microbiology Series, 445–483.
+Gan Z, Zhang H. 2019 – PMD: A comprehensive plastics microbial biodegradation database.
+Database, 1–11.
+Ganesh P, Dineshraj D, Yoganathan K. 2017 – Production and screening of depolymerizing
+enzymes by potential bacteria and fungi isolated from plastic waste dump yard sites.
+International Journal of Applied Research 3, 693–695.
+Gewert B, Plassmann MM, Macleod M. 2015 – Pathways for degradation of plastic polymers
+floating in the marine environment. Environmental Science: Processes and Impacts 17, 1513–
+1521.
+Gianfreda L, Xu F, Bollag JM. 1999 – Laccases: A useful group of oxidoreductive enzymes.
+Bioremediation Journal 3, 1–26.
+Gu JD. 2003 – Microbiological deterioration and degradation of synthetic polymeric materials:
+Recent research advances. International Biodeterioration and Biodegradation 52, 69–91.
+Hadad D, Geresh S, Sivan A. 2005 – Biodegradation of polyethylene by the thermophilic bacterium
+Brevibacillus borstelensis. J. Appl. Microbiol 98, 1093–1100.
+Hardiyanti E, Primiani CN, Pujiati. 2017 – Characteristics of plastic waste-degrading endogenous
+fungi isolates [karakteristik isolat kapang endogenus pendegradasi limbah plastik].
+Proceedings of the SIMBIOSIS II National Seminar, Madiun, 378–388.
+Hasnat MA, Rahman MA. 2018 – A review paper on the hazardous effect of plastic debris on
+marine biodiversity with some possible remedies. Asian J. Med. Biol. Res 4, 233–241.
+Hopewell J, Dvorak R, Kosior E. 2009 – Plastics recycling: challenges and opportunities.
+Philosophical Transactions of the Royal Society 364, 2115–2126.
+Ibrahim IB, Maraqa A, Hameed KM, Saadoun IM, Maswadeh HM. 2011 – Assessment of potential
+plastic-degrading fungi in Jordanian habitats. Turk J Biol 35, 551–557.
+Indumathi A, Gayathri T. 2016 – Plastic degrading ability of Aspergillus oryzae isolated from the
+garbage dumping sites of Thanjavur, India. International Journal of Current Microbiology and
+Applied Sciences 3, 8–13.
+Ingavale RR, Patil CK, Raut PD. 2018 – Assessment of polyethylene degradation by Aspergillus
+niger using submerged cultivation and soil burial method. International Research Journal of
+Environmental Sciences 7, 16–22.
+Jambeck JR, Geyer R, Wilcox C, Siegler TR et al. 2015 – Plastic waste inputs from land into the
+ocean. Science 347, 768–771.
+Jarerat A, Tokiwa Y, Tanaka H. 2006 – Production of poly (L-lactide) degrading enzyme by
+Amycolatopsis orientalis for biological recycling of poly (L-lactide). Applied Microbiology
+and Biotechnology 72, 762–731.
+Junge W, Krisch K. 1973 – Current problems on the structure and classiﬁcation of mammalian liver
+carboxylesterases (EC 3.1.1.1). Molecular and Cellular Biochemistry 1, 41–52.
+Kang BR, Kim SB, Song HA, Lee TK. 2019 – Accelerating the biodegradation of high-density
+polyethylene (HDPE) using Bjerkandera adusta TBB-03 and lignocellulose substrates.
+Microorganisms 7, 1–11.
+Kathiresan K. 2003 – Polythene and plastics-degrading microbes from the mangrove soil. Revista
+de Biología Tropical 51, 629–634.
+Khalil MI, Ramadan NA, Albarhawi RK. 2013 – Biodegradation of polymers by fungi isolated
+from plastic garbage and the optimum condition assessment of growth. J. Raff. Env 1, 33–43.
+
+12
+
+Khoironi A, Anggoro S, Sudarno. 2019 – Evaluation of the interaction among microalgae Spirulina
+sp. plastics polyethylene terephthalate and polypropylene in freshwater environment. Journal
+of Ecological Engineering 20, 161–173.
+Kim DY, Rhee YH. 2003 – Biodegradation of microbial and synthetic by fungi. Applied
+Microbiology and Biotechnology 61, 300–308.
+Kim MY, Kim C, Moon J, Heo J et al. 2017 – Polymer film-based screening and isolation of
+polylactic acid (PLA)-degrading microorganisms. Journal of Microbiology and
+Biotechnology 27, 342–349.
+Kint D, Muñoz-Guerra S. 1999 – A review on the potential biodegradability of poly (ethylene
+terephthalate). Polymer International 48, 346–352.
+Krueger MC, Harms H, Schlosser D. 2015 – Prospects for microbiological solutions to
+environmental pollution with plastics. Applied Microbiology and Biotechnology 99, 8857–
+8874.
+Kumar VR, Kanna GR, Elumalai R. 2017 – Biodegradation of polyethylene by green
+photosynthetic microalgae. Journal of Bioremediation & Biodegradation 8, 1–8.
+Lii SBW, Wong C, Al-Obaidi JR, Rahmad N et al. 2017 – Ability of endophytic fungi isolated
+from Nephenthes ampullaria to degrade polyurethane. Malaysia Journal of Microbiology 13,
+172–179.
+Lu Y, Wu G, Lian L, Guo L et al. 2015 – Cloning and expression analysis of vvlcc3, a novel and
+functional laccase gene possibly involved in stipe elongation. International Journal of
+Molecular Sciences 16, 28498–28509.
+Lucas N, Bienaime C, Belloy C, Queneudec M et al. 2008 – Polymer biodegradation: Mechanisms
+and estimation techniques. Chemosphere73, 429–442.
+Mandan H, Arya A. 2017 – Fungi-agents of plastic biodegradation report for ITR course.
+International Journal of Biotechnology and Biomedical Sciences 3, 61–64.
+Marjayandari L, Shovitri M. 2015 – The potency of Bacillus sp. in plastics degradation [potensi
+bakteri Bacillus sp. dalam mendegradasi plastik]. Jurnal Sains dan Seni ITS 4, 59–62.
+Matjašič T, Simčič T, Medvešček N, Bajt O et al. 2020 – Critical evaluation of biodegradation
+studies on synthetic plastics through a systematic literature review. Science of the Total
+Environment 752, 1–16.
+Mochizuki M, Hirami M. 1997 – Structural effects on the biodegradation of aliphatic polyesters.
+Polymers for Advanced Technologies 8, 203–209.
+Mohammadian M, Haghi AK. 2013 – A Study on application of recycled thermosetting plastic in
+concrete. Romanian Journal of Materials 43, 223–226.
+Muhonja CN, Magoma G, Imbuga M, Makonde HM. 2018 – molecular characterization of lowdensity polyethylene (LDPE) degrading bacteria and fungi from Dandora dumpsite, Nairobi,
+Kenya. International Journal of Microbiology 1–10.
+Munir E, Harefa RSM, Priyani N, Suryanto D. 2018 – Plastic degrading fungi Trichoderma viride
+and Aspergillus nomius isolated from local landfill soil in Medan. IOP Conf. Ser. Earth
+Environ. Sci 126, 1–7.
+Nakamura K, Tomita T, Abe N, Kamio Y. 2001 – Purification and characterization of an
+extracellular poly (l-lactic acid) depolymerase from a soil isolate, Amycolatopsis sp. strain
+K104-1. Applied and Environmental Microbiology 67, 345–353.
+Nandi RG, Joshi M. 2013 – Biodegradation of pretreated polythene by different species of
+Aspergillus isolated from garbage soil. Biosci. Biotech. Res. Comm 6, 199–201.
+Nathania TR, Kuswytasari ND. 2013 – Study of the potential of Wonorejo Surabaya fungal isolate
+in degrading poly hydroxyl butyrate (PHB) bioplastic polymer. Jurnal Sains dan Seni
+POMITS 2, 55–58.
+Nishida T, Fujisawa M, Hirai H. 2001 – Degradation of polyethylene and nylon-66 by the laccasemediator system. Journal of Polymers and the Environment, 9, 1–17.
+Oberbeckmann S, Labrenz M. 2020 – Marine microbial assemblages on microplastics: Diversity,
+adaptation, and role in degradation. Annual Review of Marine Science 12, 209–232.
+13
+
+Ojha N, Pradhan N, Singh S, Barla A et al. 2017 – Evaluation of HDPE and LDPE degradation by
+fungus, implemented by statistical optimization. Scientific reports 7, 1–13.
+Paço A, Duarte K, da Costa JP, Santos PSM et al. 2017 – Biodegradation of polyethylene
+microplastics by the marine fungus Zalerion maritimum. Science of the Total Environment
+586, 10–15.
+Pannu JS, Kapoor RK. 2014 – Microbial laccases: A mini-review on their production, purification
+and applications. International Journal of Pharmaceutical Archive 3, 528–536.
+Panyachanakul T, Sorachart B, Lumyong S. 2019 – Development of biodegradation process for
+poly (DL-lactic acid) degradation by crude enzyme produced by Actinomadura keratinilytica
+strain T16-1. Electronic Journal of Biotechnology 40, 52–57.
+Pathak VM, Navnett. 2017 – Review on the current status of polymer degradation: A microbial
+approach. Bioresources and Bioprocessing 4, 1–31.
+Pavani P, Rajeswari TR. 2014 – Impact of plastics on environmental pollution. Journal of Chemical
+and Pharmaceutical Sciences 3, 87–93.
+Pilz H, Brandt B, Fehringer R. 2010 – The impact of plastics on life cycle energy consumption and
+greenhouse gas emissions in Europe. Denkstatt, Plastics Europe, 1–45.
+Pranamuda H, Tsuchii A, Tokiwa Y. 2001 – Poly (L-lactide)-degrading enzyme produced by
+Amycolatopsis sp. Macromelocular Bioscience 1, 25–29.
+Prema S, Palempalli UMD. 2015 – Degradation of polylactide plastic by PLA depolymerase
+isolated from thermophilic Bacillus. International Journal of Current Microbiology and
+Applied Sciences 4, 645–654.
+Premraj R, Doble M. 2005 – Biodegradation of polymers. Indian Journal of Biotechnology 4, 186–
+193.
+Purwaningrum P. 2016 – Reducing plastic waste in the environment [upaya mengurangi timbulan
+sampah plastik di lingkungan]. Indonesian Journal of Urban and Environmental Technology
+8, 141–147.
+Rabek JF. 1975 – Chapter 4 oxidative degradation of polymers. Comprehensive Chemical Kinetics
+14, 425–538.
+Râpă M, Popa ME, Cornea PC, Popa VL et al. 2014 – Degradation study by Trichoderma spp. of
+poly (3-hydroxybuthyrate) and wood fibers composites. Romanian Biotechnological Letters
+19, 9390–9399.
+Reinhammar B. 1984 – Laccase. In R. Lontie (Ed.), copper proteins and copper enzymes 3, CRC
+Press, 1–35.
+Russell JR, Huang J, Anand P, Kucera K et al. 2011 – Biodegradation of polyester polyurethane by
+endophytic fungi. Applied and Environmental Microbiology 77, 6076–6084.
+Sahwan FL, Martono DH, Wahyono S, Wisoyodharmo LA. 2005 – Plastic waste management
+system in Indonesia [sistem pengelolaan limbah plastik di Indonesia]. Jurnal Teknik
+Lingkungan 6, 311–318.
+Sangale MK, Shahnawaz M, Ade AB. 2019 – Potential of fungi isolated from the dumping site
+mangrove rhizosphere soil to degrade polythene. Scientific Reports 9, 1–11.
+Sayali K, Sadichha P, Surekha S. 2013 – Microbial esterases: An overview. International Journal of
+Current Microbiology and Applied Sciences 2, 135–146.
+Shah AA, Hasan F, Hameed A, JI Akhter. 2009 – Isolation of Fusarium sp. AF4 from sewage
+sludge, with the ability to adhere the surface of polyethylene. African Journal of
+Microbiology Research 3, 658–663.
+Sheavly SB. 2005 – Marine debris – An overview of a critical issue for our oceans. 6th Meeting of
+the UN Open-Ended Informal Consultative Processes on Oceans & the Law of the Sea.
+Shimao M. 2001 – Biodegradation of Plastics. Current Opinion in Biotechnology 12, 272–247.
+Singh J, Gupta KC. 2014 – Screening and identification of low density polyethylene (LDPE)
+degrading soil fungi isolated from polythene polluted site around Gwalior City (M.P). Int. J.
+Curr. Microbiol. App. Sci 3, 443–448.
+
+14
+
+Sivakumar R, Rajendran R, Balakumar C, Tamilvendan M. 2010 – Isolation, screening and
+optimization of production medium for thermostable laccase production from Ganoderma sp.
+International Journal of Engineering Science and Technology 12, 7133–7141.
+Soud SA. 2019 – Biodegradation of polyethylene LDPE plastic waste using locally isolated
+Streptomyces sp. Journal of Pharmaceutical Sciences and Research 11, 1333–1339.
+Sowmya HV, Ramalingappa, Krishnappa, Thippeswamy B. 2014 – Low density polyethylene
+degrading fungi isolated from local dumpsite of Shivamogga District. International Journal of
+Biological Research 2, 39–43.
+Thompson RC, Moore CJ, Saal FSV, Swan SH. 2009 – Plastics, the environment and human
+health: Current consensus and future trends. Philosophical Transactions of the Royal Society
+1, 1–14.
+Tiwari AK, Gautam M, Maurya HK. 2018 – Recent development of biodegradation techniques of
+polymer. International Journal of Research-GRANTHAALAYAH 6, 414–452.
+Tokiwa Y, Calabia BP. 2004 – Degradation of microbial polyesters. Biotechnology Letter 26,
+1181–1189.
+UNEP. 2018 – Single-use plastics: A roadmap for ssustainability, x + 90.
+Urbanek AK, Rymowicz W, Mirończuk AM. 2018 – Degradation of plastics and plastic-degrading
+bacteria in cold marine habitats. Applied Microbiology and Biotechnology 102, 7669–7678.
+Venkatachalam S, Nayak SG, Labde JV, Gharal PR et al. 2012 – Degradation and recyclability of
+poly (ethylene terephthalate), INTECH Chapter 4, 75–98.
+Verger R. 1997 – Interfacial activation of lipases: Facts and artifacts. Trends in Biotechnology 15,
+32–38.
+Verma N, Gupta S. 2019 – Microbial approach to minimize the polythene waste. International
+Archive of Applied Sciences and Technology 10, 104–110.
+Webb HK, Arnott J, Crawford RJ, Ivanova EP. 2013 – Plastic degradation and its environmental
+implications with special reference to poly (ethylene terephthalate). Polymers 5, 1–18.
+Weng YX, Jin YJ, Meng QY, Wang L et al. 2013 – Biodegradation behavior of poly (butylene
+adipate-co-terephthalate) (PBAT), poly (lactic acid) (PLA), and their blend under soil
+conditions. Polymer Testing 32, 918–926.
+Wu WM, Yang J, Criddle CS. 2017 – Microplastics pollution and reduction strategies. Front.
+Environ. Sci. Eng 11, 1–4.
+Yang SSA, Brandon AM, Xing DF, Yang J et al. 2018 – Progresses in polystyrene biodegradation
+and prospects for solutions to plastic waste pollution. IOP Conference Series: Earth and
+Environmental Science 150, 1–9.
+Zarinkamar F, Reypour F, Khajeh K. 2014 – A study of the changes in laccase activity of festuca’s
+vegetative organs under petroleum pollution conditions. Modares Journal of Biotechnology 5,
+1–5.
+Zhang J, Wang X, Gong J, Gu Z. 2004 – A study on the biodegradability of polyethylene
+terephthalate fiber and diethylene glycol terephthalate. Journal of Applied Polymer Science
+93, 1089–1096.
+
+15
+
+
