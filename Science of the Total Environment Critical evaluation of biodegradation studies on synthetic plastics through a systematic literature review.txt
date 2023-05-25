@@ -1,0 +1,3308 @@
+Science of the Total Environment 752 (2021) 141959
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+Review
+
+Critical evaluation of biodegradation studies on synthetic plastics
+through a systematic literature review
+Tjaša Matjašič a,b,⁎, Tatjana Simčič a, Neja Medvešček a,1, Oliver Bajt c, Tanja Dreo a, Nataša Mori a
+a
+b
+c
+
+National Institute of Biology, Večna pot 111, 1000 Ljubljana, Slovenia
+Jožef Stefan International Postgraduate School, Jamova cesta 39, 1000 Ljubljana, Slovenia
+National Institute of Biology, Marine Biology Station Piran, Fornače 41, 6330 Piran, Slovenia
+
+H I G H L I G H T S
+
+G R A P H I C A L
+
+A B S T R A C T
+
+• 145 papers on plastics bacterial biodegradation were systematically reviewed.
+• 246 bacterial strains were identiﬁed;
+most frequent were Pseudomonas and
+Bacillus.
+• 44% of cases tested polyethylene and
+derivates, 9.7% tested microplastics
+• Research gaps and priorities were
+deﬁned.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 25 May 2020
+Received in revised form 20 August 2020
+Accepted 22 August 2020
+Available online 28 August 2020
+Editor: Yucheng Feng
+Keywords:
+Synthetic polymer
+Plastic
+Microplastic
+Biodegradation
+Meta-analysis
+Standard for publication
+
+a b s t r a c t
+Increasing amounts of plastic waste in the environment and their fragmentation into smaller particles known as
+microplastics (particles, <5 mm) have raised global concerns due to their persistency in the environment and
+their potential to act as vectors for harmful substances or pathogenic microorganisms. One possible solution to
+this problem is biodegradation of plastics by microorganisms. However, the scientiﬁc information on plasticdegrading microorganisms is scattered across different scientiﬁc publications. We conducted a systematic literature review (SLR) with predeﬁned criteria using the online databases of Scopus and Web of Science to ﬁnd papers
+on bacterial biodegradation of synthetic petroleum-based polymers. The aims of this SLR were to provide an updated list of all of the currently known bacteria claimed to biodegrade synthetic plastics, to determine and deﬁne
+the best methods to assess biodegradation, to critically evaluate the existing studies, and to propose directions for
+future research on polymer biodegradation in support of more rapid development of biodegradation technologies. Most of the bacteria identiﬁed here from the 145 reviewed papers belong to the phyla Proteobacteria,
+Firmicutes and Actinobacteria, and most were isolated from contaminated sites, such as landﬁll sites. Just
+under a half of the studies (44%) investigated the biodegradability of polyethylenes and derivates, particularly
+low-density polyethylenes. The methods used to monitor the biodegradation were mainly scanning electron microscopy and Fourier-transform infrared spectroscopy. We propose that: (1) future research should focus on biodegradation of microplastics arising from the most common pollutants (e.g. polyethylenes); (2) bacteria should
+be isolated from environments that are permanently contaminated with plastics; and (3) a combination of different observational methods should be used to conﬁrm bacterial biodegradation of these plastics. Finally, when
+reporting, researchers need to follow standard protocols and include all essential information needed for repetition of the experiments by other research groups.
+© 2020 Elsevier B.V. All rights reserved.
+
+⁎ Corresponding author at: National Institute of Biology, Večna pot 111, 1000 Ljubljana, Slovenia
+E-mail address: tjasa.matjasic@nib.si (T. Matjašič).
+1
+Permanent address: Uršičev štradon 22, 1000 Ljubljana, Slovenia.
+
+https://doi.org/10.1016/j.scitotenv.2020.141959
+0048-9697/© 2020 Elsevier B.V. All rights reserved.
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Contents
+1.
+2.
+3.
+
+Introduction . . . . . . . . . . . . . . .
+Methodology . . . . . . . . . . . . . .
+Biodegradation studies . . . . . . . . . .
+3.1.
+Types of polymers . . . . . . . . .
+3.2.
+Experimental conditions . . . . . .
+3.2.1.
+Pretreatment . . . . . . .
+3.2.2.
+Study length . . . . . . .
+3.2.3.
+Growth condition . . . . .
+3.3.
+Observational methods . . . . . .
+4.
+Plastic degrading bacteria . . . . . . . . .
+5.
+The most common changes in the polymers
+5.1.
+Weight loss . . . . . . . . . . . .
+5.2.
+Tensile strength . . . . . . . . . .
+5.3.
+Surface changes . . . . . . . . . .
+5.4.
+Chemical changes . . . . . . . . .
+6.
+Recommendations for future research . . .
+7.
+Conclusions . . . . . . . . . . . . . . .
+Declaration of competing interest. . . . . . . .
+Acknowledgment . . . . . . . . . . . . . . .
+Appendix A.
+Supplementary data . . . . . .
+References . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2
+3
+4
+4
+5
+5
+5
+5
+6
+7
+7
+7
+10
+11
+11
+11
+12
+12
+12
+12
+12
+
+The most commonly used polymers that end up as plastic debris in
+the environment are polyethylenes (PEs, including; linear low density
+[LLDPE], low density [LDPE], medium density [MDPE], high density
+[HDPE]), polyvinyl chloride (PVC), polypropylene (PP), polystyrene
+(PS), nylon, polyethylene terephthalate (PET), polybutylene terephthalate (PBT), and polyurethane (PUR) (Alauddin et al., 1995). Most of these
+are thermoplastics (polymers built of long carbon chains), which makes
+them highly resistant to degradation or hydrolytic cleavage of chemical
+bonds. Some, such as PUR, are thermosetting plastic polymers with
+highly cross-linked structures that are potentially susceptible to degradation by hydrolytic cleavage of chemical bonds (Alauddin et al., 1995).
+When plastic particles are exposed to abiotic factors, such as UV irradiation from sunlight, they undergo photo oxidation, which causes them
+to deteriorate, lose their tensile strength, become brittle and crumble
+into small fragments and particles, known as microplastics (Sivan,
+2011). These microplastics are characterised as water-insoluble solid
+polymer particles that are ≤5 mm in size; particles ≤1 μm in size are usually referred to as nanoplastics (Koelmans et al., 2019).
+In general, the degradation of plastics involves conversion of the
+polymers into smaller subunits through breakage of their bonds by
+physical, chemical or biological processes with a resulting alteration in
+the physicochemical properties of the polymers (Chauhan et al.,
+2018). This degradation is therefore inﬂuenced by both abiotic (e.g. mechanical stress, light or temperature) and biotic (e.g. naturally occurring
+microorganisms like bacteria, fungi and algae) factors, as well as the
+time frame (Haider et al., 2019). Biodegradation is a complex process
+of physicochemical transformation of polymers into smaller units
+through the actions of microorganisms (Chiellini and Solaro, 1996).
+Therefore, biodegradable polymers are materials that are completely
+converted (over a limited period of time) by aerobic microorganisms
+into carbon dioxide, water, minerals and biomass, or in the case of anaerobic biodegradation, into carbon dioxide, methane and humic material. This biodegradation into their constituent parts does not leave any
+potentially harmful substances (Kyrikou and Briassoulis, 2007). The degree of biodegradability of plastics depends on their chemical and physical properties. The features with the most inﬂuence on biodegradation
+are the surface conditions (surface area and hydrophilic and hydrophobic properties), the ﬁrst-order structures (chemical structure and molecular weight and its distribution), and the higher-order structures
+(glass transition temperature, melting temperature, modulus of elasticity, crystallinity and crystal structure) (Tokiwa et al., 2009).
+
+1. Introduction
+Plastics are long-chain manmade polymeric molecules (Scott, 1999)
+that have many favourable traits, such as strength, ﬂexibility, extreme
+durability, low weight and easy and low-cost production. Their uses
+and applications have been steadily growing over the last 150 years
+(Sivan, 2011), resulting in an increase in worldwide production of plastics from 1.5 million tonnes in 1950 to 360 million tonnes in 2018 (APM,
+2019). Until recently, plastics pollution in the environment was considered merely an aesthetic inconvenience; however, new discoveries
+have raised concerns about the potential deteriorative impacts of plastics on the biota and on human health (Sivan, 2011). The main environmental and health threats of plastics arise from their accumulation and
+persistence in the environment and their fragmentation into small particles over time (i.e. microplastics; <5 mm), as well as their potential
+“for serving as” vessels for toxic chemicals and pathogens (Mato et al.,
+2001; Shah et al., 2008; Chua et al., 2014; Caruso, 2019).
+Plastic pollution of marine environments is now recognised as a
+global-scale threat with adverse effects that span from the molecular
+level to physiological performance and organism health and beyond
+to the loss of ecosystem services (Avio et al., 2017; Kanhai et al.,
+2020). Estuarine and freshwater environments most likely represent
+a major source of inland plastic pollution to marine environments
+(Eerkes-Medrano et al., 2015; Nel et al., 2018; Luo et al., 2019;
+Amrutha and Warrier, 2020; Zhang et al., 2020), and in the form of
+microplastics, plastics are also concentrated in wastewater treatment plants (WWTPs) during the primary and secondary treatment
+processes (Talvitie et al., 2017; Masiá et al., 2020), and they accumulate as plastic debris at landﬁll sites (Canopoli et al., 2020). Plastics
+also increasingly enter the soil through sewage sludge and wastewater used as fertilisers, and they are widely used in agriculture as
+protecting covers (e.g. greenhouses, low tunnels, mulching, and
+other uses), as coatings for fertilisers, pesticides, hormones and
+seeds, and as packaging materials (Riggi et al., 2011; Nizzetto et al.,
+2016). Currently, the problem of increasing and unknown quantities
+of microplastics in the environment is recognised as equally important as the plastic debris accumulating along the coasts and in the
+oceans around the world (Horton et al., 2017; Wu et al., 2020).
+New approaches are needed to cope with this extensive environmental issue, and microbial degradation is one promising strategy
+(Shah et al., 2008; Jacquin et al., 2019; Malachová et al., 2020).
+2
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Further objectives of this SLR are to identify the missing gaps in the current state of the art in the ﬁeld of biodegradation of synthetic polymers
+and to provide recommendations for future research. For this SLR, we
+were speciﬁcally interested in identifying: (a) all bacteria that have
+been clearly shown to break the chemical bonds in synthetic polymers;
+(b) the most practical and efﬁcient observational methods for biodegradation studies; and (c) the research gaps and the most promising research directions in the ﬁeld of polymer biodegradation that will help
+to remediate the problem of the increasing presence of both larger plastic debris and microplastics in the environment.
+
+The number of scientiﬁc publications on biodegradation of different
+types of plastics is gradually increasing, and several reviews have already summarised the emerging state of the art in this ﬁeld. For example, Zheng et al. (2005) synthesised the knowledge at the time on the
+technological advances that had been made in the development of
+more easily biodegradable plastics. This included an evaluation of the
+biodegradation of conventional plastics by microorganisms, in order to
+adopt alternative methods for reducing the impact of plastic waste on
+the environment. Similarly, Kyrikou and Briassoulis (2007) delineated
+the degradability of polymers used in agriculture by reviewing the
+state of the art at the time. They listed 12 studies on LDPE biodegradation and one for PE, HDPE, PP and polyaromatic hydrocarbons (PAHs).
+They also summarised the existing standards for biodegradation and
+compostability of plastic materials. Gautam et al. (2007a) provided an
+overview of their current state of plastic foam biodegradation, including
+the biodegradation pathways of a few selected synthetic polymers. Shah
+et al. (2008) published an excellent review of 29 biodegradation studies
+on different types of plastics. They summarised various techniques that
+had been applied for the analysis of plastic degradation in vitro, provided a list of microorganisms reported to degrade different types of
+plastics, and recommended more uniform standards for assessment of
+the degradative abilities of these microorganisms. Two subsequent reviews on biodegradation of PEs by Sangale et al. (2012) and RestrepoFlórez et al. (2014) examined 34 and 57 studies, respectively. In 2015,
+a similar review to that of Shah et al. (2008) was provided by Kale
+et al. (2015), where they presented a new list of 20 biodegradation studies carried out between 2004 and 2014 on different types of plastics.
+Raziyafathima et al. (2016) reviewed the plastic-degrading efﬁciency
+of microbes and their involvement in the degradation of plastic waste;
+the authors included different references to those provided by Kale
+et al. (2015). Ho et al. (2017) provided an extensive review of 20 studies
+on the biodegradation of PS and concluded that PS can be biodegraded,
+although at a slow rate. Wilkes and Aristilde (2017) carried out a review
+of 16 studies on the factors that control the processing of different plastic polymers and their by-products by Pseudomonas spp. In 2017, Pathak
+and Navneet (2017) derived a list of microorganisms associated with
+degradation of synthetic (i.e. PE, PVC and PUR) and bio-based polymers
+based on the data from seven studies, including some reviews. Urbanek
+et al. (2018) carried out a review of 16 studies to assess the knowledge
+of plastic degradation and plastic–microorganism interactions in cold
+marine habitats and indicated that some of the microorganisms isolated
+from these environments could degrade plastic waste from ecosystems.
+More recently, two comprehensive reviews that addressed biodegradation by marine microorganisms and the recent achievements in the area
+of biodegradation have provided extended and updated lists of microbes reported to degrade different types of synthetic polymers
+(Jacquin et al., 2019; Moharir and Kumar, 2019). Very recently, Ghatge
+et al. (2020) and Montazer et al. (2020) summarised the current state
+of the art in the ﬁeld of PE biodegradation. In addition to these reviews,
+several shorter reviews have been published (e.g. Gnanavel et al., 2012;
+Muthukumar and Veerappapillai, 2015; Sharma et al., 2015; Kumar
+et al., 2017).
+Scientiﬁc reviews usually provide the expert with a synthesis of scientiﬁc evidence, and if a review is carefully constructed, it is termed systematic literature review (SLR) and can provide insights into the
+reproducibility of published data and the pooled estimates of ‘common
+truth’ through meta-analyses (Daldrup-Link, 2018). Our aim in the
+present paper was to achieve this type of insight into the current state
+of the art in the ﬁeld of synthetic polymer biodegradation by carrying
+out a SLR with clearly deﬁned selection criteria and using consistent
+methodologies for data extraction. In this SLR, we have synthesised
+the major ﬁndings of an extensive literature review on the biodegradation of synthetic (petroleum based) polymers that includes 145 studies
+published in peer-reviewed scientiﬁc journals, and we use metaanalysis (i.e. the quantitative synthesis, analysis and summary of a collection of studies; Hedges and Olkin, 1985) to summarize our ﬁndings.
+
+2. Methodology
+The focus of this SLR is those studies that report bacterial degradation of synthetic plastics, rather than bioplastics (i.e. plastic materials
+produced from renewable biomass resources, such as vegetable fats
+and oils, corn starch, straw, woodchips, sawdust, recycled food waste
+and others). The search for relevant peer-reviewed papers on bacterial
+degradation (biodegradation) of synthetic plastics was conducted
+across two databases of peer-reviewed literature: Scopus and Web of
+Science (WoS). The following search strings were used:
+• Scopus: (biodegradation OR “biological degradation”) AND (microorganism* OR bacteria) AND (plastic OR plastics) NOT (bioplastic* OR
+“biodegradable plastic”)
+• WoS: TITLE-ABS-KEY ((biodegradation OR “biological degradation”)
+AND (microorganism OR bacteria) AND (plastic) AND NOT (bioplastic
+OR “biodegradable plastic”))
+These searches included papers published up to 17 June, 2020. Potentially, some papers might have been overlooked, especially those
+that are not included in the Scopus or WoS databases or did not use
+the term ‘biodegradation’. The records obtained were ﬁrst checked for
+duplication. If a publication was present in both databases, one record
+was removed. The abstracts were then read to check the suitability of
+the papers, as predeﬁned. Papers were included if they reported an original study in English and were excluded if they reported experiments
+with only fungi or involving biodegradation of only bioplastics, or if
+they examined solely physical or chemical processes, and not biological
+degradation. Each abstract was checked by at least two authors to conﬁrm suitability.
+For improved clarity, we separately listed papers that were included
+in this SLR through systematic extraction of the required data using
+questionnaires (listed in Appendix A). The selected papers were then
+thoroughly read and the relevant information was extracted and gathered using an online predesigned questionnaire built using an opensource application (https://www.1ka.si/d/en). The questionnaire enabled us to predeﬁne the information we wanted to obtain from the papers examined; thereby allowing extraction of structured and
+consistent data for to objective responses to the identiﬁed research
+questions. Again, two authors examined each paper and ﬁlled in the
+questionnaires.
+In the questionnaire, general information about a paper, including
+unique ID, ﬁrst author, publication year, and DOI number (where provided), was gathered and its suitability conﬁrmed. Further information
+was then collected for those papers deemed suitable, including the origin of samples, bacteria tested and type of experiment conducted (e.g.
+degradation). Information on methodological approaches (i.e. study design, experimental conditions and observation methods) and results
+was then collected. When all relevant papers had been examined and
+the questionnaires completed, the data were extracted in the form of
+data worksheets for further analysis. Possible different outputs of questionnaires by different examiners were discussed to obtain mutual
+agreement on the answers.
+The data obtained were consolidated in the form of Tables and Figures, and statistical analyses were performed when possible. Both
+3
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Among these 145 studies, only 9.7% used a material that can be classiﬁed as microplastic (i.e. particles <5 mm), whereas 52.4% of the studies were related to larger plastic pieces (>5 mm). In total and 37.9% of
+the studies did not deﬁne the size of the plastics. Most studies reported
+the use of plastics in the form of ﬁlms, foils or sheets (49.0%) or strips
+(12.4%) (Table 1). Overall 9.0% of the studies, investigated plastic dust
+or nanoparticles, whereas 4.1%, of the studies did not report the physical
+form of the plastics used. Almost half studies (46.9%) provided data on
+the material surface area used in experiments, and another 13.8% reported the material volume (Table 1). However, 37.2% of the studies
+did not report on the amount of material used in biodegradation experiments (e.g. surface area or volume). A study by Chinaglia et al. (2018)
+revealed that the form of material is highly relevant, as the rates of biodegradation of the biodegradable aliphatic polyester polybutylene
+sebacate is affected by its particle size and surface area. The biodegradation rate was signiﬁcantly slower for pellets (1 g, surface area, 33 cm2)
+than for other smaller samples (double dose 2 g; with surface areas of
+193 cm2, 825 cm2), which had a biodegradation rate similar to that of
+cellulose.
+Globally, approximately 42% of all non-ﬁbre plastics are used for
+packaging (mostly PE, PP and PET) and 19% in the building and construction sectors (mostly PVC) (Geyer et al., 2017). Similarly, in
+Europe, the biggest demand for plastics is for packaging (40%), followed
+by building and construction (20%), and then other uses (e.g. in appliances, mechanical engineering, furniture and medicine; 17%). The
+most widely used plastic materials are PP (19.3%), LDPE/LLDPE
+(17.5%) and HDPE/MDPE (12.2%) (APM, 2019). The compositions of
+the microplastics that contaminate different environmental compartments therefore mainly correspond to those contributing to the global
+demand and production. For example, in freshwaters and drinking
+water, microplastic particles occur in amounts of PE ≈ PP > PS > PVC
+> PET (Koelmans et al., 2019), whereas PP prevails in freshwater sediments (Peng et al., 2018), PE in ﬂoodplain soils (Scheurer and Bigalke,
+2018), PAHs and PET in marine sediments (Martin et al., 2017), and
+PAHs in activated sludge (Liu et al., 2019). The ﬁndings of this SLR indicate that almost half of the biodegradation studies have focused on LDPE
+or PE biodegradation, in agreement with global use and waste production, as well as with the presence of microplastics in freshwaters. By
+contrast, studies on the biodegradation of PP, PS, PAHs and PET are relatively rare, although these are certainly also important pollutants.
+Hence, more studies should investigate the biodegradation of these
+other materials to develop techniques for their efﬁcient removal them
+from the environment, especially when they occur in the form of dispersedly distributed microplastics.
+
+SigmaPlot (Systat Software, San Jose, CA) and the ggplot2 package
+(Wickham, 2016) in R software (R Core Team, 2019) were used to construct graphs, and R was to calculate Pearson's correlation coefﬁcients
+between treatment temperatures and lengths of studies for the two
+most commonly reported bacterial genera, Pseudomonas and Bacillus,
+and their mixtures. Prior to analysis, the data were log(x + 1) transformed to meet linear assumptions. We also compared correlations
+against each other by testing for signiﬁcant differences using an online
+test available on Psychometrica (Eid et al., 2011; Lenhard and Lenhard,
+2014).
+3. Biodegradation studies
+The application of the above-mentioned search strings identiﬁed
+1901 papers: 370 from WoS and 1531 from the Scopus database. The
+ﬁnal number of studies obtained for this SLR was 145. The number of
+published articles reporting on bacterial degradation of plastics has
+steadily increased over the last 50 years (Appendix B, Fig. B.1). The afﬁliations of the ﬁrst authors indicated, a varying number of SCI papers
+from 35 different countries (Appendix B, Table B.1) with highest number coming from India (33.8% of all 145 studies). India is also one of
+the countries with the highest rates of inadequately disposed waste
+(i.e. plastic waste that has the intention of being managed through
+waste collection or storage sites, but is not sufﬁciently managed and
+can be lost to the surrounding environment) (Jambeck et al., 2015).
+An interesting idea for future analyses would be to compare these results to those of national statistics in terms of waste management or demographics, for example.
+3.1. Types of polymers
+Over 20% of the studies included reports on investigations into LDPE
+biodegradation, while 14.5% of them reported on PE biodegradation
+(Fig. 1). PS, PP, HDPE, PET and the other plastics have been tested less
+often for their biodegradability (<10% of the studies). About a quarter
+used different combinations of plastic materials (i.e., mixtures) of, for
+example, LDPE and HDPE or of LDPE and PP to investigate biodegradation; therefore, a clear understanding of the individual biodegradation
+mechanisms could not be obtained. Some studies (3.4%) also did not report the speciﬁc type of plastics used in the experiments but instead
+used ambiguous names (e.g. plastics) or plastic products (e.g. e-waste,
+keyboards). Again, this precluded drawing any general conclusions regarding on the interactions between certain polymers and the bacteria
+being tested.
+
+Table 1
+Summary of polymer characteristic reported in biodegradation studies (N = 145). Other
+= variety of different types i.e., foam, balls, tiles, pellets, plastic cups, bags, pieces, etc.
+NA = data not available.
+Reported polymer characteristics
+Amount
+Surface area
+Volume
+NA
+Form
+Film/foil/sheet
+Other
+Strips
+Dust/nanoparticles
+Film/foil/sheet; dust/nanoparticles
+Pellets; strips
+NA
+Size
+Larger particles (>5 mm)
+Microplastics (<5 mm)
+NA
+
+Fig. 1. The frequency of application of different plastic materials in biodegradation studies
+(N = 145). Mix – two or more different materials jointly treated, NA – not deﬁned.
+4
+
+Proportion of studies (%)
+46.9
+13.8
+37.2
+49.0
+20.0
+12.4
+9.0
+3.4
+2.1
+4.1
+52.4
+9.7
+37.9
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+3.2. Experimental conditions
+The environmental conditions are key for microbial metabolism. Accurate information on the autecological requirements of plasticdegrading bacteria are needed when they are tested in biodegradation
+studies. Hence, reports on biodegradation should include all essential
+information needed to repeat the studies, or to improve and upgrade
+the experiments. At a minimum, this information should include the information on pretreatment, growth medium, temperature and length of
+experiments.
+3.2.1. Pretreatment
+Although physical and chemical pre-treatments can greatly increase
+the bioavailability of polymers, around 11.7% of the 145 studies did not
+perform any pre-treatments, and 15.9% did not report on this. Most of
+the studies using pre-treatments only used one form (61%). Most of
+them reported on washing the original materials using distilled water
+or ethanol (26%), or by exposure to UV (4.8%). Around 18.6% of these
+pre-treatment studies reported on the use of two different forms of
+pre-treatment, most of which were thermal pre-treatments in combination with washing with water or ethanol (4.1%). Pretreatment with UV
+light was the second most commonly used pretreatment, although this
+was applied in only eight studies. Several plastic materials are indeed
+photosensitive, and according to Lucas et al. (2008), one of the most important parameters in abiotic degradation is exposure to light radiation.
+Photo-degradation is a process of decomposition that is generally initiated by UV and visible light and structural and morphological changes
+in plastics caused by UV irradiation have been reported in several studies (e.g. Fechine et al., 2002; Zhang et al., 2016). Pretreatment of plastics
+using abiotic factors like UV light or high temperatures can substantially
+improve their biodegradation (Lucas et al., 2008; Arkatkar et al., 2009;
+Carol et al., 2012). These abiotic factors can weaken of the polymeric
+structure, initiate the biodegradation process, and can even be considered as synergistic factors (Lucas et al., 2008).
+Thermal and photo-degradation are similar under normal conditions (Fotopoulou and Karapanagioti, 2019). Thermal degradation is basically a ‘molecular deterioration as a result of overheating’, where the
+splitting of the chemical bonds is initiated by high temperatures. The
+components of the long-chain backbone of the polymer begin to separate and react with one another, thereby changing the polymer properties (Shah et al., 2008). Thermal degradation of thermoplastic polymers
+occurs when the polymer is transformed from a solid to a liquid. At
+melting temperatures, the thermosetting plastics do not have a ﬂuid
+state; therefore the original material does not change state at temperatures below the temperature at which thermal decomposition occurs.
+Consequently, the material does not undergo any notable physical
+transformation before decomposition (Beyler and Hirschler, 2002).
+The papers reviewed in this SLR have included thermal pretreatments
+consisting mainly of autoclaving (Gautam et al., 2007b) and drying at
+70 °C to 90 °C for 10 days in a hot air oven (Sudhakar et al., 2008;
+Arkatkar et al., 2009; Awasthi et al., 2017).
+Most polymeric materials that end up in landﬁll sites or disperse in
+the environment are exposed to weathering, ageing and burying,
+which can induce mechanical, light, thermal and/or chemical transformations that can modify the biodegradation of these polymeric materials. Hence, biodegradation experiments should include pretreatment
+as an essential component to imitate natural in-situ conditions and to
+facilitate efﬁcient biodeterioration of plastic debris.
+
+Fig. 2. The frequency of application of different treatment lengths in biodegradation
+studies (N = 145). Length of studies ranged from as short as 4 days to as long as 10
+years. NA – not known.
+
+bacteria growing on plastics. Generally, long incubations should be
+used when bacteria have access to other nutrients during biodegradation experiments.
+Just over half the studies carried out degradation experiments extending from 1 to 6 months (51.7%), while one third exposed plastics
+to bacteria for one month or less (33.1%) (Fig. 2). Longer studies of 6
+months to 1 year or 1 to 5 years were rare as 7.6% and 4.8%, respectively.
+Two studies were conducted for 10 years or more, and two studies did
+not indicate the duration of the degradation experiments.
+Davis et al. (2005) proposed incubation times for soil bacteria ranging from one week to one month, as has been used in biodegradation
+studies in many cases, but many studies treated polymers for periods
+longer than one month. These longer durations have resulted in many
+successful experiments with isolated biodegrading bacteria and in
+changes in the polymer materials. Hence, giving the microorganisms
+enough time to grow and actually use the carbon from the plastics is
+an important step in their degrading of these synthetic materials.
+3.2.3. Growth condition
+Temperature is considered as probably the most important environmental factor that affects the growth and survival of microorganisms
+(Madigan et al., 2012). Most of the 145 studies involved experiments
+conducted at temperatures from 26 °C to 30 °C (30.3%) and from 36 °C
+to 40 °C (13.1%) (Fig. 3). Overall, 22.1% of the studies did not report
+
+3.2.2. Study length
+There is no conclusive data on how long it takes for plastics to be
+biodegraded in the environment (but see Chamas et al., 2020). Only a
+few studies on degradation of plastics have been performed in the natural environment; therefore, many questions remain unanswered
+(Fotopoulou and Karapanagioti, 2019). The chemical bonds in polymers
+are difﬁcult to break, so they are not easily accessible as nutrients for
+
+Fig. 3. The frequencies of temperature ranges used in biodegradation experiments (N =
+145); number on the left side shows temperature range used in studies. Cases with
+wide ranges include studies that carried out the same experiments at different
+temperatures. The ranges starting at 0 °C include studies where experiments were
+carried out at 4 °C.
+5
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+was used to observe the changes to the treated plastics. The most common techniques used to evaluate polymer degradation were a combination of visual surface changes, determined mainly using scanning
+electron microscopy (SEM), and measurements of weight loss and
+chemical changes, determined mainly using Fourier-transform infrared
+(FTIR) spectroscopy. Alongside FTIR spectroscopy, gel permeation chromatography (GPC), high temperature GPC, UV–visible spectroscopy,
+thin layer chromatography (TLC), gas chromatography–mass spectrometry (GC–MS), high performance liquid chromatography (HPLC), X-ray
+photoelectron spectroscopy (XPS), and nuclear magnetic resonance
+(NMR) when applied. Analysis of thermal proﬁles by thermal gravimetric analysis (TGA), thermogravimetry/derivative thermogravimetry/differential thermal analysis (TG-DTG-DTA), and differential scanning
+calorimetry (DSC), also provided information on both the physical and
+chemical characteristics, in 8, 4 and 10 studies, respectively. 84.1% of
+the studies reported using methods for observing the growth of bacteria
+exposed to polymer materials. The most widely used methods were genome/metagenome analyses (10.3%), measurements of respiration
+rates (6.9%), viable colony counts (6.2%) and direct visual observations
+(5.5%). Respiration rates in most studies were assessed by measurements of carbon dioxide production.
+Degradation is any change in the physical or chemical properties due
+to chemical, physicochemical (e.g. photo-degradation, thermal and mechanical degradation) or biological processes (Shah et al., 2008). Biodeterioration, which includes the combined actions of members of the
+microbial community, is considered the ﬁrst step in biodegradation
+and involves a superﬁcial degradation that modiﬁes the mechanical,
+physical and chemical properties of a given material. The second step
+is the cleavage of the polymeric molecules into oligomers, dimers or
+monomers through catalytic agents secreted by microorganisms; this
+process is referred to as depolymerisation. The next step is assimilation,
+which refers to the integration of the molecules to produce energy and
+new biomass and for other metabolic processes. The last step is
+mineralisation, which is the excretion of simple and different salts and
+of complex metabolites into the extracellular surroundings
+(Fotopoulou and Karapanagioti, 2019). The complete breakdown of
+large polymers to carbon dioxide usually requires several different organisms, each of which can attack different chemical bonds, ﬁrst within
+the polymers and then within the monomers (Gu et al., 2011).
+Polymer degradation, whether occurring by photochemical, thermal, chemical or biological processes, has to result in bond scission
+and the subsequent chemical transformations of the plastics, with
+the formation of new functional groups. This is reﬂected in the mechanical, optical and electrical changes observed in the material
+characteristics (Shah et al., 2008). Hence, studies of degradation processes can include a variety of approaches that monitor changes in
+different polymer characteristics, although careful design is needed
+to discriminate between biologically driven degradation and other
+degradation processes. Light (i.e. UV-A, UV-B), high temperatures
+and pressures, chemical conditions and biological activities are all
+possible sources for changes in polymer characteristics. All studies
+should therefore provide full and accurate reports of all parameters
+important for the biodegradation of plastics.
+A clear understanding of microbial–plastic interactions requires, that
+all studies reporting on plastic biodegradation by microbes are able to
+link this biodegradation to a biotic factor (e.g. a bacterial species or consortium), while excluding abiotic factors. One method (e.g. weight loss)
+can be a beneﬁcial tool for preliminary studies, but different methods
+need to be used in combination for a reliable establishment of the link
+between microbes and biodegradation. The methods used should be
+limited to those that have been shown to produce the most relevant
+data. This limitation should be followed to minimise non-standardised
+reporting on methodological approaches and the data obtained, as this
+is one of the main obstacles that currently prevents a clear analysis of
+the present state of the art, and that in turn inhibits further technological developments.
+
+the temperature for the degradation Skariyachan et al. (2017) reported
+an experimental temperature range from 4 °C to 55 °C, and they observed bacterial growth in media with a mixture of LDPE and HPDE at
+ﬁve different temperatures (4, 25, 37, 45 and 55 °C). Generally, as temperature increases, the rate of metabolism increases, until it rapidly declines at higher temperatures where irreversible changes in cells occur
+(Schulte, 2015). It is likely that temperature has a direct impact also
+on plastic degradation rates. Pischedda et al. (2019) addressed the effects of temperature on the speed of plastics biodegradation in soil
+media, and demonstrated that the biodegradation rate is perfectly described by the Arrhenius equation in the tested temperature range
+(15–28 °C). While different microorganisms can grow also at temperatures below freezing or even above the boiling point of water, no known
+organisms can grow across this whole temperature range, as the range
+for any given organism is typically 25 °C to 40 °C (Madigan et al.,
+2012). Generally, four classes of microorganisms can be deﬁned based
+on their growth temperature optima: psychrophiles (0–20 °C, optimal
+temperature, ≤15 °C); mesophiles (20–45 °C); thermophiles (45–80
+°C, optimum temperature, >45 °C); and hyperthermophiles (optimum
+temperature, >80 °C) (Madigan et al., 2012). The microorganisms investigated in the reviewed studies here were mostly isolated from environmental samples that were collected from temperate or tropical
+latitudes, and they are hence most probably mesophiles. While about
+half of the studies reported on degradation temperatures from 26 °C
+to 40 °C, 22.1% of the studies did not report the temperature for the degradation experiments, or they were not precise enough (e.g., ‘ambient
+temperature’). The temperature is one of the most important parameters in these experiments, and it should be chosen and reported fully
+and accurately. As such, it is our suggestion that the temperature should
+always be measured, even during outdoor experiments, and then included in scientiﬁc reports. Within the reviewed studies here, the
+greatest temperature range covered was from 4 °C to 55 °C, where
+Skariyachan et al. (2017) compared the degradation potential of formulated microbial consortia (IS1-IS4) from cow dung under thermophilic
+conditions (55 °C) in comparison to other temperatures (4, 25, 37, 45
+°C). It would be interesting to check for biodegraders among the microorganisms that live in extreme environments (i.e., very hot or very
+cold).
+Most studies (65.5%) did not report the pH of the medium, but most
+cases that did report pH (9.0%) indicated pH 7. Some studies tested several different pH values (Peng et al., 2014; Sarkhel et al., 2019), or samples with different pH readings (Lim et al., 2005; Tourova et al., 2020).
+Bacteria were often grown in vivo (28.3%), and only two studies did
+not disclose the media used. A popular medium choice was mineral
+salt medium (in 15.2%), as well as, Bushnell-Haas or the liquid carbonfree basal medium (both in 3.4% of the studies). Several studies have
+used media without the addition of a carbon; like mineral medium
+(Pandey, 2014; Satyalakshmi, 2016; Farzi et al., 2019), thereby forcing
+the bacteria to use the carbon from the plastics and consequently degrade them. By contrast, Shabbir et al. (2020) added different carbon
+sources when assessing changes in PE. The polydispersity index (Mw/
+Mn) was 7.82 for the control, 7.68 without a carbon source, and 6.82
+with glucose. Similarly, Mw/Mn was lower for PP (4.47 for the control,
+4.35 without a carbon source, and 3.90 with glucose) and for PET
+(2.44 for the control, 2.32 without a carbon source, and 2.28 with glucose). They reported higher relative abundances of the phyla in the
+glucose-treated samples, and this could explain the greater biodegradation of microplastics after glucose addition. This ﬁnding will be particularly interesting to consider in planning future studies.
+3.3. Observational methods
+Many studies (15.9%) reported either on the changes in surface texture of the treated plastics, weight loss, tensile strength, or chemical attributes during the biodegradation experiments. However, in many
+studies, a combination of two (27.6%) or three (25.5%) of these methods
+6
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Most members of the phylum Firmicutes are Gram-positive bacteria
+that can form endospores and are found primarily in the soil (Madigan
+et al., 2012). The most commonly mentioned organisms were members
+of the Bacillus genus, which currently has 282 known valid species
+(Parte, 2018; accessed on 19 March, 2020). The bacteria of this genus
+can form oval or cylindrical endospores, and they can function as aerobes or facultative aerobes. Several strains can produce extracellular hydrolytic enzymes that can break down complex polymers (e.g. lipids),
+for use as carbon sources and electron donors. Many of these bacteria
+also produce antibiotics and insecticides (Madigan et al., 2012).
+Actinobacteria are a Gram-positive group that includes rod-shaped
+to ﬁlamentous, primarily aerobic bacteria commonly found in the soil
+and in plant materials. Commercially, they are used for production of
+antibiotics and certain fermented dairy products (Madigan et al., 2012).
+Among the bacteria identiﬁed as effectively initiating the biodegradation of the synthetic polymers, 21.0% of the studies indicated Pseudomonas, 15% indicated Bacillus and 17% indicated mixtures of these two
+genera. A comparison of temperature and exposure time (i.e. study
+length) effects across the studies indicated weak negative correlations
+and no signiﬁcant relationships, most probably due to the scarce data
+and the prevalence of studies carried out in a temperature range of 26
+°C to 30 °C (Fig. 4). In case of Pseudomonas (n = 32) the correlation
+was weak (−0.34), although close to the signiﬁcance level of p < 0.05
+(p = 0.05), suggesting that exposure to higher temperatures with,
+shorter incubation times will be needed for this genus to achieve polymer biodegradation. In the example with Bacillus the Pearson's coefﬁcient of the linear relationship between temperature and study length
+was also weak (r = −0.29, n = 12, p = 0.36), and a very weak coefﬁcient for their mixtures (r = 0.001, n = 17, p = 1.00). Comparisons of
+correlations between datasets revealed no signiﬁcant differences (p >
+0.05) for Bacillus and Pseudomonas (z = 0.23, p = 0.41), Bacillus and
+mixtures (z = −0.70, p = 0.24), or Pseudomonas and mixtures (z =
+−1.11, p = 0.13), indicating similar behaviours of all three tested correlations. Hence, the SLR showed that shorter treatments are needed during biodegradation when experimental temperatures are above room
+temperature.
+The studies identiﬁed bacteria that were isolated from contaminated
+sites, such as landﬁll sites or plastic waste dumps (Kowalczyk et al.,
+2016; Mehmood et al., 2016; Awasthi et al., 2017) from oil contaminated sites (Das et al., 2012) and from activated sludge from WWTPs
+(Khatoon et al., 2014) (45.9%) (Table 3). Some studies used, bacteria
+from banks or synthetic mixtures, while the rest used bacteria obtained
+from mixed environmental samples (polluted/unpolluted) or from
+natural environments, such as mangrove swamps, soils, sediments,
+freshwater, marine environments, animal guts or plant nodes. Contaminated sites are extreme environments due to the presence of biologically toxic compounds and different types of synthetic substrates that
+microorganisms can alternatively use. Similarly, the soil is a highly variable environment in terms of nutrient levels, temperature and water
+activity (Madigan et al., 2012). These differences promote a high adaptation rate of microbes.
+Increasingly more studies have examined the polymer degradation
+potential of consortia of different bacteria (Skariyachan et al., 2015;
+Skariyachan et al., 2017; Tribedi and Dey, 2017; Skariyachan et al.,
+2018; Tourova et al., 2020). Some future studies that might be beneﬁcial
+will be investigations into biodegradation processes occurring via
+‘syntrophy metabolism’, in which the degradation of compounds follows a metabolic chain where the catabolic product of one species is a
+source of carbon for another (Santisi et al., 2015).
+
+A typical case is seen with the use of FTIR spectroscopy analysis. Although this is a powerful tool for observing changes in polymers during
+biodegradation, carefully designed studies and monitoring schemes
+need to be set up, and standardised reporting is desperately needed.
+For example, Tribedi and Dey (2017), Ullah Jamil et al. (2017) and
+Kyaw et al. (2012), all studied biodegradation of LDPE. In the ﬁrst
+study, the researchers scanned each ﬁlm at room temperature 20
+times from 400 cm−1 to 4000 cm−1 and repeated this three times. In
+the second study, the spectrum was recorded at 500 cm−1 to 4000
+cm−1 without disclosing the temperature. In the third study, the scanning area was not disclosed. In this third study by Kyaw et al. (2012),
+the carbonyl index was used to measure the degree of biodegradation,
+which was obtained through a formula that used absorption at 1740
+cm−1 (the maximum of the carbonyl peak) divided by the absorption
+at 1460 cm−1 (the maximum of the carbonyl peak). By contrast,
+Tribedi and Dey (2017) used the carbonyl bond index, which represents
+the ratio of absorbance peaks of carbonyl (1712 cm−1) and CH2 (1462
+cm−1), as well as the terminal double-bond index, which represents
+the ratio between the absorbance of the terminal double-bond peak
+(908 cm−1) and the mean of the two CH2 peaks (1461, 1471 cm−1).
+Conversely, Ullah Jamil et al. (2017) simply reported the different absorbance peaks that were seen. Thus, although all three of these studies reported on microbial degradation of LDPE using FTIR spectroscopy to
+assess the chemical changes, the results cannot be compared with any
+degree of certainty.
+4. Plastic degrading bacteria
+Of the 145 studies included here, 138 clearly reported a demonstration of some kind of polymer degradation. Among these 138, 103 reported 246 bacteria strains that biodegraded plastics (Table 2). An
+important part of the studies investigated the efﬁciency of degradation
+of microbial consortia from different environments. Most of the identiﬁed bacteria belong to the phyla Proteobacteria (48%), Firmicutes
+(37.4%) and Actinobacteria (9.8%). Bacteria from different phyla are already widely used for biodegradation of human wastewater (Wu
+et al., 2019) and contaminants at oil spill sites (Das and Chandran,
+2010), and they have been applied in many other biotechnological processes (e.g. food production and pharmaceuticals). Proteobacteria are
+by far the largest and most metabolically diverse phylum of all bacteria,
+and they have great importance medically, industrially and agriculturally (Madigan et al., 2012). They have been reported as the most abundant phylum in activated sludge in wastewater treatment plants
+(WWTPs) around the globe (82% of all operational taxonomic units)
+(Wu et al., 2019), as well as in contaminated riverbed sediments of
+the Maozhou river in China (59%) (Liao et al., 2019), in marine sediments (38.6%) (Borin et al., 2009), and in different types of soils
+(Buckley and Schmidt, 2001). All are Gram-negative bacteria, and they
+show an exceptionally wide range of energy-generating mechanisms
+(e.g. chemolithotrophic, chemoorganotrophic and phototrophic species), relationships to oxygen (e.g. anaerobic and facultatively aerobic
+species) and cell shapes (e.g. straight and curved rods, cocci and ﬁlaments) (Madigan et al., 2012).
+The most common genus mentioned in the reviewed papers was
+Pseudomonas, a genus that is ecologically important in soil and water
+environments and that currently has 216 known valid species (Parte,
+2018; accessed on 19 March, 2020). Similarly, Jacquin et al. (2019) listed
+several Pseudomonas strains that degrade PE. Other commonly listed
+strains were from the genera Bacillus and Brevibacillus, and several
+strains of fungi were also mentioned but are not considered in the present SLR. One characteristic property of these plastic-degrading bacteria
+is their use of many different organic compounds as carbon and energy
+sources (Seo et al., 2009; Shourian et al., 2009; Wilkes and Aristilde,
+2017). Some species can use over 100 different compounds, even materials of xenobiotic origin, making them important agents of bioremediation in the environment (Madigan et al., 2012).
+
+5. The most common changes in the polymers
+5.1. Weight loss
+Weight losses of the plastics during biodegradation were mainly reported as percentage weight reductions calculated from difference
+7
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Table 2
+List of bacteria proven to biodegrade polymers as stated in the analysed papers. Banks/SM – bacteria from strain banks and/or their synthetic mixtures (SM); contaminated sites – samples
+from contaminated sites (e.g., landﬁll/dump sites, activated sludge, contaminated soils, etc.); mix – mixture of bacteria from different environments (polluted/unpolluted); other – samples from different natural environments (i.e., mangroves, soils, sediments, freshwater, marine environments, animal gut, plant nodes). *not clearly deﬁned which genus.
+Polymer Bacteria/sample
+origin
+
+Phylum
+
+Identiﬁed bacteria capable of plastic biodegradation
+
+References
+
+LDPE
+
+Banks/SM
+
+Consortium of: Pseudomonas otitidis SPT1, Bacillus aerius
+SPT2, Acanthopleuribacter pedis SPT3, Bacillus cereus SPK1
+
+Anwar et al., 2013
+
+LDPE
+
+NA
+
+Consortium of: Actinobacteria, Gemmatimonadaceae and
+some unknowns
+
+Zhang et al., 2020
+
+LDPE
+
+Banks/SM
+
+Acidobacteria,
+Firmicutes &
+Proteobacteria
+Acinetobacteria,
+Gemmatimonadetes
+& unknowns
+Actinobacteria
+
+Carol et al., 2012; Rajandas et al., 2012
+
+LDPE
+
+Contaminated
+site
+NA
+Contaminated
+site
+Contaminated
+site
+Banks/SM
+Contaminated
+site
+
+Actinobacteria
+
+Arthrobacter oxydans, A. globiformis, Microbacterium
+paraoxydans (GenBank ID: HQ185284)
+Cellulosimicrobium funkei, Micrococcus luteus
+
+Actinobacteria
+Bacteriodetes
+
+Arthobacter parafﬁneus
+Spingobacterium multivorum
+
+Albertsson et al., 1998
+Montazer et al., 2018
+
+Cyanobacteria
+
+Oscillatoria subbrevis, Phormidium lucidum
+
+Sarmah and Rout, 2018
+
+Firmicutes
+Firmicutes
+
+BP/SU1 of Staphylococcal epidermis
+Bacillus cereus, B. niacini, B. pseudomycoides, B. safensis,
+Bacillus sp., Bacillus sp. ISJ55, B. subtilis, B. thuringiensis, B.
+toyonensis, Brevibacillus borstelensis, B. parabrevis,
+Lysinibacillus macroides, Paenibacillus sp. (GenBank
+MK053775), Staphylococcus sp., Streptococcus,
+Streptococcus/Staphylococcus⁎
+Bacillus subtilis MTCC 9447
+Bacillus sp. YP2, Bacillus sp. B. sphericus, B. cereus, Bacillus
+spp., Paenibacillus spp.
+Pseudomonas aeruginosa PAO1 ATCC 15729, P. aeruginosa
+ATCC 15692, P. aeruginosa (GenBank ID: HQ185285), P.
+putida KT2440 ATCC 47054, P. syringae DC 3000 ATCC 10862
+Acinetobacter pitti, Alcanivorax borkumensis, Citrobacter
+amalonaticus, Delftia tsuruhatensis, Escherichia coli, Klebsiella
+sp., Ochrobactrum intermedium, O. oryzae, O.
+pseudintermedium, Pseudomonas aeruginosa, P. aeruginosa
+SKN1 (ID: 9702593), P. citronellolis EMBS027 KF361478, P.
+putida, Pseudomonas spp., Stenotrophomonas humi, S.
+maltophilia, S. pavanii CC18, P. stutzeri
+Enterobacter spp., Pantoea spp., Proteus spp., Pseudomonas
+putida MTCC 2445, Pseudomonas spp., P. stutzeri MTCC 2643
+Enterobacter asburiae, Enterobacter cloacae
+AKS7,Pseudomonas spp., Stenotrophomonas spp.
+Consortium of: Serratia sp. KC1-MRL, Bacillus licheniformis
+KC2-MRL, B. sp. KC3-MRL and Stenotrophomonas sp. KCMRL
+Consortium of: Pseudomonas aeruginosa & Brevibacterium
+sp.
+Microbulbifer hydrolytic IRE-31 (ATCC 700072)
+Bacillus amyloliquefaciens (GenBank accession no.
+KT185076)
+Serratia marcescens marcescens
+Stenotrophomonas panacihumi PA3-2.
+
+Chatterjee et al., 2010
+Anbuselvi Vatsaldutt Pandey, 2015; Bardají et al., 2019;
+Kumar Gupta and Debvi, 2019; Muhonja et al., 2018;
+Muthumani and Anbuselvi, 2014-2015; Pandey &
+Anbuselvi, 2014
+
+LDPE
+LDPE
+LDPE
+LDPE
+LDPE
+
+LDPE
+LDPE
+
+Mix
+Other
+
+Firmicutes
+Firmicutes
+
+LDPE
+
+Banks/SM
+
+Proteobacteria
+
+LDPE
+
+Contaminated
+site
+
+Proteobacteria
+
+LDPE
+
+Mix
+
+Proteobacteria
+
+LDPE
+
+Other
+
+Proteobacteria
+
+LDPE
+
+Other
+
+LLDPE
+
+Bank/SM
+
+LLDPE
+LLDPE
+
+Bank/SM
+Other
+
+Firmicutes &
+Proteobacteria
+Actinobacteria &
+Proteobacteria
+Proteobacteria
+Firmicutes
+
+LLDPE
+LMWPE
+
+Other
+Contaminated
+site
+Banks/SM
+Contaminated
+site
+Other
+
+Proteobacteria
+Proteobacteria
+
+PE
+PE
+
+Banks/SM
+Contaminated
+site
+
+Firmicutes
+Firmicutes
+
+PE
+
+Mix
+
+Firmicutes
+
+PE
+
+Other
+
+Firmicutes
+
+PE
+PE
+
+Other
+Contaminated
+site
+
+Fusobacteria
+Proteobacteria
+
+PE
+PE
+
+Mix
+Other
+
+Proteobacteria
+Proteobacteria
+
+PE
+PE
+PE
+
+Actinobacteria
+Actinobacteria
+Actinobacteria
+
+Rhodococcus ruber strain C208
+Arthrobacter spp., consortium of: Arthrobacter,
+Curtobacterium, Gordonia and Rhodococcus
+Micrococcus sp., Brevibacterium sp., Streptomyces
+albogriseolus LBX-2
+Lysinibacillus fusiformis
+Bacillus aquimaris, B. boroniphilus, B. drentensis, B. ﬁrmus, B.
+idriensis, B. luciferensis, B. marisﬂavi, B. megaterium, B.
+muralis, B. mycoides, B. pumilus, B. simplex, B. subtilis, B. sp.,
+Paenibacillus woosongensis
+Bacillus cereus VASB1/TS, Lysinibacillus fusiformis
+VASB-14/WL, Staphylococci
+Bacillus sp., B. gottheilii, B. cereus, Staphylococcus sp.,
+Streptococcus sp.
+Sebaldella termitidis
+16 isolates from three genera: Comamonas, Delftia, and
+Stenotrophomonas, recombinant strains by Escherichia coli
+BL21 and P. aeruginosa E7, Acinetobacter johnsonii,
+Comamonas testosteroni, Pseudomonas sp., P. aeruginosa, P.
+alcaligenes, P. plecoglossicida, P. thivervalensis,
+Stenotrophomonas maltophilia
+Pseudomonas putida
+Citrobacter sp., Diplococcus sp., Enterobacter sp., Kosakonia
+
+8
+
+Montazer et al., 2018; Muhonja et al., 2018
+
+Skariyachan et al., 2016
+Kumari et al., 2019; Skariyachan et al., 2017; Sudhakar
+et al., 2008; Yang et al., 2014
+Kyaw et al., 2012; Rajandas et al., 2012
+
+Anbuselvi Vatsaldutt Pandey, 2015; Anbuselvi and Pandey,
+2015; Bhatia et al., 2014; Deepika & Jaya Madhuri, 2015;
+Delacuvellerie et al., 2019; Mehmood et al., 2016;
+Montazer et al., 2018; Muhonja et al., 2018; Muthumani
+and Anbuselvi, 2014-2015; Nourollahi et al., 2019; Pandey
+& Anbuselvi, 2014; Sharma & Sharma, 2004; Skariyachan
+et al., 2015
+Skariyachan et al., 2016
+Sarker et al., 2020; Skariyachan et al., 2017; Yang et al.,
+2014
+Ullah Jamil et al., 2017
+Fachrul et al., 2020
+Li et al., 2020
+Novotný et al., 2018
+Azeko et al., 2015
+Jeon & Kim, 2016
+Santo et al., 2013
+Jin & Kim, 2017; Puglisi et al., 2019
+Brandon et al., 2018; Kathiresan, 2003
+Mukherjee et al., 2017; Shao et al., 2019
+Puglisi et al., 2019
+
+Rani and Rao, 2012; Shahnawaz et al., 2016
+Kathiresan, 2003; Auta et al., 2017
+Brandon et al., 2018
+Jeon & Kim, 2016; Peixoto et al., 2017; Puglisi et al., 2019;
+Satyalakshmi, 2016; Shahreza et al., 2019; Skariyachan
+et al., 2015
+
+Rani and Rao, 2012
+Brandon et al., 2018; Li et al., 2020; Kathiresan, 2003;
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Table 2 (continued)
+Polymer Bacteria/sample
+origin
+
+Phylum
+
+Identiﬁed bacteria capable of plastic biodegradation
+
+References
+
+HDPE
+
+Actinobacteria
+
+sp., Moraxella sp., Pseudomonas aeruginosa, Pseudomonas sp.
+Arthrobacter sp. GMB5, Leucobacter sp., Micrococcus sp.
+
+Nanda et al., 2009; Ren et al., 2019
+Balasubramanian et al., 2010; Kunlere et al., 2019;
+Sangeetha Devi et al., 2019
+Kunlere et al., 2019; Sangeetha Devi et al., 2019
+
+HDPE
+HDPE
+HDPE
+
+Contaminated
+site
+Contaminated
+site
+Mix
+Other
+
+Firmicutes
+Firmicutes
+Firmicutes
+
+HDPE
+
+Contaminated
+site
+
+Proteobacteria
+
+HDPE
+
+Other
+
+Proteobacteria
+
+PS
+
+Contaminated
+site
+Other
+
+Actinobacteria
+
+PS
+PS
+PS
+PS
+
+PS
+PS
+PS
+PS
+PS
+PS
+
+PUR
+PUR
+PUR
+PUR
+PUR
+PUR
+PUR
+PP
+PP
+PP
+PP
+PP
+LMWPP
+PET
+PET
+PET
+PET
+PET
+PC
+PC
+PC
+PCL
+PES
+PVAL
+PVAL
+PVAL
+
+Contaminated
+site
+Other
+Other
+
+Contaminated
+site
+Contaminated
+site
+Other
+
+Bacillus spp., B. amyloliquefaciens, B. aryabhattai, B. cereus, B.
+licheniformis, B. pumilus, B. subtilis, Staphylococcus sp.
+Brevibacillus borstelensis KY49486
+Bacillus spp., B. cereus, B. sphericus, Paenibacillus spp.
+
+Mohanrasu et al., 2018
+Kumari et al., 2019; Sudhakar et al., 2008; Skariyachan
+et al., 2017
+Achromobacter xylosoxidans PE-1, Acinetobacter sp., Klebsiella Awasthi et al., 2017; Balasubramanian et al., 2010;
+pneumoniae CH001, Pseudomonas sp. GMB7, P. aeruginosa
+Kowalczyk et al., 2016; Kunlere et al., 2019; Sangeetha
+Devi et al., 2019
+Pseudomonas spp., P. ﬂuorescens, Serratia marcescens,
+Baculi et al., 2017; Skariyachan et al., 2017
+Stenotrophomonas spp.
+Mycobacterium sp.
+Chen et al., 2020
+
+Actinobacteria
+
+Aquihabitans sp., Paenibacillus urinalis, unclassiﬁed
+Xanthomonadaceae
+Deinococcus-Thermus Thermus sp.
+
+Atiq et al., 2010; Brandon et al., 2018
+
+Bacteriodetes
+Firmicutes,
+Proteobacteria &
+Tenericutes
+Firmicutes
+
+unclassiﬁed Saprospiraceae
+Spiroplasmataceae, Enterococcaceae, Enterobacteriaceae
+
+Brandon et al., 2018
+Peng et al., 2019
+
+Aneurinibacillus sp., Bacillus spp., Brevibacillus sp.,
+Desulfotomaculum sp., Geobacillus sp., Proteiniclasticum sp.
+Alcaligenes sp., Azospirilum sp., Cupriavidus sp.
+
+Chen et al., 2020; Mohan et al., 2016
+
+Auta et al., 2017; Atiq et al., 2010; Brandon et al., 2018;
+Chauhan et al., 2018; Yang et al., 2015
+Brandon et al., 2018
+Mohan et al., 2016; Sekhar et al., 2016
+
+Shah et al., 2008b
+
+Proteobacteria
+Firmicutes
+
+Chen et al., 2020
+
+Chen et al., 2020
+
+Other
+Contaminated
+site
+Other
+
+Nitrospirae
+Proteobacteria
+
+Contaminated
+site
+Mix
+Banks/SM
+Contaminated
+site
+Banks/SM
+Contaminated
+site
+Mix
+Other
+Contaminated
+site
+Other
+Contaminated
+site
+Other
+Contaminated
+site
+Banks/SM
+Other
+Other
+Mix
+Other
+Contaminated
+site
+Contaminated
+site
+Contaminated
+site
+Other
+Contaminated
+site
+Contaminated
+site
+Contaminated
+site
+Contaminated
+site
+
+Actinobacteria
+
+Exiguobacterium sibiricum DR11, E. undae DR14, E. sp. strain
+YT2, Bacillus sp., B. gottheilii, B. cereus, Listeria sp.
+Nitrospira deﬂuvii
+Alcaligenes sp., Citrobacter sedlakii, Enterobacter sp.,
+Pseudomonas spp.
+Acinetobacter sp., Pseudomonas aeruginosa, Citrobacter sp.,
+Kosakonia sp., Pedomicrobium sp., unclassiﬁed
+Burkholderiales
+Corynebacterium sp. AF14
+
+Actinobacteria
+Firmicutes
+Firmicutes
+
+Arthrobacter globiformis SBI-5
+Bacillus subtilis
+Bacillus sp. AF8
+
+El-Sayed et al., 1996
+Stepien et al., 2017
+Shah et al., 2008
+
+Proteobacteria
+Proteobacteria
+
+Gautam et al., 2007b; Stepien et al., 2017
+Shah et al., 2008
+
+Proteobacteria
+Proteobacteria
+
+Pseudomonas chlororaphis, P. denitriﬁcans ATCC 19244
+Arthrobacter sp. AF11, Micrococcus sp. AF10, Pseudomonas
+sp. AF9
+Burkholderia gladioli, Pseudomonas otitidis, P. putida
+Rhodococcus sp. strain 37
+Bacillus ﬂexus AB021185, B. ﬂexus FJ948078, B. subtilis
+GQ241354
+Bacillus sp. strain 27, Bacillus sp., B. gottheilii, B. cereus
+Pseudomonas azotoformans MTCC 7616, Pseudomonas
+stutzeri
+Pseudomonas chlororaphis, P. stutzeri, Vibrio sp.
+Stenotrophomonas panacihumi PA3-2.
+
+Actinobacteria
+Actinobacteria
+Firmicutes
+Proteobacteria
+Proteobacteria
+Actinobacteria
+
+Streptomyces sp.
+Streptomyces sp., Brevibacterium sp.
+Bacillus gottheilii, B. cereus, B. muralis
+Ideonella sakaiensis 201-F6
+Serratia proteamaculans, Vibrio sp. GenBank: KY941137.1
+Arthrobacter sp. DQ205429
+
+Farzi et al., 2019
+Farzi et al., 2019; Narciso-Ortiz et al., 2020
+Auta et al., 2017; Narciso-Ortiz et al., 2020
+Yoshida et al., 2016; response
+Narciso-Ortiz et al., 2020; Sarkhel et al., 2019
+Goel et al., 2008
+
+Firmicutes
+
+Bacillus megaterium, B. cereus
+
+Areﬁan et al., 2020
+
+Proteobacteria
+
+Enterobacter sp. DQ205431
+
+Goel et al., 2008
+
+Proteobacteria
+Proteobacteria
+
+Pseudomonas sp.
+Pseudomonas sp. AKS2 added to microbial natural consortia
+
+Wang et al., 2019
+Tribedi & Sil, 2013
+
+Actinobacteria &
+Firmicutes
+Firmicutes
+
+Recombinant strain N-2 (Microccocus sp. PVC-4 and Bacillus
+sp. PVA-7)
+Bacillus sp.PVA-7
+
+Patil & Bagde, 2016
+
+Proteobacteria
+
+similar to Pseudomonas putida, P. aeruginosa, Pseudomonas
+sp. PVA-2
+
+Hoffmann et al., 2003; Patil & Bagde, 2016
+
+Proteobacteria
+
+Proteobacteria
+Actinobacteria
+Firmicutes
+Firmicutes
+Proteobacteria
+
+Atiq et al., 2010; Brandon et al., 2018; Wang et al., 2020
+
+Peng et al., 2014
+Auta et al., 2018
+Arkatkar et al., 2009; Arkatkar et al., 2010
+Auta et al., 2017, 2018; Cacciari et al., 1993
+Arkatkar et al., 2010; Sharma & Sharma, 2004
+Cacciari et al., 1993
+Jeon & Kim, 2016
+
+Patil & Bagde, 2016
+
+(continued on next page)
+
+9
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Table 2 (continued)
+Polymer Bacteria/sample
+origin
+
+Phylum
+
+Identiﬁed bacteria capable of plastic biodegradation
+
+References
+
+PVC
+
+Actinobacteria
+
+Microccocus sp. PVC-4
+
+Patil & Bagde, 2016
+
+Actinobacteria &
+Firmicutes
+Firmicutes
+Firmicutes
+Proteobacteria
+
+Recombinant strain N-2 (Microccocus sp. PVC-4 and Bacillus
+sp. PVA-7)
+Bacillus sp.
+Bacillus ﬂexus
+Achromobacter sp., Pseudomonas aeruginosa
+
+Patil & Bagde, 2016
+
+Proteobacteria
+Proteobacteria
+Acidobacteria,
+Firmicutes &
+Proteobacteria
+
+Pseudomonas citronellolis
+Pseudomonas aeruginosa
+consortium of: Pseudomonas otitidis SPT1, Bacillus aerius
+SPT2, Acanthopleuribacter pedis SPT3, Bacillus cereus SPK1
+
+Giacomucci et al., 2019
+Wolkober et al., 1978
+Anwar et al., 2013
+
+PVC
+PVC
+PVC
+PVC
+PVC
+PVC
+PVC
+
+Contaminated
+site
+Contaminated
+site
+Other
+Banks/SM
+Contaminated
+site
+Banks/SM
+NA
+Banks/SM
+
+between the initial polymer weight and the weight after the exposure to
+bacteria that achieved biodegradation. These observations of weight
+loss were typically combined with another method, such as surface
+changes and/or FTIR spectroscopy. Some studies reported no changes,
+usually when an untreated polymer was used as the control to compare
+polymer blends (Niño et al., 1999; El-Wakil et al., 2020). Among the
+studies that reported an observed degradation (n = 138), 65.2% reported weight losses, of up to 10% (Yang et al., 2014; Mukherjee et al.,
+2017; Auta et al., 2018; Kumari et al., 2019; Shahreza et al., 2019) or
+10% to 20% (Kyaw et al., 2012; Bhatia et al., 2014; Awasthi et al., 2017;
+Wang et al., 2020). The extent of the weight loss depended on the polymer type and its characteristics, the type of bacteria or consortium, the
+pretreatment of the plastic, and the conditions during the experiments
+(e.g. study length, temperature and pH). The greatest weight losses
+were reported for LDPE and HDPE in the form of foils, ﬁlms or strips
+and for Klebsiella pneumonia CH001 (Awasthi et al., 2017) and different
+Pseudomonas strains (Kyaw et al., 2012; Bhatia et al., 2014). In many
+studies, the exact extent of the weight loss could not be extracted
+from the publications due to insufﬁcient reporting.
+
+Kumari et al., 2019
+Giacomucci et al., 2019
+Das et al., 2012
+
+5.2. Tensile strength
+The changes in the tensile strength of the plastics were usually determined using a tensile testing machine (e.g. INSTRON 5566, as used
+by Kyaw et al., 2012) and were measured as the percentage losses in
+tensile strength (Kyaw et al., 2012), elongation at the break point (%),
+or ultimate tensile strength (i.e. the stress that the material withstood
+while being stretched to breaking point) measured in units of
+megapascals (MPa) (Kyaw et al., 2012; Sarmah and Rout, 2018) or newtons per square metre (N m−2) (Tribedi and Dey, 2017). Some international standards, such as ASTM D 882-97, are already in use. About 17.4%
+of the studies reported using tensile strength changes as an indication of
+biodegradation. The tensile strength reductions were usually
+characterised as lower for virgin polymers than for blends (Leonas and
+Gorden, 1996; Francis et al., 2011); the reductions could even be zero
+(Leonas and Gorden, 1996). However, some studies reported substantial reductions in tensile strength during the biodegradation experiments. For example, a study of biodegradation of thermally pretreated
+HDPE by Klebsiella pneumoniae CH001 reported a signiﬁcant reduction
+
+Fig. 4. Degradation capacity over temperature ranges and different lengths of exposure for Bacillus, Pseudomonas or their mixtures. Range of study lengths is from 4 to 400 days and
+temperatures from 4 to 55 °C. Grey area indicates the conﬁdence level (0.95) of linear model regression.
+10
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+index showed a gradual decrease from an initial value of 1.0 to 0.85
+after 6 months, to 0.75 after 9 months, and to 0.70 after 1 year, whereas
+the carbonyl index increased from 0.0125 to 0.016. The methyl group
+index for the untreated PP decreased to 0.76 after 1 year. Novotný
+et al. (2018) measured the FTIR spectra of LLDPE ﬁlms before and after
+60-day treatments with a Bacillus amyloliquefaciens strain and reported
+a decreased carbonyl band and ﬂattening of the 1300–1100 cm−1 zone
+due to the bacterial action.
+Changes in thermal proﬁles have also been assessed using TGA to
+follow the degradation of plastics. For example, Bhatia et al. (2014)
+showed that the thermal proﬁle of virgin LDPE had a steep degradation
+curve between 450 °C and 500 °C, whereas degraded LDPE showed a
+three-step weight loss of 22%, 33% and 46% at 50 °C, 100 °C and 175
+°C, respectively. They concluded that bacterial cultures can accelerate
+the degradation rate because of direct enzymatic scission and assimilation of low-molecular-weight chains. The three-step degradation curves
+were a result of digestion of the hydrocarbon backbone by the isolated
+bacteria, Pseudomonas citronellolis EMBS027 (Bhatia et al., 2014).
+In addition to FTIR spectroscopy and TGA, Mohan et al. (2016) used
+NMR and HPLC analysis to assess microbial-assisted high-impact PS
+degradation. They used deuterated chloroform as the internal reference
+before and after analysis of high-impact PS samples by NMR. One of the
+major peaks reported was between 3 ppm and 4 ppm, which generally
+corresponds to –CH2–Br; the control showed, no peak in that region.
+They concluded that, because of the bacteria, bromine was released
+from the high-impact PS in the form of methyl bromine. They also conducted HPLC analysis of the culture medium following treatment with
+Bacillus spp. and Pseudomonas spp. detected the presence of phenyl ethanol, an intermediate product in the microbial degradation of PE.
+GPC has also been used to determine the number-averaged molecular mass (Mn) and the weight-averaged molecular weight (Mw) of
+biodegraded plastics, as well as the Polydispersity Index (Mw/Mn).
+Novotný et al. (2018) used GPC combined with other methods (e.g.
+FTIR spectroscopy) to assess the deterioration of pretreated LLDPE by
+Bacillus amyloliquefaciens. After 60 days of exposure to the bacteria at
+28 °C, the properties of virgin LLDPE did not change, nor did those of
+an abiotic control. Exposure of the pretreated LLDPE to the bacteria resulted in a steady increase in Mn, and increase in Mw and a decrease in
+the polydispersity index from 16.9 to 9.4. The authors concluded that
+the oligomers in the pretreated LLDPE were removed through the microbial action, and this conclusion was conﬁrmed by other measurements (Novotný et al., 2018).
+
+Table 3
+Origin of bacteria used in biodegradation studies (N = 138). Mix = when samples from
+different sites were used in the experiments (e.g., freshwater and soil), NA = information
+unavailable.
+Origin of tested bacteria
+
+Proportion of
+studies (%)
+(N = 138)
+
+Proportion of bacteria
+strains (%)
+(N = 246)
+
+Contaminated site
+Landﬁll and dump sites
+WWTPs
+Oil spillage sites
+Marine plastic waste
+Other
+Soil
+Animal gut
+Marine
+Compost
+Mangrove
+Freshwater
+Root nodules
+Cow dung
+Sludge samples from
+denitriﬁcation reactor in lab
+Mix
+Banks/SM
+Bank
+Synthetic enzymes/strains
+NA
+
+36.2
+29.0
+3.6
+2.2
+1.4
+37.0
+12.3
+5.8
+5.1
+4.3
+3.6
+3.6
+0.7
+0.7
+0.7
+
+54.9
+
+12.3
+13.0
+12.3
+0.7
+1.4
+
+30.1
+
+6.9
+7.3
+
+(~50%) after a 60-day incubation (Awasthi et al., 2017). Similarly, an investigation of PE biodegradation by bacterial strains from the guts of
+plastic-eating waxworms indicated a >50% decrease in tensile strength
+in PE exposed to Bacillus sp. YP1 or Enterobacter asburiae YT1 (Yang
+et al., 2014). Moderate decreases were observed by Agamuthu and
+Faizura (2005), where 45-day composting resulted in a 20% decrease
+in tensile strength for both HDPE with 3% additive and LLDPE with 7%
+additive.
+5.3. Surface changes
+Surface changes of the plastics were evaluated through visible
+changes in the ‘before’ and ‘after’ images from SEM in 60% of the studies,
+and these were mainly described as the formation of cracks, pores and
+holes. Awasthi et al. (2017) performed SEM image analysis to determine
+the degradation of HDPE ﬁlms by the bacterium Klebsiella pneumoniae
+and claimed that formation of bioﬁlms occurred within 15 days and
+that the HDPE ﬁlms were cracked and developed holes when incubated
+with K. pneumoniae. Similarly, Kyaw et al. (2012) provided SEM images
+of LDPE that revealed surface changes after 3 months of incubation with
+selected Pseudomonas strains. Surface changes have also been observed
+after 12 months of exposure of PP to different Bacillus strains (Arkatkar
+et al., 2009). Similarly, SEM experiments have revealed deterioration of
+PET (Austin et al., 2018; Narciso-Ortiz et al., 2020), PS (Chauhan et al.,
+2018; Wang et al., 2020) and PE (Deshpande et al., 2015; Mukherjee
+et al., 2017) by different strains at various incubation times (i.e. 4 days
+to a few years).
+
+6. Recommendations for future research
+The increasing accumulation of plastics in the environment has created an urgent need to develop technologies for the degradation of the
+plastic wastes that currently cannot be recycled and especially for degradation of plastics that pose serious threats to the environment. Especially critical attention is needed for the microplastics that accumulate
+in activated sludge during wastewater treatment processes, as this
+water is then further used in agriculture or discharged into streams.
+Alongside photo, thermal and mechanical deterioration, biodegradation
+is a promising approach, and it can provide energy-efﬁcient and costefﬁcient technologies that are also environmentally friendly, although
+only if this is carried out under controlled conditions. Hence, understanding what conditions are needed for biodegradation processes is
+critical, as is understanding the mechanisms involved.
+As a ﬁrst step, microorganisms with high potential for catalysing biochemical changes of these inert materials need to be identiﬁed, and
+their interactions with these plastic materials need to be understood
+more fully. The second step is to obtain a complete understanding of
+the autecology (i.e. the ecological requirements) and metabolic pathways of the relevant organisms, followed by establishment of the
+changes caused by the biochemical activity of microbes upon exposure
+to plastic materials. Our SLR indicates that the identiﬁcation of potential
+
+5.4. Chemical changes
+Fourier-transform infrared spectroscopy has been the most widely
+used method (60.9% of the studies) to evaluate chemical changes in
+treated polymers. Changes have usually been depicted as FTIR spectra
+and explained as shifts and changes in intensity of the carbonyl bands.
+For example, Albertsson et al. (1998) reported changes in the carbonyl
+index from 0.196 to 0.143 for initially pretreated LDPE after treatment
+with Arthrobacter parafﬁneus, and changes in the double-bond index
+from 0.275 to 0.250. Arkatkar et al. (2009) measured the FTIR spectroscopy absorbance of treated PP at 1377 cm−1 and observed decreases
+over the time when PP was exposed to bacteria. The methyl group
+11
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+7. Conclusions
+
+microorganisms is undergoing rapid progress, with 246 bacteria currently identiﬁed as capable of causing some kind of synthetic polymer
+change.
+The important pools of potential bacteria that can biodegrade plastics are generally located in contaminated sites, such as landﬁll sites,
+where bacteria are in close contact with plastic waste. Shah et al.
+(2008) suggested that standardised screening of organisms that can degrade polymers, or that produce enzymes or enzyme systems that can
+degrade polymers, might well be environmentally proﬁtable in the
+21st century, in analogy to the screening programmes used for antibiotics in the 1950s and 1960s. Moreover, rapid technical developments
+in our analytical tools for observing biochemical changes in plastics
+and in the development of molecular techniques are now providing a
+profound understanding of the biodegradation processes. These advances can be accelerated if future experiments are carefully designed
+and are clearly, fully and accurately described when they are published.
+Very recently, an excellent comprehensive review concluded that
+‘current international standards and regional test methods are insufﬁcient in their ability to realistically predict the biodegradability of
+carrier bags in marine environment, due to several shortcomings in
+experimental procedures and a paucity of information in the scientiﬁc literature’ (Harrison et al., 2018). Hence, the careful design of
+biodegradation experiments and the provision of clear and
+standardised descriptions of these studies when published will accelerate scientiﬁc progress in the ﬁeld of plastic biodegradation. Another critical consideration is the need for careful deﬁnition of the
+terminology used in scientiﬁc publications, such as references to dilution, enrichment, isolation and screening, to ensure reproducibility
+of the studies.
+When planning, carrying out and reporting biodegradation studies,
+the following should be considered:
+
+In this SLR, we have provided a systematic and objective presentation of the data extracted from 145 scientiﬁc papers reporting synthetic
+polymer degradation by bacteria. We have shown that, when exposed
+to suitable bacterial strain(s), all the tested synthetic polymers show
+some kind of surface deterioration or the initiation of chemical changes
+due to bacterial activity. However, these changes are minimal and slow,
+and reports on them for various tested materials in terms of the biological processes involved have been highly inconsistent between publications. As already highlighted by Shah et al. (2008), a need remains for
+international standardisation of biodegradation tests. Even more importantly, researchers should report all of the relevant details of their biodegradation studies to enable replication by others.
+We have identiﬁed several gaps in the existing research. A ﬁrst deﬁciency is that the biodegradation of global pollutant–environmental
+microplastics has rarely been studied. A second is that, apart from the
+biodegradation of PEs, biodegradation of other common plastic pollutants, such as for PP, PS, PVC, PET and PAHs, has been much less intensively investigated. Long-term experiments with incubation times
+exceeding 6 months are also lacking; hence, our understanding is limited only to superﬁcial degradation (biodeterioration) under laboratory
+conditions and the resultant modiﬁcation of mechanical, physical and
+chemical properties. The processes of polymer molecules cleavage by
+bacteria (depolymerisation) remain essentially unknown. Studies are
+also lacking that mimic ‘outdoor’ biodegradation conditions, where
+the bacteria are exposed to natural temperature ranges (4–20 °C; i.e.
+most studies are conducted at room temperature of: 26–30 °C). Another
+serius gap is that few studies have investigated biodegradation by microbial consortia. Only in- situ studies can provide relevant information
+on natural biodegradation processes that can be further transferred to
+bioremediation technologies.
+Future studies should be oriented towards the use of advanced
+chemical analysis to generate a better understanding of the metabolic
+pathways at the interface between the exposed polymers and the bacteria, with the aim of including the identiﬁcation of relevant enzyme complexes and the chemical changes they incur. An understanding of the
+autecological requirements of potential biodegraders is also important,
+along with their optimal niches where their biodegradation is at its
+highest. Finally, plastic-contaminated environments are not free of
+other more easily accessible carbon resources, so the microbial activities
+in such environments should be more intensively studied.
+
+• Biodegradation studies should focus on the materials that are most
+commonly present as environmental pollutants. Special concern
+should be focussed on the polymers that occur as microplastic pollutants (e.g. PEs, PP, PS, PAHs and PET).
+• Contaminated sites (e.g. landﬁll sites, activated sludge from WWTPs,
+contaminated soils or sediments), and gut bacteria from invertebrates
+that feed on detritus that contains synthetic polymers should be investigated as promising pools of biodegrading bacteria.
+• Pretreatment of plastics with UV light or imitation sunlight and moderate temperatures (in accordance with environmental conditions),
+and/or by mechanical deterioration (all of which imitate natural conditions) should be included in all biodegradation studies, as no plastic
+pollutant or waste is exposed to microorganisms in its virgin form.
+Moreover, the synergistic effects should be studied.
+• Descriptions of experiments should include at least the information
+on the bacteria tested (name, origin) and the plastic material (type,
+form, additives), and should report the essential experimental conditions (temperature, pH, growth media, length of study, amount of
+plastics, cell density, particle size and surface area, condition of polymer material used – new or aged).
+• FTIR spectroscopy has been identiﬁed as the most frequently used
+method for observation of biodegradation, as this enables an understanding of the biochemical changes occurring on the polymer
+surface; however, a standardised approach for reporting should
+be developed that includes the identiﬁcation of the areas that
+change due to the biological degradation, the deﬁnition of the parameters that should be observed for each plastic, and the application of standardised indices that can sufﬁciently detect changes in
+the polymer structure due to biological activities. Ideally, FTIR
+spectroscopy should be used in combination with other methods,
+such as HPLC, which enables the identiﬁcation of intermediate
+products of biodegradation, or with methods that enable more detailed interpretation of FTIR spectroscopy measurements, such as
+DSC, NMR, XPS or GPC.
+
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂuence the work reported in this paper.
+Acknowledgements
+The study was funded by the Slovenian Research Agency (ARRS)
+(P1-0255, P1-0237, P4-0165, and Ph.D. fellowship No. 51985 awarded
+to TM).
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.scitotenv.2020.141959.
+References
+Agamuthu, P., Faizura, P.N., 2005. Biodegradability of degradable plastic waste. Waste
+Manag. Res. 23 (2), 95–100. https://doi.org/10.1177/0734242x05051045.
+Alauddin, M., Choudhury, I.A., El Baradie, M.A., Hashmi, M.S.J., 1995. Plastics and their machining: a review. J. Mater. Process. Technol. 54 (1), 40–46. https://doi.org/10.1016/
+0924-0136(95)01917-0.
+12
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+Chamas, A., Moon, H., Zheng, J., Qiu, Y., Tabassum, T., Jang, J.H., Abu-Omar, M., Scott, S.L.,
+Suh, S., 2020. Degradation rates of plastics in the environment. ACS Sustain. Chem.
+Eng. 8 (9), 3493–3511. https://doi.org/10.1021/acssuschemeng.9b06635.
+Chatterjee, S., Roy, B., Roy, D., Banerjee, R., 2010. Enzyme-mediated biodegradation of
+heat treated commercial polyethylene by Staphylococcal species. Polym. Degrad.
+Stab. 95 (2), 195–200. https://doi.org/10.1016/j.polymdegradstab.2009.11.025.
+Chauhan, D., Agrawal, G., Deshmukh, S., Sinha Roy, S., Priyadarshini, R., 2018. Bioﬁlm formation by Exiguobacterium sp. DR11 and DR14 alter polystyrene surface properties
+and initiate biodegradation. RSC Adv. 8 (66), 37590–37599. https://doi.org/
+10.1039/C8RA06448B.
+Chiellini, E., Solaro, R., 1996. Biodegradable polymeric materials. Adv. Mater. 8 (4),
+305–313. https://doi.org/10.1002/adma.19960080406.
+Chinaglia, S., Tosin, M., Degli-Innocenti, F., 2018. Biodegradation rate of biodegradable
+plastics at molecular level. Polym. Degrad. Stab. 147, 237–244. https://doi.org/
+10.1016/j.polymdegradstab. 2017.12.011.
+Chua, E.M., Shimeta, J., Nugegoda, D., Morrison, P.D., Clarke, B.O., 2014. Assimilation of
+polybrominated duphenyl ethers from microplastics by the marine amphipod,
+Allorchestes Compressa. Environmental Science & Technology 48 (14), 8127–8134.
+https://doi.org/10.1021/es405717z.
+Daldrup-Link, H.E., 2018. Writing a review article - are you making these mistakes?
+Nanotheranostics 2 (2), 197–200. https://doi.org/10.7150/ntno.24793.
+Das, N., Chandran, P., 2010. Microbial degradation of petroleum hydrocarbon contaminants: an overview. Biotechnol. Res. Int. 2011, 13. https://doi.org/10.4061/2011/
+941810.
+Das, G., Bordoloi, N.K., Rai, S.K., Mukherjee, A.K., Karak, N., 2012. Biodegradable and biocompatible epoxidized vegetable oil modiﬁed thermostable poly(vinyl chloride):
+thermal and performance characteristics post biodegradation with Pseudomonas
+aeruginosa and Achromobacter sp. J. Hazard. Mater. 209-210, 434–442. https://doi.
+org/10.1016/j.jhazmat.2012.01.043.
+Davis, K.E.R., Joseph, S.J., Janssen, P.H., 2005. Effects of growth medium, inoculum size, and
+incubation time on culturability and isolation of soil bacteria. Appl. Environ.
+Microbiol. 71 (2), 826–834. https://doi.org/10.1128/AEM.71.2.826-834.2005.
+Deepika, S., Madhuri, R.J., 2015. Biodegradation of low density polyethylene by microorganisms from garbage soil. J. Exp. Biol. Agric. Sci. 3 (1), 15–21.
+Delacuvellerie, A., Cyriaque, V., Gobert, S., Benali, S., Wattiez, R., 2019. The plastisphere in
+marine ecosystem hosts potential speciﬁc microbial degraders including Alcanivorax
+borkumensis as a key player for the low-density polyethylene degradation. J. Hazard.
+Mater. 380, 120899. https://doi.org/10.1016/j.jhazmat.2019.120899.
+Deshpande, A., Vyas, G., Dadlani, H., Suneetha, V., 2015. An attempt to study the
+bacterialdegradation of polythene bag and rubber band using vellore (dumpsites)
+enriched soil. International Journal Of Pharmacy & Technology 7 (3), 9623–9629.
+Eerkes-Medrano, D., Thompson, R.C., Aldridge, D.C., 2015. Microplastics in freshwater systems: a review of the emerging threats, identiﬁcation of knowledge gaps and
+prioritisation of research needs. Water Res. 75, 63–82. https://doi.org/10.1016/j.
+watres.2015.02.012.
+Eid, M., Gollwitzer, M., Schmitt, M., 2011. Statistik und Forschungsmethoden Lehrbuch.
+Beltz, Weinheim.
+El-Sayed, A.H.M.M., Mahmoud, W.M., Davis, E.M., Coughlin, R.W., 1996. Biodegradation of
+polyurethane coatings by hydrocarbon-degrading bacteria. Int. Biodeterior. Biodegradation 37 (1), 69–79. https://doi.org/10.1016/0964-8305(95)00091-7.
+El-Wakil, A.E.-A.A., Moustafa, H., Youssef, A.M., 2020. Antimicrobial low-density
+polyethylene/low-density polyethylene-grafted acrylic acid biocomposites based on
+rice bran with tea tree oil for food packaging applications. J. Thermoplast. Compos.
+Mater. 0 (0). https://doi.org/10.1177/0892705720925140 0892705720925140.
+Fachrul, M.F., Rinanti, A., Dwicania, T., Dwicania, E., 2020. Potential of Linear Low-Density
+Polyethlene (LLDPE) Plastic Degradation by Mixed-Cultured Bacteria in Controlled
+Environment. Int. J. Adv. Sci. Technol. 29 (06), 3698–3707.
+Farzi, A., Dehnad, A., Fotouhi, A.F., 2019. Biodegradation of polyethylene terephthalate waste using Streptomyces species and kinetic modeling of the process. Biocatalysis and Agricultural Biotechnology 17, 25–31. https://doi.org/10.1016/j.
+bcab.2018.11.002.
+Fechine, G.J.M., Souto-Maior, R.M., Rabello, M.S., 2002. Structural changes during
+photodegradation of poly(ethylene terephthalate). J. Mater. Sci. 37 (23),
+4979–4984. https://doi.org/10.1023/A:1021067027612.
+Fotopoulou, K.N., Karapanagioti, H.K., 2019. Degradation of various plastics in the environment. In: Takada, H., Karapanagioti, H.K. (Eds.), Hazardous Chemicals Associated
+with Plastics in the Marine Environment. Springer International Publishing, Cham,
+pp. 71–92.
+Francis, V., Subin, S.R., Bhat, S.G., Thachil, E.T., 2011. Characterization of linear low-density
+polyethylene/poly(vinyl alcohol) blends and their biodegradability by Vibrio sp. isolated from marine benthic environment. J. Appl. Polym. Sci. 124, 257–265. https://
+doi.org/10.1002/app.34155.
+Gautam, R., Bassi, A.S., Yanful, E.K., 2007a. A review of biodegradation of synthetic plastic
+and foams. Appl. Biochem. Biotechnol. 141 (1), 85–108. https://doi.org/10.1007/
+s12010-007-9212-6.
+Gautam, R., Bassi, A.S., Yanful, E.K., Cullen, E., 2007b. Biodegradation of automotive waste
+polyester polyurethane foam using Pseudomonas chlororaphis ATCC55729. Int.
+Biodeterior. Biodegradation 60 (4), 245–249. https://doi.org/10.1016/j.
+ibiod.2007.03.009.
+Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made.
+Sci. Adv. 3 (7). https://doi.org/10.1126/sciadv.1700782.
+Ghatge, S., Yang, Y., Ahn, J.-H., Hur, H.-G., 2020. Biodegradation of polyethylene: a brief review. Applied Biological Chemistry 63 (1), 27. https://doi.org/10.1186/s13765-02000511-3.
+
+Albertsson, A.-C., Erlandsson, B., Hakkarainen, M., Karlsson, S., 1998. Molecular weight
+changes and polymeric matrix changes correlated with the formation of degradation
+products in biodegraded polyethylene. Journal of environmental polymer degradation 6 (4), 187–195. https://doi.org/10.1023/A:1021873631162.
+Amrutha, K., Warrier, A.K., 2020. The ﬁrst report on the source-to-sink characterization of
+microplastic pollution from a riverine environment in tropical India. Sci. Total Environ. 739, 140377. https://doi.org/10.1016/j.scitotenv.2020.140377.
+Anbuselvi Vatsaldutt Pandey, S., 2015. A comparative study of LDPE degradating bacteria
+from polythene dumped garbage. Int. J. Pharm. Technol. 6 (4), 7720–7725.
+Anbuselvi, V., Pandey, S., 2015. A comparative study of LDPE degradating bacteria from
+polythene dumped garbage. Int. J. Pharm. Technol. 6 (4), 7720–7725.
+Anwar, M.S., Negi, H., Zaidi, M.G.H., Gupta, S., Goel, R., 2013. Biodeterioration studies of
+thermoplastics in nature using indigenous bacterial consortium. Braz. Arch. Biol.
+Technol. 56, 475–484.
+APM, 2019. Plastics – The Facts 2019. An Analysis of European Latest Plastics Production,
+Demand and Waste Data. Association of Plastic Manufacturers, Brussels, p. 42.
+Areﬁan, M., Tahmourespour, A., Zia, M., 2020. Polycarbonate biodegradation by newly isolated Bacillus strains. Arch. Environ. Protect. 46 (1), 14–20.
+Arkatkar, A., Arutchelvi, J., Bhaduri, S., Uppara, P.V., Doble, M., 2009. Degradation of
+unpretreated and thermally pretreated polypropylene by soil consortia. Int.
+Biodeterior. Biodegrad. 63 (1), 106–111.
+Arkatkar, A., Juwarkar, A.A., Bhaduri, S., Uppara, P.V., Doble, M., 2010. Growth of Pseudomonas and Bacillus bioﬁlms on pretreated polypropylene surface. Int. Biodeterior. Biodegradation 64 (6), 530–536. https://doi.org/10.1016/j.ibiod.2010.06.002.
+Atiq, N., Ahmed, S., Ishtiaq Ali, M., Andleeb, S., Ahmad, B., Robson, G., 2010. Isolation and
+identiﬁcation of polystyrene biodegrading bacteria from soil. Afr. J. Microbiol. Res. 4
+(14), 1537–1541.
+Austin, H.P., Allen, M.D., Donohoe, B.S., Rorrer, N.A., Kearns, F.L., Silveira, R.L., Pollard, B.C.,
+Dominick, G., Duman, R., El Omari, K., Mykhaylyk, V., Wagner, A., Michener, W.E.,
+Amore, A., Skaf, M.S., Crowley, M.F., Thorne, A.W., Johnson, C.W., Woodcock, H.L.,
+McGeehan, J.E., Beckham, G.T., 2018. Characterization and engineering of a plasticdegrading aromatic polyesterase. Proc. Natl. Acad. Sci. 115 (19), E4350–E4357.
+https://doi.org/10.1073/pnas.1718804115.
+Auta, H.S., Emenike, C.U., Fauziah, S.H., 2017. Screening of Bacillus strains isolated from
+mangrove ecosystems in Peninsular Malaysia for microplastic degradation. Environ.
+Pollut. 231, 1552–1559. https://doi.org/10.1016/j.envpol.2017.09.043.
+Auta, H.S., Emenike, C.U., Jayanthi, B., Fauziah, S.H., 2018. Growth kinetics and biodeterioration of polypropylene microplastics by Bacillus sp. and Rhodococcus sp. isolated
+from mangrove sediment. Mar. Pollut. Bull. 127, 15–21. https://doi.org/10.1016/j.
+marpolbul.2017.11.036.
+Avio, C.G., Gorbi, S., Regoli, F., 2017. Plastics and microplastics in the oceans: from emerging pollutants to emerged threat. Mar. Environ. Res. 128, 2–11. https://doi.org/
+10.1016/j.marenvres.2016.05.012.
+Awasthi, S., Srivastava, P., Singh, P., Tiwary, D., Mishra, P.K., 2017. Biodegradation of thermally treated high-density polyethylene (HDPE) by Klebsiella pneumoniae CH001. 3
+Biotech 7, 10. https://doi.org/10.1007/s13205-017-0959-3.
+Azeko, S.T., Etuk-Udo, G.A., Odusanya, O.S., Malatesta, K., Anuku, N., Soboyejo, W.O., 2015.
+Biodegradation of Linear Low Density Polyethylene by Serratia marcescens subsp.
+Baculi, R.Q., Melegrito, J.B., Sabaten, R.D.S., Caranto, M.R., 2017. Biodegradation of High
+Density Polyethylene by Bacteria Isolated from Root Nodules of Phaseolus vulgaris.
+Philipp. Agric. Sci. 100, S21–S31.
+Balasubramanian, V., Natarajan, K., Hemambika, B., Ramesh, N., Sumathi, C.S.,
+Kottaimuthu, R., Kannan, V.R., 2010. High-density polyethylene (HDPE)-degrading
+potential bacteria from marine ecosystem of Gulf of Mannar, India. Lett. Appl.
+Microbiol. 51 (2), 205–211. https://doi.org/10.1111/j.1472-765X.2010.02883.x.
+Bardají, D.K.R., Furlan, J.P.R., Stehling, E.G., 2019. Isolation of a polyethylene degrading
+Paenibacillus sp. from a landﬁll in Brazil. Arch. Microbiol. 201 (5), 699–704. https://
+doi.org/10.1007/s00203-019-01637-9.
+Beyler, C.L., Hirschler, M.M., 2002. Thermal decomposition of polymers. SFPE handbook of
+ﬁre protection engineering 2.
+Bhatia, M., Girdhar, A., Tiwari, A., Nayarisseri, A., 2014. Implications of a novel Pseudomonas species on low density polyethylene biodegradation: an in vitro to in silico approach. SpringerPlus 3, 497–507. https://doi.org/10.1186/2193-1801-3-497.
+Borin, S., Brusetti, L., Daffonchio, D., Delaney, E., Baldi, F., 2009. Biodiversity of prokaryotic
+communities in sediments of different sub-basins of the Venice lagoon. Res.
+Microbiol. 160 (5), 307–314. https://doi.org/10.1016/j.resmic.2009.04.005.
+Brandon, A.M., Gao, S.-H., Tian, R., Ning, D., Yang, S.-S., Zhou, J., Wu, W.-M., Criddle, C.S.,
+2018. Biodegradation of Polyethylene and Plastic Mixtures in Mealworms (Larvae
+of Tenebrio molitor) and Effects on the Gut Microbiome. Environ. Sci. Technol. 52
+(11), 6526–6533. https://doi.org/10.1021/acs.est.8b02301.
+Buckley, D.H., Schmidt, T.M., 2001. The structure of microbial communities in soil and the
+lasting impact of cultivation. Microb. Ecol. 42 (1), 11–21. https://doi.org/10.1007/
+s002480000108.
+Cacciari, I., Quatrini, P., Zirletta, G., Mincione, E., Vinciguerra, V., Lupattelli, P., Giovannozzi
+Sermanni, G., 1993. Isotactic polypropylene biodegradation by a microbial community: physicochemical characterization of metabolites produced. Appl. Environ.
+Microbiol. 59 (11), 3695–3700.
+Canopoli, L., Coulon, F., Wagland, S.T., 2020. Degradation of excavated polyethylene and
+polypropylene waste from landﬁll. Sci. Total Environ. 698, 134125. https://doi.org/
+10.1016/j.scitotenv.2019.134125.
+Carol, D., Karpagam, S., Kingsley, S., Vincent, S., 2012. Synergistic effect of calcium stearate
+and photo treatment on the rate of biodegradation of low density polyethylene spent
+saline vials. Indian J. Exp. Biol. 50, 497–501.
+Caruso, G., 2019. Microplastics as vectors of contaminants. Mar. Pollut. Bull. 146, 921–924.
+https://doi.org/10.1016/j.marpolbul.2019.07.052.
+13
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+Liao, H., Yu, K., Duan, Y., Ning, Z., Li, B., He, L., Liu, C., 2019. Proﬁling microbial communities
+in a watershed undergoing intensive anthropogenic activities. Sci. Total Environ. 647,
+1137–1147. https://doi.org/10.1016/j.scitotenv.2018.08.103.
+Lim, S.-P., Gan, S.-N., Tan, I.K.P., 2005. Degradation of medium-chain-length
+polyhydroxyalkanoates in tropical forest and mangrove soils. Appl. Biochem.
+Biotechnol. 126 (1), 23. https://doi.org/10.1007/s12010-005-0003-7.
+Liu, X., Yuan, W., Di, M., Li, Z., Wang, J., 2019. Transfer and fate of microplastics during the
+conventional activated sludge process in one wastewater treatment plant of China.
+Chem. Eng. J. 362, 176–182. https://doi.org/10.1016/j.cej.2019.01.033.
+Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., Nava-Saucedo, J.-E., 2008.
+Polymer biodegradation: mechanisms and estimation techniques – a review.
+Chemosphere 73 (4), 429–442. https://doi.org/10.1016/j.chemosphere.2008.06.064.
+Luo, W., Su, L., Craig, N.J., Du, F., Wu, C., Shi, H., 2019. Comparison of microplastic pollution
+in different water bodies from urban creeks to coastal waters. Environ. Pollut. 246,
+174–182. https://doi.org/10.1016/j.envpol.2018.11.081.
+Madigan, M.T., Martinko, J.M., Stahl, D.A., Clark, D.P., 2012. Brock Biology of Microorganisms. 13 ed. Pearson Education, Inc, San Francisco, CA.
+Malachová, K., Novotný, Č., Adamus, G., Lotti, N., Rybková, Z., Soccio, M., Šlosarčíková, P.,
+Verney, V., Fava, F., 2020. Ability of Trichoderma hamatum isolated from plasticspolluted environments to attack petroleum-based, synthetic polymer ﬁlms. Processes
+8 (4), 467.
+Martin, J., Lusher, A., Thompson, R.C., Morley, A., 2017. The deposition and accumulation
+of microplastics in marine sediments and bottom water from the Irish continental
+shelf. Sci. Rep. 7 (1), 10772. https://doi.org/10.1038/s41598-017-11079-2.
+Masiá, P., Sol, D., Ardura, A., Laca, A., Borrell, Y.J., Dopico, E., Laca, A., Machado-Schiafﬁno,
+G., Díaz, M., Garcia-Vazquez, E., 2020. Bioremediation as a promising strategy for
+microplastics removal in wastewater treatment plants. Mar. Pollut. Bull. 156,
+111252. https://doi.org/10.1016/j.marpolbul.2020.111252.
+Mato, Y., Isobe, T., Takada, H., Kanehiro, H., Ohtake, C., Kaminuma, T., 2001. Plastic resin
+pellets as a transport merium for toxic chemicals in the marine environment. Environmental Science & Technology 35 (2), 318–324. https://doi.org/10.1021/
+es0010498.
+Mehmood, C.T., Qazi, I.A., Hashmi, I., Bhargava, S., Deepa, S., 2016. Biodegradation of low
+density polyethylene (LDPE) modiﬁed with dye sensitized titania and starch blend
+using Stenotrophomonas pavanii. Int. Biodeterior. Biodegradation 113, 276–286.
+https://doi.org/10.1016/j.ibiod.2016.01.025.
+Mohan, A.J., Sekhar, V.C., Bhaskar, T., Nampoothiri, K.M., 2016. Microbial assisted high impact polystyrene (HIPS) degradation. Bioresour. Technol. 213, 204–207. https://doi.
+org/10.1016/j.biortech.2016.03.021.
+Mohanrasu, K., Premnath, N., Siva Prakash, G., Sudhakar, M., Boobalan, T., Arun, A., 2018.
+Exploring multi potential uses of marine bacteria; an integrated approach for PHB
+production, PAHs and polyethylene biodegradation. J. Photochem. Photobiol. 185,
+55–65. https://doi.org/10.1016/j.jphotobiol.2018.05.014.
+Moharir, R.V., Kumar, S., 2019. Challenges associated with plastic waste disposal and allied microbial routes for its effective degradation: a comprehensive review. J. Clean.
+Prod. 208, 65–76. https://doi.org/10.1016/j.jclepro.2018.10.059.
+Montazer, Z., Habibi-Najaﬁ, M.B., Mohebbi, M., Oromiehei, A., 2018. Microbial Degradation of UV-Pretreated Low-Density Polyethylene Films by Novel PolyethyleneDegrading Bacteria Isolated from Plastic-Dump Soil. J. Polym. Environ. 26 (9),
+3613–3625. https://doi.org/10.1007/s10924-018-1245-0.
+Montazer, Z., Najaﬁ, M.B.H., Levin, D.B., 2020. Challenges with verifying microbial degradation of polyethylene. Polymers 12 (1).
+Muhonja, C.N., Makonde, H., Magoma, G., Imbuga, M., 2018. Biodegradability of polyethylene by bacteria and fungi from Dandora dumpsite Nairobi-Kenya. PLoS ONE 13 (7),
+e0198446. https://doi.org/10.1371/journal.pone.0198446.
+Mukherjee, S., RoyChaudhuri, U., Kundu, P.P., 2017. Anionic surfactant induced oxidation
+of low density polyethylene followed by its microbial bio-degradation. Int.
+Biodeterior.
+Biodegradation
+117,
+255–268.
+https://doi.org/10.1016/j.
+ibiod.2017.01.013.
+Muthukumar, A., Veerappapillai, S., 2015. Biodegradation of plastics – a brief review. International Journal of Pharmaceutical Sciences Review and Research 31, 204–209.
+Muthumani, S., Anbuselvi, S., 2014-2015. Waste Management and Environment Protection - A Study with Isolation and Characterisation of Low Density Polyethylene
+Degradating Microbes. Int. J. ChemTech Res. 7 (6), 2841–2845.
+Nanda, S., Kumar, S.G., Mukherjee, S., Sreejith, R., Bhattacharya, S., Shankar, S., Vidhya, R.,
+Somasundaram, S.S.N., 2009. Studies on the degradation of Polyethylene by Pseudomonas sp. Asian J. Microbiol. Biotechnol. Environ. Sci. 11 (4), 851–855.
+Narciso-Ortiz, L., Coreño-Alonso, A., Mendoza-Olivares, D., Lucho-Constantino, C.A.,
+Lizardi-Jiménez, M.A., 2020. Baseline for plastic and hydrocarbon pollution of rivers,
+reefs, and sediment on beaches in Veracruz State, México, and a proposal for bioremediation. Environ. Sci. Pollut. Res. 27 (18), 23035–23047. https://doi.org/10.1007/
+s11356-020-08831-z.
+Nel, H.A., Dalu, T., Wasserman, R.J., 2018. Sinks and sources: assessing microplastic
+abundance in river sediment and deposit feeders in an Austral temperate
+urban river system. Sci. Total Environ. 612, 950–956. https://doi.org/10.1016/j.
+scitotenv.2017.08.298.
+Niño, K.A., Imam, S.H., Gordon, S.H., Wong, L.J.G., 1999. Extruded Plastics Containing
+Starch and Chitin: Physical Properties and Evaluation of Biodegradability, Biopolymers. American Chemical Society, pp. 195–203.
+Nizzetto, L., Futter, M., Langaas, S., 2016. Are agricultural soils dumps for microplastics of
+urban origin? Environmental Science & Technology 50 (20), 10777–10779. https://
+doi.org/10.1021/acs.est.6b04140.
+Nourollahi, A., Sedighi-Khavidak, S., Mokhtari, M., Eslami, G., Shiranian, M., 2019. Isolation
+and identiﬁcation of low-density polyethylene (LDPE) biodegrading bacteria from
+waste landﬁll in Yazd. Int. J. Environ. Stud. 76 (2), 236–250. https://doi.org/
+10.1080/00207233.2018.1551986.
+
+Giacomucci, L., Raddadi, N., Soccio, M., Lotti, N., Fava, F., 2019. Polyvinyl chloride biodegradation by Pseudomonas citronellolis and Bacillus ﬂexus. New Biotechnol. 52, 35–41.
+https://doi.org/10.1016/j.nbt.2019.04.005.
+Gnanavel, G., Mohana Jeya Valli, V., Thirumarimurugan, M., 2012. A review of biodegradation of plastics waste. International Journal Of Pharmaceutical And Chemical Sciences
+1 (3).
+Goel, R., Zaidi, M.G.H., Soni, R., Lata, K., Shouche, Y.S., 2008. Implication of Arthrobacter and
+Enterobacter species for polycarbonate degradation. Int. Biodeterior. Biodegradation
+61 (2), 167–172. https://doi.org/10.1016/j.ibiod.2007.07.001.
+Gu, J.D., Ford, T.E., Mitton, D.B., Mictchell, R., 2011. The complete breakdown of large polymers. In: Revie, R.W. (Ed.), Uhlig's Corrosion Handbook, 3rd edition.
+Haider, T.P., Völker, C., Kramm, J., Landfester, K., Wurm, F.R., 2019. Plastics of the future?
+The impact of biodegradable polymers on the environment and on society. Angew.
+Chem. Int. Ed. 58 (1), 50–62. https://doi.org/10.1002/anie.201805766.
+Harrison, J.P., Boardman, C., O'Callaghan, K., Delort, A.-M., Song, J., 2018. Biodegradability
+standards for carrier bags and plastic ﬁlms in aquatic environments: a critical review.
+R. Soc. Open Sci. 5 (5), 171792. https://doi.org/10.1098/rsos.171792.
+Hedges, L.V., Olkin, I., 1985. Statistical Methods for Meta-analysis. Academic Press, San
+Diego, CA.
+Ho, B., Roberts, T., Lucas, S., 2017. An overview on biodegradation of polystyrene and
+modiﬁed polystyrene: the microbial approach. Crit. Rev. Biotechnol. 38, 1–13.
+https://doi.org/10.1080/07388551.2017.1355293.
+Hoffmann, J.R., Řeznıč́ ková, I., Kozáková, J., Růžička, J., Alexy, P., Bakoš, D., Precnerová, L.,
+2003. Assessing biodegradability of plastics based on poly(vinyl alcohol) and protein
+wastes. Polym. Degrad. Stab. 79 (3), 511–519. https://doi.org/10.1016/S0141-3910
+(02)00367-1.
+Horton, A.A., Walton, A., Spurgeon, D.J., Lahive, E., Svendsen, C., 2017. Microplastics in
+freshwater and terrestrial environments: evaluating the current understanding to
+identify the knowledge gaps and future research priorities. Sci. Total Environ. 586,
+127–141. https://doi.org/10.1016/j.scitotenv.2017.01.190.
+Jacquin, J., Cheng, J., Odobel, C., Pandin, C., Conan, P., Pujo-Pay, M., Barbe, V.,
+Meistertzheim, A.-L., Ghiglione, J.-F., 2019. Microbial ecotoxicology of marine plastic
+debris: a review on colonization and biodegradation by the “Plastisphere”. Front.
+Microbiol. 10 (865). https://doi.org/10.3389/fmicb.2019.00865.
+Jambeck, J.R., Geyer, R., Wilcox, C., Siegler, T.R., Perryman, M., Andrady, A., Narayan, R.,
+Law, K.L., 2015. Plastic waste inputs from land into the ocean. Science 347 (6223),
+768–771. https://doi.org/10.1126/science.1260352.
+Jeon, H.J., Kim, M.N., 2016. Isolation of mesophilic bacterium for biodegradation of polypropylene. Int. Biodeterior. Biodegradation 115, 244–249. https://doi.org/10.1016/j.
+ibiod.2016.08.025.
+Jin, C.E., Kim, M.N., 2017. Change of bacterial community in oil-polluted soil after enrichment cultivation with low-molecular-weight polyethylene. Int. Biodeterior. Biodegradation 118, 27–33. https://doi.org/10.1016/j.ibiod.2017.01.020.
+Kale, S.K., Deshmukh, A.G., Dudhare, M.S., Patil, V.B., 2015. Microbial degradation of plastic: a review. Journal of Biochemical Technology 6 (2), 952–961.
+Kanhai, L.D.K., Gardfeldt, K., Krumpen, T., Thompson, R.C., O'Connor, I., 2020. Microplastics
+in sea ice and seawater beneath ice ﬂoes from the Arctic Ocean. Sci. Rep. 10 (1), 5004.
+https://doi.org/10.1038/s41598-020-61948-6.
+Kathiresan, K., 2003. Polythene and Plastics-degrading microbes from the mangrove soil.
+Rev. Biol. Trop. 51, 629–633.
+Khatoon, N., Naz, I., Ali, M.I., Ali, N., Jamal, A., Hameed, A., Ahmed, S., 2014. Bacterial succession and degradative changes by bioﬁlm on plastic medium for wastewater treatment. J. Basic Microbiol. 54 (7), 739–749. https://doi.org/10.1002/jobm.201300162.
+Koelmans, A.A., Mohamed Nor, N.H., Hermsen, E., Kooi, M., Mintenig, S.M., De France, J.,
+2019. Microplastics in freshwaters and drinking water: critical review and assessment of data quality. Water Res. 155, 410–422. https://doi.org/10.1016/j.
+watres.2019.02.054.
+Kowalczyk, A., Chyc, M., Ryszka, P., Latowski, D., 2016. Achromobacter xylosoxidans as a
+new microorganism strain colonizing high-density polyethylene as a key step to its
+biodegradation. Environ. Sci. Pollut. Res. 23 (11), 11349–11356. https://doi.org/
+10.1007/s11356-016-6563-y.
+Kumar Gupta, K., Debvi, D., 2019. Biodegradation of Low Density Polyethylene by Selected
+Bacillus sp. Gazi Univ. J. Sci. 32 (3), 801–813. https://doi.org/10.35378/gujs.496392.
+Kumar, S., Teotia, U.V.S., Singh, Y., 2017. A comprehensive review on microbial degradation of plastic waste. Journal of Applied Pharmaceutical Research 4. https://doi.org/
+10.18231/2348-0335.2017.0009 08-12%V 05.
+Kumari, A., Chaudhary, D.R., Jha, B., 2019. Destabilization of polyethylene and
+polyvinylchloride structure by marine bacterial strain. Environ. Sci. Pollut. Res. 26
+(2), 1507–1516. https://doi.org/10.1007/s11356-018-3465-1.
+Kunlere, I.O., Fagade, O.E., Nwadike, B.I., 2019. Biodegradation of low density polyethylene
+(LDPE) by certain indigenous bacteria and fungi. Int. J. Environ. Stud. 76 (3), 428–440.
+https://doi.org/10.1080/00207233.2019.1579586.
+Kyaw, B.M., Champakalakshmi, R., Sakharkar, M.K., Lim, C.S., Sakharkar, K.R., 2012. Biodegradation of low density polythene (LDPE) by Pseudomonas species. Indian
+J. Microbiol. 52 (3), 411–419. https://doi.org/10.1007/s12088-012-0250-6.
+Kyrikou, I., Briassoulis, D., 2007. Biodegradation of agricultural plastic ﬁlms: a critical
+review. J. Polym. Environ. 15 (2), 125–150. https://doi.org/10.1007/s10924-0070053-8.
+Lenhard, W., Lenhard, A., 2014. Hypothesis Tests for Comparing Correlations.
+Leonas, K.K., Gorden, R.W., 1996. Bacteria associated with disintegrating plastic ﬁlms
+under simulated aquatic environments. Bull. Environ. Contam. Toxicol. 56 (6),
+948–955. https://doi.org/10.1007/s001289900137.
+Li, Z., Wei, R., Gao, M., Ren, Y., Yu, B., Nie, K., Xu, H., Liu, L., 2020. Biodegradation of lowdensity polyethylene by Microbulbifer hydrolyticus IRE-31. J. Environ. Manag. 263,
+110402. https://doi.org/10.1016/j.jenvman.2020.110402.
+14
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+
+Novotný, Č., Malachová, K., Adamus, G., Kwiecień, M., Lotti, N., Soccio, M., Verney, V., Fava,
+F., 2018. Deterioration of irradiation/high-temperature pretreated, linear low-density
+polyethylene (LLDPE) by Bacillus amyloliquefaciens. Int. Biodeterior. Biodegradation
+132, 259–267. https://doi.org/10.1016/j.ibiod.2018.04.014.
+Pandey, V.,.S.,.A., 2014. Study on low density polyethene degrading bacteria from
+polyethene garbage. Res. J. Pharm., Biol. Chem. Sci. 5 (3).
+Pandey, V., Anbuselvi, S., 2014. Study on Low Density Polyethene Degrading Bacteria from
+Polyethene Garbage. Research Journal of Pharmaceutical, Biological and Chemical.
+Sciences 5 (3).
+Parte, A.C., 2018. LPSN – list of prokaryotic names with standing in nomenclature
+(bacterio.net), 20 years on. Int. J. Syst. Evol. Microbiol. 68 (6), 1825–1829. https://
+doi.org/10.1099/ijsem.0.002786.
+Pathak, V.M., Navneet, 2017. Review on the current status of polymer degradation: a microbial approach. Bioresources and Bioprocessing 4 (1), 15. https://doi.org/10.1186/
+s40643-017-0145-9.
+Patil, R., Bagde, U.S., 2016. Development of novel bacterial strains for enhanced biodegradation of plastic polymes by protoplast fusion. Asian J. Microbiol. Biotechnol. Environ.
+Sci. 18 (2), 513–523.
+Peixoto, J., Silva, L.P., Krüger, R.H., 2017. Brazilian Cerrado soil reveals an untapped microbial potential for unpretreated polyethylene biodegradation. J. Hazard. Mater. 324,
+634–644. https://doi.org/10.1016/j.jhazmat.2016.11.037.
+Peng, Y.-H., Shih, Y.-h., Lai, Y.-C., Liu, Y.-Z., Liu, Y.-T., Lin, N.-C., 2014. Degradation of polyurethane by bacterium isolated from soil and assessment of polyurethanolytic activity of a Pseudomonas putida strain. Environ. Sci. Pollut. Res. 21 (16), 9529–9537.
+https://doi.org/10.1007/s11356-014-2647-8.
+Peng, G., Xu, P., Zhu, B., Bai, M., Li, D., 2018. Microplastics in freshwater river sediments in
+Shanghai, China: a case study of risk assessment in mega-cities. Environ. Pollut. 234,
+448–456. https://doi.org/10.1016/j.envpol.2017.11.034.
+Peng, B.-Y., Su, Y., Chen, Z., Chen, J., Zhou, X., Benbow, M.E., Criddle, C.S., Wu, W.-M.,
+Zhang, Y., 2019. Biodegradation of Polystyrene by Dark (Tenebrio obscurus) and Yellow (Tenebrio molitor) Mealworms (Coleoptera: Tenebrionidae). Environ. Sci.
+Technol. 53 (9), 5256–5265. https://doi.org/10.1021/acs.est.8b06963.
+Pischedda, A., Tosin, M., Degli-Innocenti, F., 2019. Biodegradation of plastics in soil: the effect of temperature. Polym. Degrad. Stab. 170, 109017. https://doi.org/10.1016/j.
+polymdegradstab. 2019.109017.
+Puglisi, E., Romaniello, F., Galletti, S., Boccaleri, E., Frache, A., Cocconcelli, P.S., 2019. Selective bacterial colonization processes on polyethylene waste samples in an abandoned
+landﬁll site. Sci. Rep. 9 (1), 14138. https://doi.org/10.1038/s41598-019-50740-w.
+R Core Team, 2019. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.
+Rajandas, H., Parimannan, S., Sathasivam, K., Ravichandran, M., Su Yin, L., 2012. A novel
+FTIR-ATR spectroscopy based technique for the estimation of low-density polyethylene biodegradation. Polym. Test. 31 (8), 1094–1099. https://doi.org/10.1016/j.
+polymertesting.2012.07.015.
+Rani, K.S., Rao, P.V.V.P., 2012. Evaluation of Biodegradation of Plastics and Polythene Bags
+from Various Soils. J. Pure Appl. Microbiol. 6 (1), 281–287.
+Raziyafathima, M., Praseetha, P.K., Rimal Isaac, R.S., 2016. Microbial degradation of plastic
+waste: a review. Journal of Pharmaceutical, Chemical and Biological Sciences 4 (2),
+231–242.
+Ren, L., Men, L., Zhang, Z., Guan, F., Tian, J., Wang, B., Wang, J., Zhang, Y., Zhang, W., 2019.
+Biodegradation of Polyethylene by Enterobacter sp. D1 from the Guts of Wax Moth
+Galleria mellonella. Int. J. Environ. Res. Public Health 16 (11).
+Restrepo-Flórez, J.-M., Bassi, A., Thompson, M.R., 2014. Microbial degradation and deterioration of polyethylene – a review. Int. Biodeterior. Biodegradation 88, 83–90.
+https://doi.org/10.1016/j.ibiod.2013.12.014.
+Riggi, E., Santagata, G., Malinconico, M., 2011. Bio-based and biodegradable plastics for
+use in crop production. Recent Patents on Food, Nutrition & Agriculture 3 (1), 49–63.
+Sangale, M., Shahnawaz, M., Ade, A., 2012. A review on biodegradation of polythene:the
+microbial approach. Journal of Bioremediation & Biodegradation 3, 1–9. https://doi.
+org/10.4172/2155-6199.1000164.
+Sangeetha Devi, R., Ramya, R., Kannan, K., Robert Antony, A., Rajesh Kannan, V., 2019. Investigation of biodegradation potentials of high density polyethylene degrading marine bacteria isolated from the coastal regions of Tamil Nadu, India. Mar. Pollut. Bull.
+138, 549–560. https://doi.org/10.1016/j.marpolbul.2018.12.001.
+Santisi, S., Cappello, S., Catalfamo, M., Mancini, G., Hassanshahian, M., Genovese, L.,
+Giuliano, L., Yakimov, M.M., 2015. Biodegradation of crude oil by individual bacterial
+strains and a mixed bacterial consortium. Braz. J. Microbiol. 46, 377–387.
+Santo, M., Weitsman, R., Sivan, A., 2013. The role of the copper-binding enzyme – laccase
+– in the biodegradation of polyethylene by the actinomycete Rhodococcus ruber. Int.
+Biodeterior. Biodegradation 84, 204–210. https://doi.org/10.1016/j.ibiod.2012.03.001.
+Sarker, R.K., Chakraborty, P., Paul, P., Chatterjee, A., Tribedi, P., 2020. Degradation of lowdensity poly ethylene (LDPE) by Enterobacter cloacae AKS7: a potential step towards
+sustainable environmental remediation. Arch. Microbiol. https://doi.org/10.1007/
+s00203-020-01926-8.
+Sarkhel, R., Sengupta, S., Das, P., Bhowal, A., 2019. Comparative biodegradation study of
+polymer from plastic bottle waste using novel isolated bacteria and fungi from marine source. J. Polym. Res. 27 (1), 16. https://doi.org/10.1007/s10965-019-1973-4.
+Sarmah, P., Rout, J., 2018. Efﬁcient biodegradation of low-density polyethylene by
+cyanobacteria isolated from submerged polyethylene surface in domestic sewage
+water. Environ. Sci. Pollut. Res. 25 (33), 33508–33520. https://doi.org/10.1007/
+s11356-018-3079-7.
+Satyalakshmi, S., 2016. Isolation and identiﬁcation of polythene bags degrading bacteria
+from Visakhapatnam dumping yard. Int. J. Pharm. Sci. Res. 7 (10), 4200–4203.
+https://doi.org/10.13040/IJPSR.0975-8232.7(10).4200-03.
+Scheurer, M., Bigalke, M., 2018. Microplastics in Swiss ﬂoodplain soils. Environmental Science & Technology 52 (6), 3591–3598. https://doi.org/10.1021/acs.est.7b06003.
+
+Schulte, P.M., 2015. The effects of temperature on aerobic metabolism: towards a mechanistic understanding of the responses of ectotherms to a changing environment.
+J. Exp. Biol. 218 (12), 1856–1866. https://doi.org/10.1242/jeb.118851.
+Scott, G., 1999. Polymers in Modern Life, Polymers and the Environment. Royal Society of
+Chemistry, Cambridge.
+Sekhar, V.C., Nampoothiri, K.M., Mohan, A.J., Nair, N.R., Bhaskar, T., Pandey, A., 2016. Microbial degradation of high impact polystyrene (HIPS), an e-plastic with
+decabromodiphenyl oxide and antimony trioxide. J. Hazard. Mater. 318, 347–354.
+https://doi.org/10.1016/j.jhazmat.2016.07.008.
+Seo, J.-S., Keum, Y.-S., Li, Q.X., 2009. Bacterial degradation of aromatic compounds. Int.
+J. Environ. Res. Public Health 6 (1), 278–309. https://doi.org/10.3390/ijerph6010278.
+Shabbir, S., Faheem, M., Ali, N., Kerr, P.G., Wang, L.-F., Kuppusamy, S., Li, Y., 2020. Periphytic bioﬁlm: an innovative approach for biodegradation of microplastics. Sci.
+Total Environ. 717, 137064. https://doi.org/10.1016/j.scitotenv.2020.137064.
+Shah, A.A., Hasan, F., Hameed, A., Ahmed, S., 2008. Biological degradation of plastics: a
+comprehensive review. Biotechnol. Adv., 246–265 https://doi.org/10.1016/j.
+biotechadv.2007.12.005.
+Shahnawaz, M., Sangale, M.K., Ade, A.B., 2016. Rhizosphere of Avicennia marina (Forsk.)
+Vierh. as a landmark for polythene degrading bacteria. Environ. Sci. Pollut. Res. 23
+(14), 14621–14635. https://doi.org/10.1007/s11356-016-6542-3.
+Shahreza, H., Akhavan Sepahy, A., Hosseini, F., Khavari Nejad, R., 2019. Molecular identiﬁcation of Pseudomonas strains with polyethylene degradation ability from soil and
+cloning of alkBGene. Arch. Pharm. Pract. 10 (4), 43–48.
+Shao, H., Chen, M., Fei, X., Zhang, R., Zhong, Y., Ni, W., Tao, X., He, X., Zhang, E., Yong, B.,
+Tan, X., 2019. Complete Genome Sequence and Characterization of a Polyethylene
+Biodegradation Strain, Streptomyces Albogriseolus LBX-2. Microorganisms 7 (10).
+Sharma, A., Sharma, A., 2004. Degradation assessment of low density polythene (LDP) and
+polythene (PP) by an indigenous isolate of Pseudomonas stutzeri. J. Sci. Ind. Res. 63,
+293–296.
+Sharma, M., Sharma, P., Sharma, A., Chandra, S., 2015. Microbial degradation of plastic-a
+brief review. CIBTech Journal of Microbiology 4 (1), 85–89.
+Shourian, M., Noghabi, K.A., Zahiri, H.S., Bagheri, T., Karballaei, G., Mollaei, M., Rad, I.,
+Ahadi, S., Raheb, J., Abbasi, H., 2009. Efﬁcient phenol degradation by a newly characterized Pseudomonas sp. SA01 isolated from pharmaceutical wastewaters. Desalination 246 (1), 577–594. https://doi.org/10.1016/j.desal.2008.07.015.
+Sivan, A., 2011. New perspectives in plastic biodegradation. Curr. Opin. Biotechnol. 22 (3),
+422–426. https://doi.org/10.1016/j.copbio.2011.01.013.
+Skariyachan, S., Megha, M., Kini, M.N., Mukund, K.M., Rizvi, A., Vasist, K., 2015. Selection
+and screening of microbial consortia for efﬁcient and ecofriendly degradation of plastic garbage collected from urban and rural areas of Bangalore, India. Environ. Monit.
+Assess. 187 (1), 4174. https://doi.org/10.1007/s10661-014-4174-y.
+Skariyachan, S., Manjunatha, V., Sultana, S., Jois, C., Bai, V., Vasist, K.S., 2016. Novel bacterial consortia isolated from plastic garbage processing areas demonstrated enhanced
+degradation for low density polyethylene. Environ. Sci. Pollut. Res. 23 (18),
+18307–18319. https://doi.org/10.1007/s11356-016-7000-y.
+Skariyachan, S., Setlur, A.S., Naik, S.Y., Naik, A.A., Usharani, M., Vasist, K.S., 2017. Enhanced biodegradation of low and high-density polyethylene by novel bacterial
+consortia formulated from plastic-contaminated cow dung under thermophilic
+conditions. Environ. Sci. Pollut. Res. 24 (9), 8443–8457. https://doi.org/
+10.1007/s11356-017-8537-0.
+Skariyachan, S., Patil, A.A., Shankar, A., Manjunath, M., Bachappanavar, N., Kiran, S., 2018.
+Enhanced polymer degradation of polyethylene and polypropylene by novel thermophilic consortia of Brevibacillus sps. and Aneurinibacillus sp. screened from waste
+management landﬁlls and sewage treatment plants. Polym. Degrad. Stab. 149,
+52–68. https://doi.org/10.1016/j.polymdegradstab. 2018.01.018.
+Stepien, A.E., Zebrowski, J., Piszczyk, Ł., Boyko, V.V., Riabov, S.V., Dmitrieva, T., Bortnitskiy,
+V.I., Gonchar, M., Wojnarowska-Nowak, R., Ryszkowska, J., 2017. Assessment of the
+impact of bacteria Pseudomonas denitriﬁcans, Pseudomonas ﬂuorescens, Bacillus subtilis
+and yeast Yarrowia lipolytica on commercial poly(ether urethanes). Polym. Test. 63,
+484–493. https://doi.org/10.1016/j.polymertesting.2017.08.038.
+Sudhakar, M., Doble, M., Murthy, P.S., Venkatesan, R., 2008. Marine microbe-mediated
+biodegradation of low- and high-density polyethylenes. Int. Biodeterior. Biodegradation 61 (3), 203–213. https://doi.org/10.1016/j.ibiod.2007.07.011.
+Talvitie, J., Mikola, A., Koistinen, A., Setälä, O., 2017. Solutions to microplastic pollution – removal of microplastics from wastewater efﬂuent with advanced wastewater treatment technologies. Water Res. 123, 401–407. https://doi.org/
+10.1016/j.watres.2017.07.005.
+Tokiwa, Y., Calabia, B.P., Ugwu, C.U., Aiba, S., 2009. Biodegradability of plastics. Int. J. Mol.
+Sci. 10, 3722–3742.
+Tourova, T., Sokolova, D., Nazina, T., Grouzdev, D., Kurshev, E., Laptev, A., 2020. Biodiversity of microorganisms colonizing the surface of polystyrene samples exposed to different aqueous environments. Sustainability 12 (9).
+Tribedi, P., Dey, S., 2017. Pre-oxidation of low-density polyethylene (LDPE) by ultraviolet
+light (UV) promotes enhanced degradation of LDPE in soil. Environ. Monit. Assess.
+189 (12), 624. https://doi.org/10.1007/s10661-017-6351-2.
+Tribedi, P., Sil, A.K., 2013. Bioaugmentation of polyethylene succinate-contaminated soil
+with Pseudomonas sp. AKS2 results in increased microbial activity and better polymer
+degradation. Environ. Sci. Pollut. Res. 20 (3), 1318–1326. https://doi.org/10.1007/
+s11356-012-1080-0.
+Ullah Jamil, S.U., Zada, S., Khan, I., Sajjad, W., Raﬁq, M., Shah, A.A., Hasam, F., 2017. Biodegradation of polyethylene by bacterial strains isolated from Kashmir cave, Buner,
+Pakistan. Journal of Cave & Karst Studies 79 (1), 73–80.
+Urbanek, A.K., Rymowicz, W., Mirończuk, A.M., 2018. Degradation of plastics and plasticdegrading bacteria in cold marine habitats. Appl. Microbiol. Biotechnol. 102 (18),
+7669–7678. https://doi.org/10.1007/s00253-018-9195-y.
+15
+
+T. Matjašič, T. Simčič, N. Medvešček et al.
+
+Science of the Total Environment 752 (2021) 141959
+Alvarez, P.J.J., Criddle, C.S., Wagner, M., Tiedje, J.M., He, Q., Curtis, T.P., Stahl, D.A.,
+Alvarez-Cohen, L., Rittmann, B.E., Wen, X., Zhou, J., Global Water Microbiome, C,
+2019. Global diversity and biogeography of bacterial communities in wastewater
+treatment plants. Nat. Microbiol. 4 (7), 1183–1195. https://doi.org/10.1038/s41564019-0426-5.
+Wu, M., Yang, C., Du, C., Liu, H., 2020. Microplastics in waters and soils: occurrence, analytical methods and ecotoxicological effects. Ecotoxicol. Environ. Saf. 202, 110910.
+https://doi.org/10.1016/j.ecoenv.2020.110910.
+Yang, J., Yang, Y., Wu, W.-M., Zhao, J., Jiang, L., 2014. Evidence of polyethylene biodegradation by bacterial strains from the guts of plastic-eating Waxworms. Environmental
+Science & Technology 48 (23), 13776–13784. https://doi.org/10.1021/es504038a.
+Yang, Y., Yang, J., Wu, W.-M., Zhao, J., Song, Y., Gao, L., Yang, R., Jiang, L., 2015. Biodegradation and Mineralization of Polystyrene by Plastic-Eating Mealworms: Part 2. Role
+of Gut Microorganisms. Environ. Sci. Technol. 49 (20), 12087–12093. https://doi.
+org/10.1021/acs.est.5b02663.
+Yoshida, S., Hiraga, K., Takehana, T., Taniguchi, I., Yamaji, H., Maeda, Y., Toyohara, K.,
+Miyamoto, K., Kimura, Y., Oda, K., 2016. A bacterium that degrades and assimilates
+poly(ethylene terephthalate). Science 351 (6278), 1196–1199. https://doi.org/
+10.1126/science.aad6359.
+Zhang, X., Pi, H., Guo, S., Fu, J., 2016. Inﬂuence of ultraviolet absorbers on the ultravioletirradiation behaviour of rigid poly vinyl chloride. Plastics, Rubber and Composites 45
+(8), 352–361. https://doi.org/10.1080/14658011.2016.1200217.
+Zhang, L., Zhang, S., Guo, J., Yu, K., Wang, Y., Li, R., 2020. Dynamic distribution of
+microplastics in mangrove sediments in Beibu gulf, South China: implications of
+tidal current velocity and tidal range. J. Hazard. Mater. 399, 122849. https://doi.org/
+10.1016/j.jhazmat.2020.122849.
+Zheng, Y., Yanful, E.K., Bassi, A.S., 2005. A review of plastic waste biodegradation. Crit. Rev.
+Biotechnol. 25 (4), 243–250. https://doi.org/10.1080/07388550500346359.
+
+Wang, X., Wang, W., Zhang, Y., Sun, Z., Zhang, J., Chen, G., Li, J., 2019. Simultaneous nitriﬁcation and denitriﬁcation by a novel isolated Pseudomonas sp. JQ-H3 using
+polycaprolactone as carbon source. Bioresour. Technol. 288, 121506. https://doi.org/
+10.1016/j.biortech.2019.121506.
+Wang, Z., Xin, X., Shi, X., Zhang, Y., 2020. A polystyrene-degrading Acinetobacter bacterium isolated from the larvae of Tribolium castaneum. Sci. Total Environ. 726,
+138564. https://doi.org/10.1016/j.scitotenv.2020.138564.
+Wickham, H., 2016. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag, New York.
+Wilkes, R.A., Aristilde, L., 2017. Degradation and metabolism of synthetic plastics and associated products by Pseudomonas sp.: capabilities and challenges. J. Appl. Microbiol.
+123 (3), 582–593. https://doi.org/10.1111/jam.13472.
+Wolkober, Z., Gyarmati, I., Farkas, P., 1978. Effect of soil microorganisms on the biological
+degradation of plasticised PVC. Int. Polym. Sci. Technol. 4 (10).
+Wu, L., Ning, D., Zhang, B., Li, Y., Zhang, P., Shan, X., Zhang, Q., Brown, M., Li, Z., Van
+Nostrand, J.D., Ling, F., Xiao, N., Zhang, Y., Vierheilig, J., Wells, G.F., Yang, Y., Deng, Y.,
+Tu, Q., Wang, A., Acevedo, D., Agullo-Barcelo, M., Alvarez, P.J.J., Alvarez-Cohen, L.,
+Andersen, G.L., de Araujo, J.C., Boehnke, K., Bond, P., Bott, C.B., Bovio, P., Brewster,
+R.K., Bux, F., Cabezas, A., Cabrol, L., Chen, S., Criddle, C.S., Deng, Y., Etchebehere, C.,
+Ford, A., Frigon, D., Gómez, J.S., Grifﬁn, J.S., Gu, A.Z., Habagil, M., Hale, L., Hardeman,
+S.D., Harmon, M., Horn, H., Hu, Z., Jauffur, S., Johnson, D.R., Keller, J., Keucken, A.,
+Kumari, S., Leal, C.D., Lebrun, L.A., Lee, J., Lee, M., Lee, Z.M.P., Li, Y., Li, Z., Li, M., Li, X.,
+Ling, F., Liu, Y., Luthy, R.G., Mendonça-Hagler, L.C., de Menezes, F.G.R., Meyers, A.J.,
+Mohebbi, A., Nielsen, P.H., Ning, D., Oehmen, A., Palmer, A., Parameswaran, P., Park,
+J., Patsch, D., Reginatto, V., de los Reyes, F.L., Rittmann, B.E., Robles, A.N., Rossetti, S.,
+Shan, X., Sidhu, J., Sloan, W.T., Smith, K., de Sousa, O.V., Stahl, D.A., Stephens, K.,
+Tian, R., Tiedje, J.M., Tooker, N.B., Tu, Q., Van Nostrand, J.D., De los Cobos
+Vasconcelos, D., Vierheilig, J., Wagner, M., Wakelin, S., Wang, A., Wang, B., Weaver,
+J.E., Wells, G.F., West, S., Wilmes, P., Woo, S.-G., Wu, L., Wu, J.-H., Wu, L., Xi, C., Xiao,
+N., Xu, M., Yan, T., Yang, Y., Yang, M., Young, M., Yue, H., Zhang, B., Zhang, P., Zhang,
+Q., Zhang, Y., Zhang, T., Zhang, Q., Zhang, W., Zhang, Y., Zhou, H., Zhou, J., Wen, X.,
+Curtis, T.P., He, Q., He, Z., Brown, M., Zhang, T., He, Z., Keller, J., Nielsen, P.H.,
+
+16
+
+
