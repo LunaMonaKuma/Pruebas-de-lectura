@@ -1,0 +1,51 @@
+Table 1. Functional group and its quantified frequencies. 
+Functional group/assignmentWavenumber (cm-1)1. Saturated Aliphatic (alkene/alkyl)a) Methyl (-CH3)Methyl C-H asym./sym. Stretch2970-2950/2880-2860Methyl C-H asym./sym. Bend1470-1430/1380-1370gem-Dimethyl or ''iso''- (doublet)1385-1380/1370-1365Trimethyl or ''tert-butyl'' (multiplet)1395-1385/1365b) Methylene (>CH2)Methylene C-H asym./sym. Stretch2935-2915/2865-2845Methylene C-H bend1485-1445Methylene ?(CH2)n? rocking (n = 3)750-720Cyclohexane ring vibrations1055-1000/1005-925c) Methyne (>CH-)Methyne C-H stretch2900-2880Methyne C-H bend1350-1330Skeletal C-C vibrations1300-700d) Special methyl (-CH3) frequenciesMethoxy, methyl ether O-CH3, C-H stretch2850-2815Methylamino, N-CH3, C-H stretch2820-2780
+
+
+Table 1 (continue). Functional group and its quantified frequencies. 
+Functional group/assignmentWavenumber (cm-1)2. Olefinic (alkene)Alkenyl C=C stretch1680-1620Aryl-substituted C=C1625Conjugated C=C1600Terminal (vinyl) C-H stretch3095-3075
+3040-3010Pendant (vinylidene) C-H stretch3095-3075Medial, cis- or trans-C-H stretch3040-3010Table 1 (continue). Functional group and its quantified frequencies. Data was adopted from
+reference (Coates, 2000)Functional group/assignmentWavenumber (cm-1)Vinyl C-H in-plane bend1420-1410Vinylidene C-H in-plane bend1310-1290Vinyl C-H out-of-plane bend995-985 + 915-890Vinylidene C-H out-of-plane bend895-885trans-C-H out-of-plane bend970-960cis-C-H out-of-plane bend700 (broad)3. Olefinic (alkene)Alkenyl C=C stretch1680-1620Aryl-substituted C=C1625Conjugated C=C1600Terminal (vinyl) C-H stretch3095-3075
+3040-3010Pendant (vinylidene) C-H stretch3095-3075Medial, cis- or trans-C-H stretch3040-3010Vinyl C-H in-plane bend1420-1410Vinylidene C-H in-plane bend1310-1290Vinyl C-H out-of-plane bend995-985 + 915-890Vinylidene C-H out-of-plane bend895-885trans-C-H out-of-plane bend970-960cis-C-H out-of-plane bend700 (broad)4. Aromatic ring (aryl)C=C-C Aromatic ring stretch1615-1580
+1510-1450Aromatic C-H stretch3130-3070Aromatic C-H in-plane bend1225-950 (several)Aromatic C-H out-of-plane bend900-670 (several)C-H Monosubstitution (phenyl)770-730 + 710-690C-H 1,2-Disubstitution (ortho)770-735C-H 1,3-Disubstitution (meta)810-750 + 900-860C-H 1,4-Disubstitution (para)860-800Aromatic combination bands2000-1660 (several)
+
+
+
+	
+
+
+Table 1 (continue). Functional group and its quantified frequencies. 
+Functional group/assignmentWavenumber (cm-1)5. Acetylenic(alkyne)C=C Terminal alkyne (monosubstituted)2140-2100C=C Medial alkyne (disubstituted)2260-2190Alkyne C-H stretch3320-3310Alkyne C-H bend680-610Alkyne C-H bend630 (typical)6. Aliphatic organohalogen compoundAliphatic fluoro compounds, C-F stretch1150-1000Aliphatic chloro compounds, C-Cl stretch800-700Aliphatic bromo compounds, C-Br stretch700-600Aliphatic iodo compounds, C-I stretch600-5007. Alcohol and hydroxy compoundHydroxy group, H-bonded OH stretch3570-3200 (broad)Normal ''polymeric'' OH stretch3400-3200Dimeric OH stretch3550-3450Internally bonded OH stretch3570-3540Nonbonded hydroxy group, OH stretch3645-3600 (narrow)Primary alcohol, OH stretch3645-3630Secondary alcohol, OH stretch3635-3620Tertiary alcohol, OH stretch3620-3540Phenols, OH stretch3640-3530Primary or secondary, OH in-plane bend1350-1260Phenol or tertiary alcohol, OH bend1410-1310Alcohol, OH out-of-plane bend720-590Primary alcohol, C-O stretch~1050Secondary alcohol, C-O stretch~1100Tertiary alcohol, C-O stretch~1150Phenol, C-O stretch~12008.	Ether and oxy compoundMethoxy, C-H stretch (CH3-O-)2820-2810Alkyl-substituted ether, C-O stretch1150-1050Cyclic ethers, large rings, C-O stretch1140-1070Aromatic ethers, aryl -O stretch1270-1230Epoxy and oxirane rings~1250 + 890-8001)Peroxides, C-O-O- stretch890-8201)
+
+
+Table 1 (continue). Functional group and its quantified frequencies. 
+Functional group/assignmentWavenumber (cm-1)9.	Ether and oxy compoundMethoxy, C-H stretch (CH3-O-)2820-2810Alkyl-substituted ether, C-O stretch1150-1050Cyclic ethers, large rings, C-O stretch1140-1070Aromatic ethers, aryl -O stretch1270-1230Epoxy and oxirane rings~1250 + 890-8001)Peroxides, C-O-O- stretch890-8201)a) Primary aminoAliphatic primary amine, NH stretch3400-3380 + 3345-3325Aromatic primary amine, NH stretch3510-3460 + 3415-3380Primary amine, NH bend1650-1590Primary amine, CN stretch1090-1020b) Secondary aminoAliphatic secondary amine, >N-H stretch3360-3310Aromatic secondary amine, >N-H stretch~3450Heterocyclic amine, >N-H stretch3490-3430Imino compounds, =N-H stretch3350-3320Secondary amine, >N-H bend1650-1550Secondary amine, CN stretch1190-1130c) Tertiary aminoTertiary amine, CN stretch1210-1150d) Aromatic aminoAromatic primary amine, CN stretch1340-1250Aromatic secondary amine, CN stretch1350-1280Aromatic tertiary amine, CN stretch1360-131010.Carbonyl compoundCarboxylate (carboxylic acid salt)1610-1550/1420-1300Amide1680-1630Quinone or conjugated ketone1690-1675/(1650-1600)2)Carboxylic acid1725-1700Ketone1725-1705Aldehyde1740-1725/(2800-2700)3)Ester1750-1725Six-membered ring lactone1735Alkyl carbonate1760-1740Acid (acyl) halide1815-1770
+Aryl carbonate1820-1775Five-membered ring anhydride1870-1820/1800-1775Transition metal carbonyls2100-1800
+
+
+Table 1 (continue). Functional group and its quantified frequencies. 
+
+
+
+Functional group/assignmentWavenumber (cm-1)11.Nitrogen multiple and cumulated double bond compoundAliphatic cyanide/nitrile2280-2240
+Aromatic cyanide/nitrile2240-2220Cyanate (-OCN and C-OCN stretch)2260-2240/1190-1080Isocyanate (-N=C=O asym. stretch)2276-2240Thiocyanate (-SCN)2175-2140Isothiocyanate (-NCS)2150-1990Open-chain imino (-C=N-)1690-1590Open-chain azo (-N=N-)1630-157512.Simple hetero-oxy compoundsa) Nitrogen-oxy compoundsAliphatic nitro compounds1560-1540/1380-13504)Organic nitrates1640-1620/1285-12704)Aromatic nitro compounds1555-1485/1355-13204)b) Phosphorus-oxy compoundsOrganic phosphates (P=O stretch)1350-1250Aliphatic phosphates (P-O-C stretch)1050-990Aromatic phosphates (P-O-C stretch)1240-1190/995-850c) Sulfur-oxy compoundsDialkyl/aryl sulfones1335-1300/1170-11354)Organic sulfates1420-1370/1200-11804)Sulfonates1365-1340/1200-11004)d) Silicon-oxy compoundsOrganic siloxane or silicone (Si-O-Si)1095-1075/1055-1020Organic siloxane or silicone (Si-O-C)1110-108013.Thiols and thio-substituted compoundsThiols (S-H stretch)2600-2550Thiol or thioether, CH2-S-(C-S stretch)710-685Thioethers, CH3-S-(C-S stretch)660-630Aryl thioethers, ø-S (C-S stretch)715-670Disulfides (C-S stretch)705-570Disulfides (S-S stretch)620-600Aryl disulfides (S-S stretch)500-430Polysulfides (S-S stretch)500-47014.Common inorganic ionsCarbonate ion1490-1410/880-8605)Sulfate ion1130-1080/680-6105)Nitrate ion1380-1350/840-8155)Phosphate ion1100-1000Ammonium ion3300-3030/1430-13905)Cyanide ion, thiocyanate ion, and related ions2200-2000Silicate ion1100-900
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
